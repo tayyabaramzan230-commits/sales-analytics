@@ -1,0 +1,1001 @@
+TransactionID,Date,Year,Month,Branch,City,Category,Subcategory,Product,Quantity,UnitPrice,GrossSales,DiscountPct,DiscountAmt,NetSales,BranchShort,MonthNum,YearMonth,Quarter,Weekday,IsWeekend,Discounted,DiscountBand,TicketBand
+TXN-00162,2023-01-02,2023,January,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Mustard Oil 1L,3,850,2550,0.0,0.0,2550.0,MM Alam,1,2023-01-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00075,2023-01-03,2023,January,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Kajal Pencil,1,400,400,0.0,0.0,400.0,Latifabad,1,2023-01-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00675,2023-01-03,2023,January,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Broken Rice 2kg,6,1800,10800,0.0,0.0,10800.0,MM Alam,1,2023-01-01,Q1,Tuesday,False,False,No discount,5k-20k
+TXN-00984,2023-01-05,2023,January,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Bluetooth Speaker,1,52500,52500,0.0,0.0,52500.0,Tariq Road,1,2023-01-01,Q1,Thursday,False,False,No discount,Over 20k
+TXN-00782,2023-01-06,2023,January,Karachi - Tariq Road,Karachi,Apparel,Footwear,School Shoes (Kids),1,4150,4150,0.0,0.0,4150.0,Tariq Road,1,2023-01-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00083,2023-01-07,2023,January,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Wheat Flour 5kg,3,380,1140,0.0,0.0,1140.0,Tariq Road,1,2023-01-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00420,2023-01-07,2023,January,Hyderabad - Latifabad,Hyderabad,Bakery,Breads,White Bread Loaf,5,1050,5250,0.0,0.0,5250.0,Latifabad,1,2023-01-01,Q1,Saturday,True,False,No discount,5k-20k
+TXN-00439,2023-01-08,2023,January,Islamabad - F-7,Islamabad,Household,Laundry,Detergent Powder 3kg,4,2250,9000,0.034,306.0,8694.0,F-7,1,2023-01-01,Q1,Sunday,True,True,Up to 5%,5k-20k
+TXN-00533,2023-01-08,2023,January,Lahore - MM Alam,Lahore,Cosmetics,Personal Care,Conditioner 200ml,2,1400,2800,0.0,0.0,2800.0,MM Alam,1,2023-01-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00112,2023-01-09,2023,January,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Oranges 1kg,4,300,1200,0.0,0.0,1200.0,MM Alam,1,2023-01-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00246,2023-01-09,2023,January,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Night Cream 30ml,1,4500,4500,0.0,0.0,4500.0,Tariq Road,1,2023-01-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00612,2023-01-09,2023,January,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Bluetooth Speaker,1,5500,5500,0.144,791.9999999999999,4708.0,Tariq Road,1,2023-01-01,Q1,Monday,False,True,10-20%,1k-5k
+TXN-00273,2023-01-10,2023,January,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Mangoes 1kg,8,1150,9200,0.017,156.4,9043.6,Latifabad,1,2023-01-01,Q1,Tuesday,False,True,Up to 5%,5k-20k
+TXN-00913,2023-01-10,2023,January,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Grapes 500g,8,150,1200,0.0,0.0,1200.0,Latifabad,1,2023-01-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00923,2023-01-10,2023,January,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Wired Headphones,1,23000,23000,0.0,0.0,23000.0,Tariq Road,1,2023-01-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00243,2023-01-11,2023,January,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Stain Remover 500ml,5,1000,5000,0.081,405.0,4595.0,Latifabad,1,2023-01-01,Q1,Wednesday,False,True,5-10%,1k-5k
+TXN-00432,2023-01-11,2023,January,Islamabad - F-7,Islamabad,Household,Cleaning Supplies,Surface Cleaner 750ml,1,900,900,0.048,43.2,856.8,F-7,1,2023-01-01,Q1,Wednesday,False,True,Up to 5%,Under 1k
+TXN-00457,2023-01-11,2023,January,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Wired Headphones,1,26000,26000,0.0,0.0,26000.0,Tariq Road,1,2023-01-01,Q1,Wednesday,False,False,No discount,Over 20k
+TXN-00137,2023-01-12,2023,January,Karachi - Tariq Road,Karachi,Apparel,Men's Wear,Casual Shirt,2,4650,9300,0.0,0.0,9300.0,Tariq Road,1,2023-01-01,Q1,Thursday,False,False,No discount,5k-20k
+TXN-00431,2023-01-13,2023,January,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Carrots 500g,4,1100,4400,0.013,57.199999999999996,4342.8,F-7,1,2023-01-01,Q1,Friday,False,True,Up to 5%,1k-5k
+TXN-00141,2023-01-14,2023,January,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Cartoon Plush Toy,1,1800,1800,0.0,0.0,1800.0,Latifabad,1,2023-01-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00194,2023-01-15,2023,January,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Bananas 1 dozen,10,700,7000,0.0,0.0,7000.0,F-7,1,2023-01-01,Q1,Sunday,True,False,No discount,5k-20k
+TXN-00498,2023-01-16,2023,January,Lahore - MM Alam,Lahore,Household,Laundry,Fabric Softener 2L,1,3500,3500,0.012,42.0,3458.0,MM Alam,1,2023-01-01,Q1,Monday,False,True,Up to 5%,1k-5k
+TXN-00722,2023-01-16,2023,January,Karachi - Tariq Road,Karachi,Toys,Board Games,Chess Set,1,1450,1450,0.0,0.0,1450.0,Tariq Road,1,2023-01-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00505,2023-01-17,2023,January,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Fresh Milk 1L,2,1000,2000,0.0,0.0,2000.0,MM Alam,1,2023-01-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00728,2023-01-17,2023,January,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,3,1000,3000,0.0,0.0,3000.0,Latifabad,1,2023-01-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00426,2023-01-19,2023,January,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Moong Dal 1kg,1,1000,1000,0.0,0.0,1000.0,MM Alam,1,2023-01-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00946,2023-01-20,2023,January,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Breakfast Cereal 500g,2,230,460,0.0,0.0,460.0,F-7,1,2023-01-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00396,2023-01-21,2023,January,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Wireless Earbuds,1,43000,43000,0.0,0.0,43000.0,Tariq Road,1,2023-01-01,Q1,Saturday,True,False,No discount,Over 20k
+TXN-00824,2023-01-21,2023,January,Karachi - Tariq Road,Karachi,Toys,Action Figures,Soldier Set,1,3500,3500,0.215,752.5,2747.5,Tariq Road,1,2023-01-01,Q1,Saturday,True,True,Over 20%,1k-5k
+TXN-00264,2023-01-23,2023,January,Hyderabad - Latifabad,Hyderabad,Electronics,Mobiles & Tablets,Tablet 10-inch,1,59000,59000,0.0,0.0,59000.0,Latifabad,1,2023-01-01,Q1,Monday,False,False,No discount,Over 20k
+TXN-00920,2023-01-23,2023,January,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Mixed Beans 500g,1,500,500,0.047,23.5,476.5,MM Alam,1,2023-01-01,Q1,Monday,False,True,Up to 5%,Under 1k
+TXN-00361,2023-01-24,2023,January,Hyderabad - Latifabad,Hyderabad,Household,Cleaning Supplies,Surface Cleaner 750ml,1,950,950,0.0,0.0,950.0,Latifabad,1,2023-01-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00654,2023-01-25,2023,January,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Embroidered Kurti,1,6000,6000,0.0,0.0,6000.0,Latifabad,1,2023-01-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00875,2023-01-25,2023,January,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),1,600,600,0.063,37.8,562.2,Tariq Road,1,2023-01-01,Q1,Wednesday,False,True,5-10%,Under 1k
+TXN-00532,2023-01-28,2023,January,Islamabad - F-7,Islamabad,Apparel,Women's Wear,Abaya,1,4950,4950,0.111,549.45,4400.55,F-7,1,2023-01-01,Q1,Saturday,True,True,10-20%,1k-5k
+TXN-00690,2023-01-30,2023,January,Islamabad - F-7,Islamabad,Electronics,Small Appliances,Microwave Oven,2,22500,45000,0.0,0.0,45000.0,F-7,1,2023-01-01,Q1,Monday,False,False,No discount,Over 20k
+TXN-00256,2023-01-31,2023,January,Islamabad - F-7,Islamabad,Household,Cleaning Supplies,Surface Cleaner 750ml,2,2850,5700,0.014,79.8,5620.2,F-7,1,2023-01-01,Q1,Tuesday,False,True,Up to 5%,5k-20k
+TXN-00825,2023-01-31,2023,January,Karachi - Tariq Road,Karachi,Groceries,Cooking Oil,Mustard Oil 1L,3,1150,3450,0.016,55.2,3394.8,Tariq Road,1,2023-01-01,Q1,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00208,2023-02-03,2023,February,Hyderabad - Latifabad,Hyderabad,Toys,Action Figures,Robot Toy,1,1300,1300,0.0,0.0,1300.0,Latifabad,2,2023-02-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00917,2023-02-04,2023,February,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Embroidered Kurti,1,2000,2000,0.099,198.0,1802.0,Latifabad,2,2023-02-01,Q1,Saturday,True,True,5-10%,1k-5k
+TXN-00792,2023-02-05,2023,February,Islamabad - F-7,Islamabad,Household,Laundry,Stain Remover 500ml,1,1600,1600,0.018,28.799999999999997,1571.2,F-7,2,2023-02-01,Q1,Sunday,True,True,Up to 5%,1k-5k
+TXN-00901,2023-02-05,2023,February,Lahore - MM Alam,Lahore,Toys,Educational,Alphabet Block Set,2,4300,8600,0.289,2485.3999999999996,6114.6,MM Alam,2,2023-02-01,Q1,Sunday,True,True,Over 20%,5k-20k
+TXN-00049,2023-02-08,2023,February,Karachi - Tariq Road,Karachi,Apparel,Kids Wear,Kids Jeans,1,2200,2200,0.196,431.2,1768.8,Tariq Road,2,2023-02-01,Q1,Wednesday,False,True,10-20%,1k-5k
+TXN-00930,2023-02-08,2023,February,Lahore - MM Alam,Lahore,Groceries,Beverages,Tea Pack 500g,8,1500,12000,0.038,456.0,11544.0,MM Alam,2,2023-02-01,Q1,Wednesday,False,True,Up to 5%,5k-20k
+TXN-00449,2023-02-09,2023,February,Islamabad - F-7,Islamabad,Toys,Action Figures,Dinosaur Set,1,2050,2050,0.0,0.0,2050.0,F-7,2,2023-02-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00565,2023-02-09,2023,February,Karachi - Tariq Road,Karachi,Electronics,Small Appliances,Sandwich Maker,2,36500,73000,0.0,0.0,73000.0,Tariq Road,2,2023-02-01,Q1,Thursday,False,False,No discount,Over 20k
+TXN-00757,2023-02-09,2023,February,Lahore - MM Alam,Lahore,Toys,Action Figures,Soldier Set,1,3450,3450,0.0,0.0,3450.0,MM Alam,2,2023-02-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00593,2023-02-10,2023,February,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Sound Bar,1,26000,26000,0.0,0.0,26000.0,Tariq Road,2,2023-02-01,Q1,Friday,False,False,No discount,Over 20k
+TXN-00815,2023-02-11,2023,February,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Potatoes 1kg,8,800,6400,0.023,147.2,6252.8,F-7,2,2023-02-01,Q1,Saturday,True,True,Up to 5%,5k-20k
+TXN-00924,2023-02-11,2023,February,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Feature Phone,1,13000,13000,0.0,0.0,13000.0,F-7,2,2023-02-01,Q1,Saturday,True,False,No discount,5k-20k
+TXN-00852,2023-02-13,2023,February,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Smartphone 64GB,1,4950,4950,0.091,450.45,4499.55,MM Alam,2,2023-02-01,Q1,Monday,False,True,5-10%,1k-5k
+TXN-00150,2023-02-14,2023,February,Karachi - Tariq Road,Karachi,Groceries,Beverages,Cola 2.25L,1,410,410,0.0,0.0,410.0,Tariq Road,2,2023-02-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00338,2023-02-14,2023,February,Islamabad - F-7,Islamabad,Apparel,Men's Wear,T-Shirt (Pack of 2),1,4900,4900,0.194,950.6,3949.4,F-7,2,2023-02-01,Q1,Tuesday,False,True,10-20%,1k-5k
+TXN-00027,2023-02-17,2023,February,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Chana Dal 1kg,5,1900,9500,0.047,446.5,9053.5,F-7,2,2023-02-01,Q1,Friday,False,True,Up to 5%,5k-20k
+TXN-00039,2023-02-17,2023,February,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Casual Shirt,1,6000,6000,0.0,0.0,6000.0,MM Alam,2,2023-02-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00085,2023-02-19,2023,February,Islamabad - F-7,Islamabad,Apparel,Footwear,School Shoes (Kids),1,2850,2850,0.0,0.0,2850.0,F-7,2,2023-02-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00216,2023-02-19,2023,February,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Smartphone 64GB,1,24500,24500,0.0,0.0,24500.0,MM Alam,2,2023-02-01,Q1,Sunday,True,False,No discount,Over 20k
+TXN-00360,2023-02-21,2023,February,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Denim Jeans,1,4950,4950,0.0,0.0,4950.0,MM Alam,2,2023-02-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00878,2023-02-21,2023,February,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Tomatoes 1kg,6,1100,6600,0.0,0.0,6600.0,Tariq Road,2,2023-02-01,Q1,Tuesday,False,False,No discount,5k-20k
+TXN-00753,2023-02-22,2023,February,Islamabad - F-7,Islamabad,Apparel,Men's Wear,T-Shirt (Pack of 2),1,5500,5500,0.0,0.0,5500.0,F-7,2,2023-02-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00004,2023-02-24,2023,February,Lahore - MM Alam,Lahore,Household,Laundry,Liquid Detergent 2L,2,3950,7900,0.077,608.3,7291.7,MM Alam,2,2023-02-01,Q1,Friday,False,True,5-10%,5k-20k
+TXN-00148,2023-02-24,2023,February,Lahore - MM Alam,Lahore,Bakery,Cakes & Pastries,Vanilla Cake 500g,1,1050,1050,0.0,0.0,1050.0,MM Alam,2,2023-02-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00742,2023-02-24,2023,February,Lahore - MM Alam,Lahore,Bakery,Savoury,Roll Paratha Pack,2,1800,3600,0.0,0.0,3600.0,MM Alam,2,2023-02-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00238,2023-02-25,2023,February,Lahore - MM Alam,Lahore,Household,Home Essentials,Bath Towel,1,210,210,0.0,0.0,210.0,MM Alam,2,2023-02-01,Q1,Saturday,True,False,No discount,Under 1k
+TXN-00526,2023-02-25,2023,February,Lahore - MM Alam,Lahore,Bakery,Breads,Bread Sticks,1,230,230,0.013,2.9899999999999998,227.01,MM Alam,2,2023-02-01,Q1,Saturday,True,True,Up to 5%,Under 1k
+TXN-00975,2023-03-01,2023,March,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Pizza Base (2pc),1,230,230,0.0,0.0,230.0,Latifabad,3,2023-03-01,Q1,Wednesday,False,False,No discount,Under 1k
+TXN-00992,2023-03-01,2023,March,Lahore - MM Alam,Lahore,Bakery,Savoury,Pizza Base (2pc),2,650,1300,0.03,39.0,1261.0,MM Alam,3,2023-03-01,Q1,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00504,2023-03-02,2023,March,Islamabad - F-7,Islamabad,Apparel,Footwear,Sneakers (Men),1,2600,2600,0.0,0.0,2600.0,F-7,3,2023-03-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00893,2023-03-03,2023,March,Karachi - Tariq Road,Karachi,Apparel,Footwear,Slippers Pair,2,1600,3200,0.0,0.0,3200.0,Tariq Road,3,2023-03-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00867,2023-03-04,2023,March,Lahore - MM Alam,Lahore,Cosmetics,Personal Care,Body Wash 500ml,1,3550,3550,0.0,0.0,3550.0,MM Alam,3,2023-03-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00193,2023-03-05,2023,March,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Broken Rice 2kg,10,600,6000,0.034,204.00000000000003,5796.0,Latifabad,3,2023-03-01,Q1,Sunday,True,True,Up to 5%,5k-20k
+TXN-00496,2023-03-05,2023,March,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Detergent Powder 3kg,1,3350,3350,0.01,33.5,3316.5,Latifabad,3,2023-03-01,Q1,Sunday,True,True,Up to 5%,1k-5k
+TXN-00103,2023-03-06,2023,March,Karachi - Tariq Road,Karachi,Apparel,Men's Wear,Denim Jeans,2,2150,4300,0.0,0.0,4300.0,Tariq Road,3,2023-03-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00124,2023-03-07,2023,March,Islamabad - F-7,Islamabad,Groceries,Spices,Garam Masala 100g,5,1950,9750,0.023,224.25,9525.75,F-7,3,2023-03-01,Q1,Tuesday,False,True,Up to 5%,5k-20k
+TXN-00750,2023-03-07,2023,March,Karachi - Tariq Road,Karachi,Bakery,Breads,Brown Bread Loaf,8,1250,10000,0.096,960.0,9040.0,Tariq Road,3,2023-03-01,Q1,Tuesday,False,True,5-10%,5k-20k
+TXN-00857,2023-03-07,2023,March,Hyderabad - Latifabad,Hyderabad,Household,Kitchenware,Stainless Steel Pot,1,3950,3950,0.11,434.5,3515.5,Latifabad,3,2023-03-01,Q1,Tuesday,False,True,10-20%,1k-5k
+TXN-00561,2023-03-08,2023,March,Islamabad - F-7,Islamabad,Bakery,Savoury,Pizza Base (2pc),2,270,540,0.0,0.0,540.0,F-7,3,2023-03-01,Q1,Wednesday,False,False,No discount,Under 1k
+TXN-00705,2023-03-09,2023,March,Lahore - MM Alam,Lahore,Cosmetics,Makeup,Lipstick,1,850,850,0.052,44.199999999999996,805.8,MM Alam,3,2023-03-01,Q1,Thursday,False,True,5-10%,Under 1k
+TXN-00045,2023-03-10,2023,March,Hyderabad - Latifabad,Hyderabad,Cosmetics,Skincare,Night Cream 30ml,2,3100,6200,0.095,589.0,5611.0,Latifabad,3,2023-03-01,Q1,Friday,False,True,5-10%,5k-20k
+TXN-00662,2023-03-10,2023,March,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Masoor Dal 1kg,2,150,300,0.045,13.5,286.5,MM Alam,3,2023-03-01,Q1,Friday,False,True,Up to 5%,Under 1k
+TXN-00348,2023-03-11,2023,March,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Wheat Flour 5kg,1,550,550,0.0,0.0,550.0,Tariq Road,3,2023-03-01,Q1,Saturday,True,False,No discount,Under 1k
+TXN-00095,2023-03-15,2023,March,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Bananas 1 dozen,2,550,1100,0.043,47.3,1052.7,MM Alam,3,2023-03-01,Q1,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00691,2023-03-15,2023,March,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Soft Toy (Big),1,4500,4500,0.173,778.4999999999999,3721.5,Latifabad,3,2023-03-01,Q1,Wednesday,False,True,10-20%,1k-5k
+TXN-00584,2023-03-17,2023,March,Karachi - Tariq Road,Karachi,Apparel,Women's Wear,Abaya,2,1400,2800,0.0,0.0,2800.0,Tariq Road,3,2023-03-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00235,2023-03-20,2023,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Tomatoes 1kg,5,600,3000,0.0,0.0,3000.0,Latifabad,3,2023-03-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00599,2023-03-20,2023,March,Lahore - MM Alam,Lahore,Bakery,Breads,Brown Bread Loaf,3,1350,4050,0.0,0.0,4050.0,MM Alam,3,2023-03-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00259,2023-03-22,2023,March,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Vanilla Cake 500g,3,650,1950,0.082,159.9,1790.1,F-7,3,2023-03-01,Q1,Wednesday,False,True,5-10%,1k-5k
+TXN-00060,2023-03-23,2023,March,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Butter 200g,6,1100,6600,0.0,0.0,6600.0,F-7,3,2023-03-01,Q1,Thursday,False,False,No discount,5k-20k
+TXN-00585,2023-03-23,2023,March,Lahore - MM Alam,Lahore,Bakery,Savoury,Roll Paratha Pack,10,800,8000,0.0,0.0,8000.0,MM Alam,3,2023-03-01,Q1,Thursday,False,False,No discount,5k-20k
+TXN-00499,2023-03-25,2023,March,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Embroidered Kurti,1,4850,4850,0.073,354.04999999999995,4495.95,MM Alam,3,2023-03-01,Q1,Saturday,True,True,5-10%,1k-5k
+TXN-00890,2023-03-27,2023,March,Karachi - Tariq Road,Karachi,Groceries,Spices,Red Chilli Powder 200g,2,240,480,0.009,4.319999999999999,475.68,Tariq Road,3,2023-03-01,Q1,Monday,False,True,Up to 5%,Under 1k
+TXN-00311,2023-03-29,2023,March,Islamabad - F-7,Islamabad,Groceries,Beverages,Cola 2.25L,4,1750,7000,0.0,0.0,7000.0,F-7,3,2023-03-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00514,2023-03-29,2023,March,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Feature Phone,1,54500,54500,0.112,6104.0,48396.0,MM Alam,3,2023-03-01,Q1,Wednesday,False,True,10-20%,Over 20k
+TXN-00874,2023-03-29,2023,March,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids T-Shirt,1,3100,3100,0.0,0.0,3100.0,F-7,3,2023-03-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00683,2023-03-31,2023,March,Islamabad - F-7,Islamabad,Bakery,Savoury,Patties Pack (6pc),4,260,1040,0.054,56.16,983.84,F-7,3,2023-03-01,Q1,Friday,False,True,5-10%,Under 1k
+TXN-00491,2023-04-01,2023,April,Karachi - Tariq Road,Karachi,Groceries,Packaged Foods,Noodles Family Pack,1,950,950,0.033,31.35,918.65,Tariq Road,4,2023-04-01,Q2,Saturday,True,True,Up to 5%,Under 1k
+TXN-00813,2023-04-01,2023,April,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Sella Rice 10kg,2,2450,4900,0.048,235.20000000000002,4664.8,Tariq Road,4,2023-04-01,Q2,Saturday,True,True,Up to 5%,1k-5k
+TXN-00941,2023-04-01,2023,April,Karachi - Tariq Road,Karachi,Cosmetics,Fragrances,Body Mist 200ml,1,3800,3800,0.0,0.0,3800.0,Tariq Road,4,2023-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00359,2023-04-02,2023,April,Karachi - Tariq Road,Karachi,Bakery,Savoury,Samosa Pack (12pc),6,850,5100,0.0,0.0,5100.0,Tariq Road,4,2023-04-01,Q2,Sunday,True,False,No discount,5k-20k
+TXN-00826,2023-04-02,2023,April,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Spinach 500g,2,950,1900,0.032,60.800000000000004,1839.2,Latifabad,4,2023-04-01,Q2,Sunday,True,True,Up to 5%,1k-5k
+TXN-00881,2023-04-02,2023,April,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Mixed Beans 500g,2,1400,2800,0.073,204.39999999999998,2595.6,F-7,4,2023-04-01,Q2,Sunday,True,True,5-10%,1k-5k
+TXN-00474,2023-04-05,2023,April,Islamabad - F-7,Islamabad,Groceries,Spices,Red Chilli Powder 200g,1,1950,1950,0.0,0.0,1950.0,F-7,4,2023-04-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00494,2023-04-05,2023,April,Karachi - Tariq Road,Karachi,Household,Home Essentials,Bed Sheet Set,1,600,600,0.0,0.0,600.0,Tariq Road,4,2023-04-01,Q2,Wednesday,False,False,No discount,Under 1k
+TXN-00066,2023-04-07,2023,April,Lahore - MM Alam,Lahore,Cosmetics,Personal Care,Hair Oil 200ml,1,1650,1650,0.127,209.55,1440.45,MM Alam,4,2023-04-01,Q2,Friday,False,True,10-20%,1k-5k
+TXN-00582,2023-04-08,2023,April,Lahore - MM Alam,Lahore,Cosmetics,Skincare,Face Wash 150ml,2,3750,7500,0.0,0.0,7500.0,MM Alam,4,2023-04-01,Q2,Saturday,True,False,No discount,5k-20k
+TXN-00936,2023-04-08,2023,April,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Yogurt 1kg,4,1050,4200,0.0,0.0,4200.0,MM Alam,4,2023-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00412,2023-04-09,2023,April,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Chocolate Cake 500g,2,1700,3400,0.0,0.0,3400.0,Tariq Road,4,2023-04-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-01000,2023-04-09,2023,April,Karachi - Tariq Road,Karachi,Toys,Action Figures,Robot Toy,1,1550,1550,0.0,0.0,1550.0,Tariq Road,4,2023-04-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00262,2023-04-10,2023,April,Lahore - MM Alam,Lahore,Household,Kitchenware,Cutlery Set (12pc),1,230,230,0.0,0.0,230.0,MM Alam,4,2023-04-01,Q2,Monday,False,False,No discount,Under 1k
+TXN-00842,2023-04-10,2023,April,Islamabad - F-7,Islamabad,Bakery,Breads,Brown Bread Loaf,1,1500,1500,0.0,0.0,1500.0,F-7,4,2023-04-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00947,2023-04-10,2023,April,Islamabad - F-7,Islamabad,Cosmetics,Fragrances,Body Mist 200ml,2,800,1600,0.012,19.2,1580.8,F-7,4,2023-04-01,Q2,Monday,False,True,Up to 5%,1k-5k
+TXN-00003,2023-04-11,2023,April,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Onions 1kg,4,700,2800,0.0,0.0,2800.0,Latifabad,4,2023-04-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00300,2023-04-11,2023,April,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Cotton Shalwar Kameez,4,3750,15000,0.0,0.0,15000.0,F-7,4,2023-04-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00068,2023-04-16,2023,April,Karachi - Tariq Road,Karachi,Electronics,Mobiles & Tablets,Tablet 10-inch,1,63500,63500,0.0,0.0,63500.0,Tariq Road,4,2023-04-01,Q2,Sunday,True,False,No discount,Over 20k
+TXN-00236,2023-04-19,2023,April,Islamabad - F-7,Islamabad,Electronics,Audio & Accessories,Sound Bar,2,83500,167000,0.146,24382.0,142618.0,F-7,4,2023-04-01,Q2,Wednesday,False,True,10-20%,Over 20k
+TXN-00144,2023-04-21,2023,April,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Bluetooth Speaker,1,60000,60000,0.0,0.0,60000.0,MM Alam,4,2023-04-01,Q2,Friday,False,False,No discount,Over 20k
+TXN-00025,2023-04-22,2023,April,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Wireless Earbuds,1,48000,48000,0.0,0.0,48000.0,MM Alam,4,2023-04-01,Q2,Saturday,True,False,No discount,Over 20k
+TXN-00765,2023-04-22,2023,April,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Fresh Milk 1L,1,1000,1000,0.0,0.0,1000.0,F-7,4,2023-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00481,2023-04-24,2023,April,Karachi - Tariq Road,Karachi,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,4,850,3400,0.013,44.199999999999996,3355.8,Tariq Road,4,2023-04-01,Q2,Monday,False,True,Up to 5%,1k-5k
+TXN-00100,2023-04-25,2023,April,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Noodles Family Pack,2,1450,2900,0.014,40.6,2859.4,Latifabad,4,2023-04-01,Q2,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00458,2023-04-25,2023,April,Lahore - MM Alam,Lahore,Fresh Produce,Meat & Poultry,Whole Chicken 1.5kg,5,700,3500,0.003,10.5,3489.5,MM Alam,4,2023-04-01,Q2,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00755,2023-04-25,2023,April,Islamabad - F-7,Islamabad,Electronics,Gadgets,Phone Case Set,1,24500,24500,0.0,0.0,24500.0,F-7,4,2023-04-01,Q2,Tuesday,False,False,No discount,Over 20k
+TXN-00865,2023-04-25,2023,April,Islamabad - F-7,Islamabad,Household,Laundry,Detergent Powder 3kg,1,950,950,0.0,0.0,950.0,F-7,4,2023-04-01,Q2,Tuesday,False,False,No discount,Under 1k
+TXN-00968,2023-04-25,2023,April,Lahore - MM Alam,Lahore,Bakery,Savoury,Samosa Pack (12pc),1,1500,1500,0.0,0.0,1500.0,MM Alam,4,2023-04-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00303,2023-04-26,2023,April,Lahore - MM Alam,Lahore,Apparel,Footwear,Slippers Pair,1,3550,3550,0.0,0.0,3550.0,MM Alam,4,2023-04-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00774,2023-04-27,2023,April,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Mangoes 1kg,8,1100,8800,0.001,8.8,8791.2,Latifabad,4,2023-04-01,Q2,Thursday,False,True,Up to 5%,5k-20k
+TXN-00539,2023-04-28,2023,April,Lahore - MM Alam,Lahore,Groceries,Spices,Coriander Powder 200g,1,350,350,0.0,0.0,350.0,MM Alam,4,2023-04-01,Q2,Friday,False,False,No discount,Under 1k
+TXN-00308,2023-04-29,2023,April,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Apples 1kg,2,420,840,0.0,0.0,840.0,F-7,4,2023-04-01,Q2,Saturday,True,False,No discount,Under 1k
+TXN-00460,2023-04-29,2023,April,Hyderabad - Latifabad,Hyderabad,Household,Kitchenware,Stainless Steel Pot,1,3850,3850,0.0,0.0,3850.0,Latifabad,4,2023-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00055,2023-05-01,2023,May,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Eggs (Tray of 30),2,1100,2200,0.0,0.0,2200.0,MM Alam,5,2023-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00678,2023-05-02,2023,May,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Wired Headphones,1,63500,63500,0.0,0.0,63500.0,Tariq Road,5,2023-05-01,Q2,Tuesday,False,False,No discount,Over 20k
+TXN-00838,2023-05-05,2023,May,Islamabad - F-7,Islamabad,Household,Kitchenware,Non-stick Pan,1,2650,2650,0.101,267.65000000000003,2382.35,F-7,5,2023-05-01,Q2,Friday,False,True,10-20%,1k-5k
+TXN-00973,2023-05-05,2023,May,Karachi - Tariq Road,Karachi,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,8,850,6800,0.0,0.0,6800.0,Tariq Road,5,2023-05-01,Q2,Friday,False,False,No discount,5k-20k
+TXN-00266,2023-05-07,2023,May,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Stem Kit,1,3300,3300,0.0,0.0,3300.0,Latifabad,5,2023-05-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00586,2023-05-07,2023,May,Islamabad - F-7,Islamabad,Household,Laundry,Stain Remover 500ml,2,1850,3700,0.0,0.0,3700.0,F-7,5,2023-05-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00081,2023-05-09,2023,May,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Grapes 500g,8,1150,9200,0.0,0.0,9200.0,F-7,5,2023-05-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00345,2023-05-09,2023,May,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Tablet 10-inch,1,19000,19000,0.0,0.0,19000.0,MM Alam,5,2023-05-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00375,2023-05-10,2023,May,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Basmati Rice 5kg,2,1850,3700,0.0,0.0,3700.0,F-7,5,2023-05-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00989,2023-05-10,2023,May,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Hair Oil 200ml,1,3950,3950,0.0,0.0,3950.0,F-7,5,2023-05-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00042,2023-05-12,2023,May,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Yogurt 1kg,5,310,1550,0.0,0.0,1550.0,Tariq Road,5,2023-05-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00301,2023-05-13,2023,May,Lahore - MM Alam,Lahore,Toys,Action Figures,Dinosaur Set,1,370,370,0.215,79.55,290.45,MM Alam,5,2023-05-01,Q2,Saturday,True,True,Over 20%,Under 1k
+TXN-00709,2023-05-17,2023,May,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Breakfast Cereal 500g,1,600,600,0.0,0.0,600.0,Latifabad,5,2023-05-01,Q2,Wednesday,False,False,No discount,Under 1k
+TXN-00484,2023-05-18,2023,May,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Teddy Bear Medium,1,3700,3700,0.0,0.0,3700.0,Tariq Road,5,2023-05-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00331,2023-05-19,2023,May,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Wired Headphones,1,30500,30500,0.0,0.0,30500.0,Latifabad,5,2023-05-01,Q2,Friday,False,False,No discount,Over 20k
+TXN-00346,2023-05-20,2023,May,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Lawn Suit (3pc),1,2600,2600,0.193,501.8,2098.2,MM Alam,5,2023-05-01,Q2,Saturday,True,True,10-20%,1k-5k
+TXN-00069,2023-05-21,2023,May,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Carrots 500g,3,450,1350,0.024,32.4,1317.6,MM Alam,5,2023-05-01,Q2,Sunday,True,True,Up to 5%,1k-5k
+TXN-00640,2023-05-26,2023,May,Islamabad - F-7,Islamabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,6,140,840,0.047,39.48,800.52,F-7,5,2023-05-01,Q2,Friday,False,True,Up to 5%,Under 1k
+TXN-00347,2023-05-30,2023,May,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Chana Dal 1kg,8,2300,18400,0.0,0.0,18400.0,Tariq Road,5,2023-05-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00040,2023-05-31,2023,May,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Broken Rice 2kg,8,1750,14000,0.0,0.0,14000.0,MM Alam,5,2023-05-01,Q2,Wednesday,False,False,No discount,5k-20k
+TXN-00849,2023-05-31,2023,May,Lahore - MM Alam,Lahore,Electronics,Gadgets,USB Cable Type-C,1,30500,30500,0.0,0.0,30500.0,MM Alam,5,2023-05-01,Q2,Wednesday,False,False,No discount,Over 20k
+TXN-00146,2023-06-02,2023,June,Islamabad - F-7,Islamabad,Toys,Action Figures,Robot Toy,1,340,340,0.203,69.02000000000001,270.98,F-7,6,2023-06-01,Q2,Friday,False,True,Over 20%,Under 1k
+TXN-00410,2023-06-03,2023,June,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Shampoo 400ml,1,2250,2250,0.064,144.0,2106.0,Latifabad,6,2023-06-01,Q2,Saturday,True,True,5-10%,1k-5k
+TXN-00944,2023-06-03,2023,June,Hyderabad - Latifabad,Hyderabad,Electronics,Mobiles & Tablets,Smartphone 64GB,1,9000,9000,0.051,458.99999999999994,8541.0,Latifabad,6,2023-06-01,Q2,Saturday,True,True,5-10%,5k-20k
+TXN-00958,2023-06-03,2023,June,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Masoor Dal 1kg,5,800,4000,0.057,228.0,3772.0,MM Alam,6,2023-06-01,Q2,Saturday,True,True,5-10%,1k-5k
+TXN-00149,2023-06-05,2023,June,Karachi - Tariq Road,Karachi,Cosmetics,Personal Care,Conditioner 200ml,1,1850,1850,0.144,266.4,1583.6,Tariq Road,6,2023-06-01,Q2,Monday,False,True,10-20%,1k-5k
+TXN-00094,2023-06-06,2023,June,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,1,270,270,0.0,0.0,270.0,Latifabad,6,2023-06-01,Q2,Tuesday,False,False,No discount,Under 1k
+TXN-00669,2023-06-06,2023,June,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Geography Globe,1,1350,1350,0.235,317.25,1032.75,Latifabad,6,2023-06-01,Q2,Tuesday,False,True,Over 20%,1k-5k
+TXN-00245,2023-06-07,2023,June,Islamabad - F-7,Islamabad,Household,Kitchenware,Glass Set (6pc),3,3050,9150,0.0,0.0,9150.0,F-7,6,2023-06-01,Q2,Wednesday,False,False,No discount,5k-20k
+TXN-00821,2023-06-07,2023,June,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Breakfast Cereal 500g,1,290,290,0.0,0.0,290.0,F-7,6,2023-06-01,Q2,Wednesday,False,False,No discount,Under 1k
+TXN-00292,2023-06-10,2023,June,Lahore - MM Alam,Lahore,Toys,Board Games,Chess Set,1,360,360,0.075,27.0,333.0,MM Alam,6,2023-06-01,Q2,Saturday,True,True,5-10%,Under 1k
+TXN-00181,2023-06-13,2023,June,Islamabad - F-7,Islamabad,Bakery,Breads,Brown Bread Loaf,8,900,7200,0.0,0.0,7200.0,F-7,6,2023-06-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00355,2023-06-16,2023,June,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Mangoes 1kg,10,950,9500,0.0,0.0,9500.0,Latifabad,6,2023-06-01,Q2,Friday,False,False,No discount,5k-20k
+TXN-00598,2023-06-16,2023,June,Karachi - Tariq Road,Karachi,Household,Cleaning Supplies,Dishwash Liquid 1L,3,3750,11250,0.0,0.0,11250.0,Tariq Road,6,2023-06-01,Q2,Friday,False,False,No discount,5k-20k
+TXN-00408,2023-06-17,2023,June,Islamabad - F-7,Islamabad,Bakery,Savoury,Samosa Pack (12pc),5,1000,5000,0.0,0.0,5000.0,F-7,6,2023-06-01,Q2,Saturday,True,False,No discount,5k-20k
+TXN-00492,2023-06-18,2023,June,Karachi - Tariq Road,Karachi,Bakery,Breads,Brown Bread Loaf,3,1450,4350,0.0,0.0,4350.0,Tariq Road,6,2023-06-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00157,2023-06-19,2023,June,Islamabad - F-7,Islamabad,Cosmetics,Makeup,Lipstick,1,290,290,0.0,0.0,290.0,F-7,6,2023-06-01,Q2,Monday,False,False,No discount,Under 1k
+TXN-00275,2023-06-19,2023,June,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Mixed Beans 500g,6,490,2940,0.0,0.0,2940.0,F-7,6,2023-06-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00557,2023-06-19,2023,June,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Butter 200g,3,250,750,0.002,1.5,748.5,Tariq Road,6,2023-06-01,Q2,Monday,False,True,Up to 5%,Under 1k
+TXN-00221,2023-06-20,2023,June,Lahore - MM Alam,Lahore,Cosmetics,Personal Care,Conditioner 200ml,1,2600,2600,0.01,26.0,2574.0,MM Alam,6,2023-06-01,Q2,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00422,2023-06-21,2023,June,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Fresh Milk 1L,3,700,2100,0.04,84.0,2016.0,MM Alam,6,2023-06-01,Q2,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00601,2023-06-21,2023,June,Islamabad - F-7,Islamabad,Bakery,Breads,Bread Sticks,2,950,1900,0.0,0.0,1900.0,F-7,6,2023-06-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00762,2023-06-21,2023,June,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Stitched Trouser,1,1050,1050,0.183,192.15,857.85,MM Alam,6,2023-06-01,Q2,Wednesday,False,True,10-20%,Under 1k
+TXN-00391,2023-06-22,2023,June,Lahore - MM Alam,Lahore,Bakery,Breads,Bun Pack (6pc),1,490,490,0.0,0.0,490.0,MM Alam,6,2023-06-01,Q2,Thursday,False,False,No discount,Under 1k
+TXN-00700,2023-06-22,2023,June,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Cream Pastry,2,1500,3000,0.0,0.0,3000.0,Latifabad,6,2023-06-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00642,2023-06-25,2023,June,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Bananas 1 dozen,2,600,1200,0.0,0.0,1200.0,F-7,6,2023-06-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00134,2023-06-26,2023,June,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,4,1350,5400,0.0,0.0,5400.0,F-7,6,2023-06-01,Q2,Monday,False,False,No discount,5k-20k
+TXN-00773,2023-06-26,2023,June,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Microwave Oven,1,21500,21500,0.127,2730.5,18769.5,Latifabad,6,2023-06-01,Q2,Monday,False,True,10-20%,5k-20k
+TXN-00798,2023-06-26,2023,June,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Sunscreen SPF 50,4,2900,11600,0.0,0.0,11600.0,Tariq Road,6,2023-06-01,Q2,Monday,False,False,No discount,5k-20k
+TXN-00651,2023-06-28,2023,June,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,Phone Case Set,2,8500,17000,0.0,0.0,17000.0,Latifabad,6,2023-06-01,Q2,Wednesday,False,False,No discount,5k-20k
+TXN-00166,2023-06-29,2023,June,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Body Wash 500ml,1,490,490,0.107,52.43,437.57,Latifabad,6,2023-06-01,Q2,Thursday,False,True,10-20%,Under 1k
+TXN-00029,2023-06-30,2023,June,Islamabad - F-7,Islamabad,Groceries,Beverages,Cola 2.25L,5,2300,11500,0.034,391.0,11109.0,F-7,6,2023-06-01,Q2,Friday,False,True,Up to 5%,5k-20k
+TXN-00971,2023-06-30,2023,June,Karachi - Tariq Road,Karachi,Apparel,Women's Wear,Abaya,1,4650,4650,0.0,0.0,4650.0,Tariq Road,6,2023-06-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00933,2023-07-01,2023,July,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Hair Oil 200ml,1,1000,1000,0.0,0.0,1000.0,Latifabad,7,2023-07-01,Q3,Saturday,True,False,No discount,1k-5k
+TXN-00623,2023-07-02,2023,July,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Chocolate Cake 500g,5,410,2050,0.074,151.7,1898.3,Tariq Road,7,2023-07-01,Q3,Sunday,True,True,5-10%,1k-5k
+TXN-00725,2023-07-02,2023,July,Lahore - MM Alam,Lahore,Groceries,Packaged Foods,Tomato Ketchup 1L,2,2200,4400,0.014,61.6,4338.4,MM Alam,7,2023-07-01,Q3,Sunday,True,True,Up to 5%,1k-5k
+TXN-00254,2023-07-05,2023,July,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Tomatoes 1kg,5,950,4750,0.009,42.75,4707.25,MM Alam,7,2023-07-01,Q3,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00633,2023-07-06,2023,July,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Marie Biscuits Family Pack,2,1250,2500,0.0,0.0,2500.0,Latifabad,7,2023-07-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00394,2023-07-07,2023,July,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Cola 2.25L,3,300,900,0.003,2.7,897.3,Latifabad,7,2023-07-01,Q3,Friday,False,True,Up to 5%,Under 1k
+TXN-00859,2023-07-07,2023,July,Karachi - Tariq Road,Karachi,Apparel,Footwear,School Shoes (Kids),1,4200,4200,0.162,680.4,3519.6,Tariq Road,7,2023-07-01,Q3,Friday,False,True,10-20%,1k-5k
+TXN-00843,2023-07-09,2023,July,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Stuffed Animal Set,4,1550,6200,0.0,0.0,6200.0,Latifabad,7,2023-07-01,Q3,Sunday,True,False,No discount,5k-20k
+TXN-00340,2023-07-10,2023,July,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Bluetooth Speaker,2,19500,39000,0.0,0.0,39000.0,MM Alam,7,2023-07-01,Q3,Monday,False,False,No discount,Over 20k
+TXN-00203,2023-07-12,2023,July,Karachi - Tariq Road,Karachi,Toys,Action Figures,Dinosaur Set,1,2800,2800,0.0,0.0,2800.0,Tariq Road,7,2023-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00715,2023-07-14,2023,July,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Wheat Flour 5kg,4,490,1960,0.0,0.0,1960.0,MM Alam,7,2023-07-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00788,2023-07-15,2023,July,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Tomato Ketchup 1L,3,1050,3150,0.033,103.95,3046.05,Latifabad,7,2023-07-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00738,2023-07-17,2023,July,Islamabad - F-7,Islamabad,Toys,Board Games,Chess Set,1,900,900,0.065,58.5,841.5,F-7,7,2023-07-01,Q3,Monday,False,True,5-10%,Under 1k
+TXN-00153,2023-07-18,2023,July,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Detergent Powder 3kg,1,2900,2900,0.0,0.0,2900.0,Latifabad,7,2023-07-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00674,2023-07-18,2023,July,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Sandwich Maker,1,26000,26000,0.0,0.0,26000.0,MM Alam,7,2023-07-01,Q3,Tuesday,False,False,No discount,Over 20k
+TXN-00696,2023-07-18,2023,July,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Hair Oil 200ml,1,2800,2800,0.0,0.0,2800.0,F-7,7,2023-07-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00795,2023-07-18,2023,July,Karachi - Tariq Road,Karachi,Toys,Board Games,Ludo Family Set,2,2350,4700,0.221,1038.7,3661.3,Tariq Road,7,2023-07-01,Q3,Tuesday,False,True,Over 20%,1k-5k
+TXN-00906,2023-07-19,2023,July,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Phablet 128GB,1,77000,77000,0.0,0.0,77000.0,MM Alam,7,2023-07-01,Q3,Wednesday,False,False,No discount,Over 20k
+TXN-00285,2023-07-20,2023,July,Islamabad - F-7,Islamabad,Toys,Educational,Alphabet Block Set,1,1000,1000,0.0,0.0,1000.0,F-7,7,2023-07-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00296,2023-07-20,2023,July,Lahore - MM Alam,Lahore,Toys,Educational,Alphabet Block Set,2,4200,8400,0.0,0.0,8400.0,MM Alam,7,2023-07-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00349,2023-07-21,2023,July,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Stuffed Animal Set,2,4100,8200,0.109,893.8,7306.2,Latifabad,7,2023-07-01,Q3,Friday,False,True,10-20%,5k-20k
+TXN-00378,2023-07-22,2023,July,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Tomato Ketchup 1L,4,1950,7800,0.0,0.0,7800.0,Latifabad,7,2023-07-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00581,2023-07-23,2023,July,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Microwave Oven,1,32500,32500,0.118,3835.0,28665.0,MM Alam,7,2023-07-01,Q3,Sunday,True,True,10-20%,Over 20k
+TXN-00171,2023-07-24,2023,July,Hyderabad - Latifabad,Hyderabad,Cosmetics,Fragrances,Body Mist 200ml,3,2000,6000,0.028,168.0,5832.0,Latifabad,7,2023-07-01,Q3,Monday,False,True,Up to 5%,5k-20k
+TXN-00438,2023-07-24,2023,July,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Microwave Oven,2,81500,163000,0.0,0.0,163000.0,MM Alam,7,2023-07-01,Q3,Monday,False,False,No discount,Over 20k
+TXN-00053,2023-07-26,2023,July,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Chana Dal 1kg,1,2300,2300,0.0,0.0,2300.0,F-7,7,2023-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00746,2023-07-26,2023,July,Islamabad - F-7,Islamabad,Electronics,Small Appliances,Air Fryer,2,25000,50000,0.0,0.0,50000.0,F-7,7,2023-07-01,Q3,Wednesday,False,False,No discount,Over 20k
+TXN-00894,2023-07-26,2023,July,Islamabad - F-7,Islamabad,Toys,Plush Toys,Soft Toy (Big),1,1400,1400,0.176,246.39999999999998,1153.6,F-7,7,2023-07-01,Q3,Wednesday,False,True,10-20%,1k-5k
+TXN-00580,2023-07-27,2023,July,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Coffee Jar 200g,5,1850,9250,0.073,675.25,8574.75,Latifabad,7,2023-07-01,Q3,Thursday,False,True,5-10%,5k-20k
+TXN-00023,2023-07-28,2023,July,Karachi - Tariq Road,Karachi,Household,Cleaning Supplies,Floor Cleaner 1L,1,1500,1500,0.007,10.5,1489.5,Tariq Road,7,2023-07-01,Q3,Friday,False,True,Up to 5%,1k-5k
+TXN-00440,2023-07-28,2023,July,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Tomato Ketchup 1L,3,400,1200,0.0,0.0,1200.0,F-7,7,2023-07-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00523,2023-07-29,2023,July,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Oranges 1kg,2,210,420,0.008,3.36,416.64,F-7,7,2023-07-01,Q3,Saturday,True,True,Up to 5%,Under 1k
+TXN-00567,2023-07-29,2023,July,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Sufola Cooking Oil 5L,4,360,1440,0.007,10.08,1429.92,MM Alam,7,2023-07-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00922,2023-08-01,2023,August,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Dishwash Liquid 1L,1,2300,2300,0.039,89.7,2210.3,MM Alam,8,2023-08-01,Q3,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00086,2023-08-02,2023,August,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Broken Rice 2kg,5,900,4500,0.048,216.0,4284.0,Latifabad,8,2023-08-01,Q3,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00554,2023-08-03,2023,August,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Moong Dal 1kg,2,270,540,0.0,0.0,540.0,MM Alam,8,2023-08-01,Q3,Thursday,False,False,No discount,Under 1k
+TXN-00856,2023-08-03,2023,August,Lahore - MM Alam,Lahore,Bakery,Cakes & Pastries,Vanilla Cake 500g,1,1050,1050,0.0,0.0,1050.0,MM Alam,8,2023-08-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00101,2023-08-04,2023,August,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Mineral Water 1.5L,2,1350,2700,0.017,45.900000000000006,2654.1,Latifabad,8,2023-08-01,Q3,Friday,False,True,Up to 5%,1k-5k
+TXN-00983,2023-08-04,2023,August,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Digestive Biscuits,2,1350,2700,0.0,0.0,2700.0,Latifabad,8,2023-08-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00490,2023-08-07,2023,August,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,10,800,8000,0.043,344.0,7656.0,Latifabad,8,2023-08-01,Q3,Monday,False,True,Up to 5%,5k-20k
+TXN-00658,2023-08-11,2023,August,Karachi - Tariq Road,Karachi,Bakery,Breads,Brown Bread Loaf,12,900,10800,0.0,0.0,10800.0,Tariq Road,8,2023-08-01,Q3,Friday,False,False,No discount,5k-20k
+TXN-00794,2023-08-11,2023,August,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Sella Rice 10kg,1,420,420,0.0,0.0,420.0,Latifabad,8,2023-08-01,Q3,Friday,False,False,No discount,Under 1k
+TXN-00759,2023-08-12,2023,August,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Cream Pastry,8,600,4800,0.0,0.0,4800.0,Tariq Road,8,2023-08-01,Q3,Saturday,True,False,No discount,1k-5k
+TXN-00170,2023-08-13,2023,August,Hyderabad - Latifabad,Hyderabad,Apparel,Men's Wear,T-Shirt (Pack of 2),1,4250,4250,0.0,0.0,4250.0,Latifabad,8,2023-08-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00636,2023-08-14,2023,August,Islamabad - F-7,Islamabad,Bakery,Breads,Bun Pack (6pc),2,1600,3200,0.0,0.0,3200.0,F-7,8,2023-08-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00204,2023-08-16,2023,August,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Butter 200g,2,250,500,0.0,0.0,500.0,F-7,8,2023-08-01,Q3,Wednesday,False,False,No discount,Under 1k
+TXN-00423,2023-08-16,2023,August,Lahore - MM Alam,Lahore,Bakery,Breads,Bun Pack (6pc),2,140,280,0.0,0.0,280.0,MM Alam,8,2023-08-01,Q3,Wednesday,False,False,No discount,Under 1k
+TXN-00661,2023-08-16,2023,August,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Mustard Oil 1L,6,550,3300,0.0,0.0,3300.0,MM Alam,8,2023-08-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00284,2023-08-17,2023,August,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Cupcake Pack (6pc),1,310,310,0.006,1.86,308.14,Tariq Road,8,2023-08-01,Q3,Thursday,False,True,Up to 5%,Under 1k
+TXN-00374,2023-08-20,2023,August,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Cola 2.25L,1,1400,1400,0.0,0.0,1400.0,Latifabad,8,2023-08-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00358,2023-08-21,2023,August,Lahore - MM Alam,Lahore,Bakery,Cakes & Pastries,Vanilla Cake 500g,5,850,4250,0.0,0.0,4250.0,MM Alam,8,2023-08-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00606,2023-08-21,2023,August,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,USB Cable Type-C,2,56000,112000,0.07,7840.000000000001,104160.0,Latifabad,8,2023-08-01,Q3,Monday,False,True,5-10%,Over 20k
+TXN-00771,2023-08-23,2023,August,Lahore - MM Alam,Lahore,Apparel,Kids Wear,Kids Jeans,1,900,900,0.059,53.099999999999994,846.9,MM Alam,8,2023-08-01,Q3,Wednesday,False,True,5-10%,Under 1k
+TXN-00819,2023-08-24,2023,August,Lahore - MM Alam,Lahore,Toys,Action Figures,Dinosaur Set,2,4300,8600,0.124,1066.4,7533.6,MM Alam,8,2023-08-01,Q3,Thursday,False,True,10-20%,5k-20k
+TXN-00298,2023-08-26,2023,August,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Butter 200g,8,600,4800,0.0,0.0,4800.0,Tariq Road,8,2023-08-01,Q3,Saturday,True,False,No discount,1k-5k
+TXN-00411,2023-08-26,2023,August,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Wireless Earbuds,1,6000,6000,0.0,0.0,6000.0,MM Alam,8,2023-08-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00744,2023-08-26,2023,August,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Hair Oil 200ml,3,3000,9000,0.0,0.0,9000.0,F-7,8,2023-08-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00837,2023-08-27,2023,August,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,School Shoes (Kids),1,2400,2400,0.066,158.4,2241.6,Latifabad,8,2023-08-01,Q3,Sunday,True,True,5-10%,1k-5k
+TXN-00056,2023-08-28,2023,August,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Lawn Suit (3pc),1,5000,5000,0.0,0.0,5000.0,MM Alam,8,2023-08-01,Q3,Monday,False,False,No discount,5k-20k
+TXN-00416,2023-08-28,2023,August,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Abaya,1,1700,1700,0.0,0.0,1700.0,Latifabad,8,2023-08-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00253,2023-08-29,2023,August,Karachi - Tariq Road,Karachi,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,5,950,4750,0.0,0.0,4750.0,Tariq Road,8,2023-08-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00370,2023-08-31,2023,August,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Floor Cleaner 1L,1,500,500,0.0,0.0,500.0,MM Alam,8,2023-08-01,Q3,Thursday,False,False,No discount,Under 1k
+TXN-00389,2023-08-31,2023,August,Lahore - MM Alam,Lahore,Bakery,Cookies,Marie Biscuits Family Pack,2,900,1800,0.034,61.2,1738.8,MM Alam,8,2023-08-01,Q3,Thursday,False,True,Up to 5%,1k-5k
+TXN-00789,2023-09-01,2023,September,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Hair Oil 200ml,1,700,700,0.109,76.3,623.7,Latifabad,9,2023-09-01,Q3,Friday,False,True,10-20%,Under 1k
+TXN-00995,2023-09-04,2023,September,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Mangoes 1kg,1,490,490,0.0,0.0,490.0,Tariq Road,9,2023-09-01,Q3,Monday,False,False,No discount,Under 1k
+TXN-00741,2023-09-05,2023,September,Islamabad - F-7,Islamabad,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,1,360,360,0.003,1.08,358.92,F-7,9,2023-09-01,Q3,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00889,2023-09-05,2023,September,Hyderabad - Latifabad,Hyderabad,Cosmetics,Skincare,Face Wash 150ml,2,340,680,0.015,10.2,669.8,Latifabad,9,2023-09-01,Q3,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00471,2023-09-07,2023,September,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Coconut Biscuits,3,500,1500,0.0,0.0,1500.0,Latifabad,9,2023-09-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00945,2023-09-08,2023,September,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Tomatoes 1kg,3,410,1230,0.016,19.68,1210.32,MM Alam,9,2023-09-01,Q3,Friday,False,True,Up to 5%,1k-5k
+TXN-00226,2023-09-10,2023,September,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Marie Biscuits Family Pack,6,800,4800,0.0,0.0,4800.0,Latifabad,9,2023-09-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00751,2023-09-10,2023,September,Karachi - Tariq Road,Karachi,Household,Home Essentials,Bed Sheet Set,1,2200,2200,0.051,112.19999999999999,2087.8,Tariq Road,9,2023-09-01,Q3,Sunday,True,True,5-10%,1k-5k
+TXN-00926,2023-09-14,2023,September,Lahore - MM Alam,Lahore,Bakery,Cookies,Marie Biscuits Family Pack,12,1150,13800,0.0,0.0,13800.0,MM Alam,9,2023-09-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00801,2023-09-15,2023,September,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Grapes 500g,4,750,3000,0.018,53.99999999999999,2946.0,Tariq Road,9,2023-09-01,Q3,Friday,False,True,Up to 5%,1k-5k
+TXN-00519,2023-09-17,2023,September,Karachi - Tariq Road,Karachi,Household,Cleaning Supplies,Floor Cleaner 1L,1,750,750,0.0,0.0,750.0,Tariq Road,9,2023-09-01,Q3,Sunday,True,False,No discount,Under 1k
+TXN-00048,2023-09-20,2023,September,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Stitched Trouser,2,2750,5500,0.217,1193.5,4306.5,Latifabad,9,2023-09-01,Q3,Wednesday,False,True,Over 20%,1k-5k
+TXN-00628,2023-09-20,2023,September,Islamabad - F-7,Islamabad,Groceries,Spices,Red Chilli Powder 200g,1,1000,1000,0.0,0.0,1000.0,F-7,9,2023-09-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00697,2023-09-29,2023,September,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Oranges 1kg,5,230,1150,0.0,0.0,1150.0,Latifabad,9,2023-09-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00583,2023-09-30,2023,September,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Yogurt 1kg,2,1200,2400,0.0,0.0,2400.0,F-7,9,2023-09-01,Q3,Saturday,True,False,No discount,1k-5k
+TXN-00994,2023-09-30,2023,September,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Chana Dal 1kg,4,1850,7400,0.0,0.0,7400.0,MM Alam,9,2023-09-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00034,2023-10-02,2023,October,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids Frock,2,1600,3200,0.103,329.59999999999997,2870.4,F-7,10,2023-10-01,Q4,Monday,False,True,10-20%,1k-5k
+TXN-00190,2023-10-02,2023,October,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Hair Oil 200ml,1,800,800,0.0,0.0,800.0,F-7,10,2023-10-01,Q4,Monday,False,False,No discount,Under 1k
+TXN-00621,2023-10-02,2023,October,Islamabad - F-7,Islamabad,Toys,Board Games,Puzzle (100pc),1,3900,3900,0.169,659.1,3240.9,F-7,10,2023-10-01,Q4,Monday,False,True,10-20%,1k-5k
+TXN-00070,2023-10-05,2023,October,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,School Shoes (Kids),1,1450,1450,0.0,0.0,1450.0,Latifabad,10,2023-10-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00097,2023-10-06,2023,October,Karachi - Tariq Road,Karachi,Bakery,Cookies,Marie Biscuits Family Pack,10,450,4500,0.0,0.0,4500.0,Tariq Road,10,2023-10-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00961,2023-10-06,2023,October,Karachi - Tariq Road,Karachi,Electronics,Gadgets,USB Cable Type-C,1,7500,7500,0.116,870.0,6630.0,Tariq Road,10,2023-10-01,Q4,Friday,False,True,10-20%,5k-20k
+TXN-00050,2023-10-07,2023,October,Islamabad - F-7,Islamabad,Electronics,Gadgets,Phone Case Set,2,39500,79000,0.14,11060.000000000002,67940.0,F-7,10,2023-10-01,Q4,Saturday,True,True,10-20%,Over 20k
+TXN-00220,2023-10-07,2023,October,Karachi - Tariq Road,Karachi,Electronics,Mobiles & Tablets,Smartphone 64GB,2,6000,12000,0.098,1176.0,10824.0,Tariq Road,10,2023-10-01,Q4,Saturday,True,True,5-10%,5k-20k
+TXN-00465,2023-10-07,2023,October,Hyderabad - Latifabad,Hyderabad,Groceries,Lentils & Beans,Mixed Beans 500g,1,1350,1350,0.0,0.0,1350.0,Latifabad,10,2023-10-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00903,2023-10-07,2023,October,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Dishwash Liquid 1L,2,850,1700,0.0,0.0,1700.0,MM Alam,10,2023-10-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00158,2023-10-13,2023,October,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Feature Phone,1,56500,56500,0.0,0.0,56500.0,F-7,10,2023-10-01,Q4,Friday,False,False,No discount,Over 20k
+TXN-00957,2023-10-15,2023,October,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Mangoes 1kg,4,750,3000,0.004,12.0,2988.0,MM Alam,10,2023-10-01,Q4,Sunday,True,True,Up to 5%,1k-5k
+TXN-00332,2023-10-16,2023,October,Karachi - Tariq Road,Karachi,Toys,Board Games,Monopoly Set,3,3750,11250,0.097,1091.25,10158.75,Tariq Road,10,2023-10-01,Q4,Monday,False,True,5-10%,5k-20k
+TXN-00324,2023-10-17,2023,October,Islamabad - F-7,Islamabad,Household,Kitchenware,Stainless Steel Pot,1,600,600,0.052,31.2,568.8,F-7,10,2023-10-01,Q4,Tuesday,False,True,5-10%,Under 1k
+TXN-00222,2023-10-18,2023,October,Lahore - MM Alam,Lahore,Household,Laundry,Fabric Softener 2L,1,350,350,0.052,18.2,331.8,MM Alam,10,2023-10-01,Q4,Wednesday,False,True,5-10%,Under 1k
+TXN-00318,2023-10-18,2023,October,Lahore - MM Alam,Lahore,Household,Laundry,Fabric Softener 2L,3,3900,11700,0.018,210.6,11489.4,MM Alam,10,2023-10-01,Q4,Wednesday,False,True,Up to 5%,5k-20k
+TXN-00082,2023-10-19,2023,October,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),1,370,370,0.0,0.0,370.0,Tariq Road,10,2023-10-01,Q4,Thursday,False,False,No discount,Under 1k
+TXN-00294,2023-10-20,2023,October,Hyderabad - Latifabad,Hyderabad,Bakery,Breads,Brown Bread Loaf,4,1250,5000,0.0,0.0,5000.0,Latifabad,10,2023-10-01,Q4,Friday,False,False,No discount,5k-20k
+TXN-00493,2023-10-20,2023,October,Karachi - Tariq Road,Karachi,Groceries,Spices,Turmeric Powder 200g,4,1000,4000,0.0,0.0,4000.0,Tariq Road,10,2023-10-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00436,2023-10-21,2023,October,Lahore - MM Alam,Lahore,Toys,Plush Toys,Soft Toy (Big),1,4500,4500,0.0,0.0,4500.0,MM Alam,10,2023-10-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00761,2023-10-21,2023,October,Lahore - MM Alam,Lahore,Apparel,Footwear,Slippers Pair,1,5000,5000,0.0,0.0,5000.0,MM Alam,10,2023-10-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00970,2023-10-22,2023,October,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Cheese 200g,1,180,180,0.0,0.0,180.0,F-7,10,2023-10-01,Q4,Sunday,True,False,No discount,Under 1k
+TXN-00091,2023-10-23,2023,October,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Soft Toy (Big),1,1050,1050,0.3,315.0,735.0,Tariq Road,10,2023-10-01,Q4,Monday,False,True,Over 20%,Under 1k
+TXN-00407,2023-10-23,2023,October,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Cream Pastry,1,1400,1400,0.012,16.8,1383.2,Latifabad,10,2023-10-01,Q4,Monday,False,True,Up to 5%,1k-5k
+TXN-00478,2023-10-23,2023,October,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Detergent Powder 3kg,3,2000,6000,0.019,114.0,5886.0,Latifabad,10,2023-10-01,Q4,Monday,False,True,Up to 5%,5k-20k
+TXN-00775,2023-10-23,2023,October,Karachi - Tariq Road,Karachi,Toys,Board Games,Puzzle (100pc),1,2450,2450,0.0,0.0,2450.0,Tariq Road,10,2023-10-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00249,2023-10-24,2023,October,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Broken Rice 2kg,4,650,2600,0.005,13.0,2587.0,F-7,10,2023-10-01,Q4,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00950,2023-10-24,2023,October,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,Phone Case Set,1,48000,48000,0.095,4560.0,43440.0,Latifabad,10,2023-10-01,Q4,Tuesday,False,True,5-10%,Over 20k
+TXN-00319,2023-10-25,2023,October,Karachi - Tariq Road,Karachi,Bakery,Breads,White Bread Loaf,1,1050,1050,0.0,0.0,1050.0,Tariq Road,10,2023-10-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00036,2023-10-29,2023,October,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Hair Oil 200ml,1,1450,1450,0.0,0.0,1450.0,F-7,10,2023-10-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00770,2023-10-30,2023,October,Islamabad - F-7,Islamabad,Toys,Plush Toys,Stuffed Animal Set,3,350,1050,0.0,0.0,1050.0,F-7,10,2023-10-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00707,2023-10-31,2023,October,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Grapes 500g,2,500,1000,0.014,14.0,986.0,Latifabad,10,2023-10-01,Q4,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00455,2023-11-01,2023,November,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Masoor Dal 1kg,3,1400,4200,0.0,0.0,4200.0,Tariq Road,11,2023-11-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00041,2023-11-02,2023,November,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Dairy,Yogurt 1kg,1,140,140,0.049,6.86,133.14,Latifabad,11,2023-11-01,Q4,Thursday,False,True,Up to 5%,Under 1k
+TXN-00966,2023-11-02,2023,November,Islamabad - F-7,Islamabad,Toys,Action Figures,Soldier Set,1,470,470,0.061,28.669999999999998,441.33,F-7,11,2023-11-01,Q4,Thursday,False,True,5-10%,Under 1k
+TXN-00017,2023-11-05,2023,November,Islamabad - F-7,Islamabad,Apparel,Women's Wear,Abaya,1,6000,6000,0.14,840.0000000000001,5160.0,F-7,11,2023-11-01,Q4,Sunday,True,True,10-20%,5k-20k
+TXN-00196,2023-11-07,2023,November,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,2,190,380,0.015,5.7,374.3,Latifabad,11,2023-11-01,Q4,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00589,2023-11-07,2023,November,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Cotton Shalwar Kameez,1,4550,4550,0.221,1005.55,3544.45,MM Alam,11,2023-11-01,Q4,Tuesday,False,True,Over 20%,1k-5k
+TXN-00317,2023-11-08,2023,November,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Ludo Family Set,1,2950,2950,0.0,0.0,2950.0,Latifabad,11,2023-11-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00698,2023-11-10,2023,November,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Basmati Rice 5kg,3,450,1350,0.058,78.3,1271.7,F-7,11,2023-11-01,Q4,Friday,False,True,5-10%,1k-5k
+TXN-00117,2023-11-11,2023,November,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Abaya,1,2800,2800,0.0,0.0,2800.0,MM Alam,11,2023-11-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00649,2023-11-11,2023,November,Hyderabad - Latifabad,Hyderabad,Electronics,Mobiles & Tablets,Phablet 128GB,1,32500,32500,0.058,1885.0,30615.0,Latifabad,11,2023-11-01,Q4,Saturday,True,True,5-10%,Over 20k
+TXN-00454,2023-11-14,2023,November,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Foundation 30ml,2,3000,6000,0.0,0.0,6000.0,Latifabad,11,2023-11-01,Q4,Tuesday,False,False,No discount,5k-20k
+TXN-00664,2023-11-15,2023,November,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Apples 1kg,3,120,360,0.0,0.0,360.0,F-7,11,2023-11-01,Q4,Wednesday,False,False,No discount,Under 1k
+TXN-00853,2023-11-15,2023,November,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Sound Bar,1,9000,9000,0.0,0.0,9000.0,MM Alam,11,2023-11-01,Q4,Wednesday,False,False,No discount,5k-20k
+TXN-00210,2023-11-17,2023,November,Lahore - MM Alam,Lahore,Household,Home Essentials,Pillow Pair,1,190,190,0.0,0.0,190.0,MM Alam,11,2023-11-01,Q4,Friday,False,False,No discount,Under 1k
+TXN-00136,2023-11-18,2023,November,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Tomatoes 1kg,6,460,2760,0.038,104.88,2655.12,MM Alam,11,2023-11-01,Q4,Saturday,True,True,Up to 5%,1k-5k
+TXN-00274,2023-11-18,2023,November,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Bluetooth Speaker,1,56000,56000,0.067,3752.0,52248.0,Latifabad,11,2023-11-01,Q4,Saturday,True,True,5-10%,Over 20k
+TXN-00602,2023-11-18,2023,November,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Embroidered Kurti,3,2500,7500,0.0,0.0,7500.0,Latifabad,11,2023-11-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00962,2023-11-18,2023,November,Karachi - Tariq Road,Karachi,Cosmetics,Fragrances,Attar 12ml,2,3050,6100,0.088,536.8,5563.2,Tariq Road,11,2023-11-01,Q4,Saturday,True,True,5-10%,5k-20k
+TXN-00506,2023-11-19,2023,November,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Coconut Biscuits,3,500,1500,0.0,0.0,1500.0,Latifabad,11,2023-11-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00904,2023-11-19,2023,November,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Microwave Oven,1,22500,22500,0.113,2542.5,19957.5,MM Alam,11,2023-11-01,Q4,Sunday,True,True,10-20%,5k-20k
+TXN-00286,2023-11-20,2023,November,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Foundation 30ml,2,4200,8400,0.114,957.6,7442.4,Latifabad,11,2023-11-01,Q4,Monday,False,True,10-20%,5k-20k
+TXN-00169,2023-11-21,2023,November,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Fresh Milk 1L,12,750,9000,0.0,0.0,9000.0,F-7,11,2023-11-01,Q4,Tuesday,False,False,No discount,5k-20k
+TXN-00409,2023-11-22,2023,November,Islamabad - F-7,Islamabad,Toys,Educational,Alphabet Block Set,1,3400,3400,0.0,0.0,3400.0,F-7,11,2023-11-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00529,2023-11-23,2023,November,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Bananas 1 dozen,5,950,4750,0.006,28.5,4721.5,Tariq Road,11,2023-11-01,Q4,Thursday,False,True,Up to 5%,1k-5k
+TXN-00107,2023-11-24,2023,November,Karachi - Tariq Road,Karachi,Apparel,Kids Wear,Kids Jeans,2,3800,7600,0.0,0.0,7600.0,Tariq Road,11,2023-11-01,Q4,Friday,False,False,No discount,5k-20k
+TXN-00272,2023-11-24,2023,November,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Monopoly Set,3,3200,9600,0.26,2496.0,7104.0,Latifabad,11,2023-11-01,Q4,Friday,False,True,Over 20%,5k-20k
+TXN-00734,2023-11-24,2023,November,Karachi - Tariq Road,Karachi,Toys,Educational,Geography Globe,1,700,700,0.0,0.0,700.0,Tariq Road,11,2023-11-01,Q4,Friday,False,False,No discount,Under 1k
+TXN-00887,2023-11-25,2023,November,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Ludo Family Set,1,4100,4100,0.0,0.0,4100.0,Latifabad,11,2023-11-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00010,2023-11-26,2023,November,Islamabad - F-7,Islamabad,Toys,Plush Toys,Teddy Bear Medium,2,4500,9000,0.0,0.0,9000.0,F-7,11,2023-11-01,Q4,Sunday,True,False,No discount,5k-20k
+TXN-00645,2023-11-26,2023,November,Islamabad - F-7,Islamabad,Cosmetics,Makeup,Lipstick,1,4150,4150,0.0,0.0,4150.0,F-7,11,2023-11-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00793,2023-11-29,2023,November,Islamabad - F-7,Islamabad,Apparel,Footwear,Sneakers (Men),1,1600,1600,0.0,0.0,1600.0,F-7,11,2023-11-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00126,2023-12-01,2023,December,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Sound Bar,1,60500,60500,0.087,5263.5,55236.5,Latifabad,12,2023-12-01,Q4,Friday,False,True,5-10%,Over 20k
+TXN-00487,2023-12-01,2023,December,Lahore - MM Alam,Lahore,Toys,Plush Toys,Soft Toy (Big),1,2900,2900,0.096,278.40000000000003,2621.6,MM Alam,12,2023-12-01,Q4,Friday,False,True,5-10%,1k-5k
+TXN-00302,2023-12-02,2023,December,Islamabad - F-7,Islamabad,Toys,Action Figures,Superhero Action Figure,1,3650,3650,0.0,0.0,3650.0,F-7,12,2023-12-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00721,2023-12-04,2023,December,Islamabad - F-7,Islamabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,4,500,2000,0.012,24.0,1976.0,F-7,12,2023-12-01,Q4,Monday,False,True,Up to 5%,1k-5k
+TXN-00564,2023-12-05,2023,December,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,2,750,1500,0.0,0.0,1500.0,Latifabad,12,2023-12-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00626,2023-12-05,2023,December,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Phablet 128GB,1,58000,58000,0.131,7598.0,50402.0,MM Alam,12,2023-12-01,Q4,Tuesday,False,True,10-20%,Over 20k
+TXN-00689,2023-12-05,2023,December,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Air Fryer,1,50000,50000,0.0,0.0,50000.0,MM Alam,12,2023-12-01,Q4,Tuesday,False,False,No discount,Over 20k
+TXN-00682,2023-12-09,2023,December,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Sella Rice 10kg,2,1050,2100,0.0,0.0,2100.0,Tariq Road,12,2023-12-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00779,2023-12-09,2023,December,Islamabad - F-7,Islamabad,Toys,Plush Toys,Stuffed Animal Set,1,2550,2550,0.293,747.15,1802.85,F-7,12,2023-12-01,Q4,Saturday,True,True,Over 20%,1k-5k
+TXN-00888,2023-12-09,2023,December,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,2,1150,2300,0.061,140.29999999999998,2159.7,Latifabad,12,2023-12-01,Q4,Saturday,True,True,5-10%,1k-5k
+TXN-00270,2023-12-11,2023,December,Lahore - MM Alam,Lahore,Cosmetics,Skincare,Moisturizer 50ml,2,4000,8000,0.0,0.0,8000.0,MM Alam,12,2023-12-01,Q4,Monday,False,False,No discount,5k-20k
+TXN-00179,2023-12-13,2023,December,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,2,1450,2900,0.0,0.0,2900.0,Latifabad,12,2023-12-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00607,2023-12-16,2023,December,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Potatoes 1kg,3,1150,3450,0.0,0.0,3450.0,Latifabad,12,2023-12-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00943,2023-12-16,2023,December,Karachi - Tariq Road,Karachi,Bakery,Breads,White Bread Loaf,1,1300,1300,0.095,123.5,1176.5,Tariq Road,12,2023-12-01,Q4,Saturday,True,True,5-10%,1k-5k
+TXN-00001,2023-12-21,2023,December,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Coffee Jar 200g,3,1000,3000,0.0,0.0,3000.0,Latifabad,12,2023-12-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00335,2023-12-22,2023,December,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Chocolate Chip Cookies,5,700,3500,0.0,0.0,3500.0,Latifabad,12,2023-12-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00616,2023-12-22,2023,December,Islamabad - F-7,Islamabad,Apparel,Footwear,School Shoes (Kids),3,2000,6000,0.096,576.0,5424.0,F-7,12,2023-12-01,Q4,Friday,False,True,5-10%,5k-20k
+TXN-00339,2023-12-23,2023,December,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Grapes 500g,8,1200,9600,0.0,0.0,9600.0,F-7,12,2023-12-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00914,2023-12-27,2023,December,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Grapes 500g,3,1150,3450,0.0,0.0,3450.0,F-7,12,2023-12-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00468,2023-12-30,2023,December,Islamabad - F-7,Islamabad,Bakery,Cookies,Coconut Biscuits,4,350,1400,0.095,133.0,1267.0,F-7,12,2023-12-01,Q4,Saturday,True,True,5-10%,1k-5k
+TXN-00434,2024-01-01,2024,January,Islamabad - F-7,Islamabad,Groceries,Cooking Oil,Sufola Cooking Oil 5L,1,1050,1050,0.0,0.0,1050.0,F-7,1,2024-01-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00673,2024-01-02,2024,January,Hyderabad - Latifabad,Hyderabad,Electronics,Mobiles & Tablets,Tablet 10-inch,1,75500,75500,0.0,0.0,75500.0,Latifabad,1,2024-01-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00392,2024-01-03,2024,January,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Potatoes 1kg,4,650,2600,0.0,0.0,2600.0,Tariq Road,1,2024-01-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00079,2024-01-04,2024,January,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Grapes 500g,2,350,700,0.034,23.8,676.2,Latifabad,1,2024-01-01,Q1,Thursday,False,True,Up to 5%,Under 1k
+TXN-00500,2024-01-05,2024,January,Karachi - Tariq Road,Karachi,Cosmetics,Personal Care,Hair Oil 200ml,1,4200,4200,0.0,0.0,4200.0,Tariq Road,1,2024-01-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00571,2024-01-05,2024,January,Islamabad - F-7,Islamabad,Bakery,Cookies,Coconut Biscuits,2,1600,3200,0.0,0.0,3200.0,F-7,1,2024-01-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00054,2024-01-07,2024,January,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Alphabet Block Set,1,800,800,0.249,199.2,600.8,Latifabad,1,2024-01-01,Q1,Sunday,True,True,Over 20%,Under 1k
+TXN-00368,2024-01-07,2024,January,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Yogurt 1kg,1,340,340,0.003,1.02,338.98,Tariq Road,1,2024-01-01,Q1,Sunday,True,True,Up to 5%,Under 1k
+TXN-00517,2024-01-09,2024,January,Lahore - MM Alam,Lahore,Cosmetics,Makeup,Lipstick,3,2300,6900,0.0,0.0,6900.0,MM Alam,1,2024-01-01,Q1,Tuesday,False,False,No discount,5k-20k
+TXN-00743,2024-01-10,2024,January,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Toilet Cleaner 1L,2,2000,4000,0.102,408.0,3592.0,MM Alam,1,2024-01-01,Q1,Wednesday,False,True,10-20%,1k-5k
+TXN-00200,2024-01-13,2024,January,Lahore - MM Alam,Lahore,Apparel,Footwear,School Shoes (Kids),2,1150,2300,0.0,0.0,2300.0,MM Alam,1,2024-01-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00524,2024-01-13,2024,January,Karachi - Tariq Road,Karachi,Household,Laundry,Detergent Powder 3kg,1,550,550,0.061,33.55,516.45,Tariq Road,1,2024-01-01,Q1,Saturday,True,True,5-10%,Under 1k
+TXN-00592,2024-01-13,2024,January,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Lawn Suit (3pc),1,6000,6000,0.0,0.0,6000.0,Latifabad,1,2024-01-01,Q1,Saturday,True,False,No discount,5k-20k
+TXN-00344,2024-01-14,2024,January,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Wired Headphones,1,41500,41500,0.0,0.0,41500.0,Latifabad,1,2024-01-01,Q1,Sunday,True,False,No discount,Over 20k
+TXN-00218,2024-01-15,2024,January,Karachi - Tariq Road,Karachi,Groceries,Packaged Foods,Breakfast Cereal 500g,1,1000,1000,0.054,54.0,946.0,Tariq Road,1,2024-01-01,Q1,Monday,False,True,5-10%,Under 1k
+TXN-00437,2024-01-15,2024,January,Karachi - Tariq Road,Karachi,Household,Home Essentials,Curtains Pair,2,3750,7500,0.0,0.0,7500.0,Tariq Road,1,2024-01-01,Q1,Monday,False,False,No discount,5k-20k
+TXN-00949,2024-01-15,2024,January,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Apples 1kg,1,1000,1000,0.008,8.0,992.0,MM Alam,1,2024-01-01,Q1,Monday,False,True,Up to 5%,Under 1k
+TXN-00120,2024-01-18,2024,January,Hyderabad - Latifabad,Hyderabad,Groceries,Spices,Red Chilli Powder 200g,4,1800,7200,0.039,280.8,6919.2,Latifabad,1,2024-01-01,Q1,Thursday,False,True,Up to 5%,5k-20k
+TXN-00520,2024-01-19,2024,January,Islamabad - F-7,Islamabad,Groceries,Beverages,Cola 2.25L,3,380,1140,0.035,39.900000000000006,1100.1,F-7,1,2024-01-01,Q1,Friday,False,True,Up to 5%,1k-5k
+TXN-00189,2024-01-23,2024,January,Karachi - Tariq Road,Karachi,Cosmetics,Personal Care,Shampoo 400ml,4,1050,4200,0.0,0.0,4200.0,Tariq Road,1,2024-01-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00227,2024-01-26,2024,January,Karachi - Tariq Road,Karachi,Bakery,Breads,Brown Bread Loaf,12,950,11400,0.0,0.0,11400.0,Tariq Road,1,2024-01-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00834,2024-01-26,2024,January,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Grapes 500g,1,90,90,0.0,0.0,90.0,MM Alam,1,2024-01-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00197,2024-01-29,2024,January,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Microwave Oven,1,55000,55000,0.0,0.0,55000.0,Latifabad,1,2024-01-01,Q1,Monday,False,False,No discount,Over 20k
+TXN-00845,2024-01-29,2024,January,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Spinach 500g,1,100,100,0.0,0.0,100.0,F-7,1,2024-01-01,Q1,Monday,False,False,No discount,Under 1k
+TXN-00127,2024-02-01,2024,February,Karachi - Tariq Road,Karachi,Household,Cleaning Supplies,Surface Cleaner 750ml,1,2150,2150,0.0,0.0,2150.0,Tariq Road,2,2024-02-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00244,2024-02-02,2024,February,Lahore - MM Alam,Lahore,Cosmetics,Makeup,BB Cream 30ml,1,480,480,0.0,0.0,480.0,MM Alam,2,2024-02-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00535,2024-02-02,2024,February,Hyderabad - Latifabad,Hyderabad,Apparel,Kids Wear,Kids Frock,2,4200,8400,0.149,1251.6,7148.4,Latifabad,2,2024-02-01,Q1,Friday,False,True,10-20%,5k-20k
+TXN-00352,2024-02-03,2024,February,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Chana Dal 1kg,1,950,950,0.0,0.0,950.0,F-7,2,2024-02-01,Q1,Saturday,True,False,No discount,Under 1k
+TXN-00052,2024-02-04,2024,February,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids T-Shirt,1,1400,1400,0.192,268.8,1131.2,F-7,2,2024-02-01,Q1,Sunday,True,True,10-20%,1k-5k
+TXN-00114,2024-02-04,2024,February,Lahore - MM Alam,Lahore,Cosmetics,Skincare,Sunscreen SPF 50,2,3700,7400,0.073,540.1999999999999,6859.8,MM Alam,2,2024-02-01,Q1,Sunday,True,True,5-10%,5k-20k
+TXN-00402,2024-02-04,2024,February,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Sandwich Maker,1,24000,24000,0.0,0.0,24000.0,MM Alam,2,2024-02-01,Q1,Sunday,True,False,No discount,Over 20k
+TXN-00122,2024-02-06,2024,February,Karachi - Tariq Road,Karachi,Groceries,Packaged Foods,Tomato Ketchup 1L,1,800,800,0.0,0.0,800.0,Tariq Road,2,2024-02-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00740,2024-02-06,2024,February,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Feature Phone,1,44500,44500,0.146,6497.0,38003.0,F-7,2,2024-02-01,Q1,Tuesday,False,True,10-20%,Over 20k
+TXN-00939,2024-02-06,2024,February,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Juicer Blender,1,15500,15500,0.125,1937.5,13562.5,Latifabad,2,2024-02-01,Q1,Tuesday,False,True,10-20%,5k-20k
+TXN-00316,2024-02-07,2024,February,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Onions 1kg,1,900,900,0.0,0.0,900.0,F-7,2,2024-02-01,Q1,Wednesday,False,False,No discount,Under 1k
+TXN-00219,2024-02-08,2024,February,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Breakfast Cereal 500g,1,2000,2000,0.0,0.0,2000.0,Latifabad,2,2024-02-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00559,2024-02-08,2024,February,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Potatoes 1kg,1,110,110,0.033,3.6300000000000003,106.37,F-7,2,2024-02-01,Q1,Thursday,False,True,Up to 5%,Under 1k
+TXN-00129,2024-02-09,2024,February,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Tomatoes 1kg,1,390,390,0.0,0.0,390.0,Tariq Road,2,2024-02-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00268,2024-02-09,2024,February,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Fresh Milk 1L,1,420,420,0.0,0.0,420.0,MM Alam,2,2024-02-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00996,2024-02-09,2024,February,Lahore - MM Alam,Lahore,Bakery,Savoury,Roll Paratha Pack,4,1650,6600,0.0,0.0,6600.0,MM Alam,2,2024-02-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00954,2024-02-14,2024,February,Karachi - Tariq Road,Karachi,Electronics,Gadgets,USB Cable Type-C,1,53500,53500,0.0,0.0,53500.0,Tariq Road,2,2024-02-01,Q1,Wednesday,False,False,No discount,Over 20k
+TXN-00531,2024-02-18,2024,February,Hyderabad - Latifabad,Hyderabad,Toys,Action Figures,Soldier Set,1,500,500,0.097,48.5,451.5,Latifabad,2,2024-02-01,Q1,Sunday,True,True,5-10%,Under 1k
+TXN-00911,2024-02-20,2024,February,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Bluetooth Speaker,1,60500,60500,0.0,0.0,60500.0,Latifabad,2,2024-02-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00969,2024-02-20,2024,February,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Grapes 500g,1,700,700,0.038,26.599999999999998,673.4,F-7,2,2024-02-01,Q1,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00401,2024-02-21,2024,February,Lahore - MM Alam,Lahore,Groceries,Beverages,Tea Pack 500g,2,800,1600,0.078,124.8,1475.2,MM Alam,2,2024-02-01,Q1,Wednesday,False,True,5-10%,1k-5k
+TXN-00558,2024-02-21,2024,February,Karachi - Tariq Road,Karachi,Apparel,Women's Wear,Lawn Suit (3pc),1,4450,4450,0.0,0.0,4450.0,Tariq Road,2,2024-02-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00604,2024-02-21,2024,February,Hyderabad - Latifabad,Hyderabad,Household,Cleaning Supplies,Toilet Cleaner 1L,2,2450,4900,0.117,573.3000000000001,4326.7,Latifabad,2,2024-02-01,Q1,Wednesday,False,True,10-20%,1k-5k
+TXN-00699,2024-02-25,2024,February,Islamabad - F-7,Islamabad,Electronics,Small Appliances,Air Fryer,1,29000,29000,0.0,0.0,29000.0,F-7,2,2024-02-01,Q1,Sunday,True,False,No discount,Over 20k
+TXN-00802,2024-02-25,2024,February,Lahore - MM Alam,Lahore,Cosmetics,Skincare,Night Cream 30ml,2,3250,6500,0.124,806.0,5694.0,MM Alam,2,2024-02-01,Q1,Sunday,True,True,10-20%,5k-20k
+TXN-00156,2024-02-29,2024,February,Islamabad - F-7,Islamabad,Electronics,Gadgets,USB Cable Type-C,1,49000,49000,0.0,0.0,49000.0,F-7,2,2024-02-01,Q1,Thursday,False,False,No discount,Over 20k
+TXN-00281,2024-02-29,2024,February,Lahore - MM Alam,Lahore,Toys,Action Figures,Superhero Action Figure,1,4300,4300,0.176,756.8,3543.2,MM Alam,2,2024-02-01,Q1,Thursday,False,True,10-20%,1k-5k
+TXN-00907,2024-02-29,2024,February,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,Power Bank 20000mAh,1,10500,10500,0.0,0.0,10500.0,Latifabad,2,2024-02-01,Q1,Thursday,False,False,No discount,5k-20k
+TXN-00191,2024-03-01,2024,March,Karachi - Tariq Road,Karachi,Bakery,Savoury,Roll Paratha Pack,1,850,850,0.0,0.0,850.0,Tariq Road,3,2024-03-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00289,2024-03-01,2024,March,Karachi - Tariq Road,Karachi,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,6,1050,6300,0.0,0.0,6300.0,Tariq Road,3,2024-03-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00695,2024-03-01,2024,March,Islamabad - F-7,Islamabad,Household,Home Essentials,Bath Towel,1,2850,2850,0.021,59.85,2790.15,F-7,3,2024-03-01,Q1,Friday,False,True,Up to 5%,1k-5k
+TXN-00952,2024-03-02,2024,March,Lahore - MM Alam,Lahore,Toys,Board Games,Ludo Family Set,1,4500,4500,0.0,0.0,4500.0,MM Alam,3,2024-03-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00099,2024-03-03,2024,March,Islamabad - F-7,Islamabad,Groceries,Spices,Coriander Powder 200g,2,2400,4800,0.0,0.0,4800.0,F-7,3,2024-03-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00542,2024-03-03,2024,March,Islamabad - F-7,Islamabad,Electronics,Audio & Accessories,Sound Bar,2,15500,31000,0.0,0.0,31000.0,F-7,3,2024-03-01,Q1,Sunday,True,False,No discount,Over 20k
+TXN-00692,2024-03-06,2024,March,Islamabad - F-7,Islamabad,Apparel,Women's Wear,Abaya,2,6500,13000,0.0,0.0,13000.0,F-7,3,2024-03-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00918,2024-03-07,2024,March,Lahore - MM Alam,Lahore,Toys,Educational,Stem Kit,1,2100,2100,0.14,294.0,1806.0,MM Alam,3,2024-03-01,Q1,Thursday,False,True,10-20%,1k-5k
+TXN-00353,2024-03-08,2024,March,Hyderabad - Latifabad,Hyderabad,Groceries,Spices,Garam Masala 100g,3,360,1080,0.063,68.04,1011.96,Latifabad,3,2024-03-01,Q1,Friday,False,True,5-10%,1k-5k
+TXN-00306,2024-03-12,2024,March,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Ludo Family Set,1,550,550,0.0,0.0,550.0,Latifabad,3,2024-03-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00014,2024-03-13,2024,March,Lahore - MM Alam,Lahore,Household,Kitchenware,Stainless Steel Pot,1,1850,1850,0.0,0.0,1850.0,MM Alam,3,2024-03-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00588,2024-03-14,2024,March,Hyderabad - Latifabad,Hyderabad,Household,Cleaning Supplies,Dishwash Liquid 1L,2,650,1300,0.0,0.0,1300.0,Latifabad,3,2024-03-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00810,2024-03-14,2024,March,Karachi - Tariq Road,Karachi,Electronics,Small Appliances,Microwave Oven,1,11500,11500,0.084,966.0000000000001,10534.0,Tariq Road,3,2024-03-01,Q1,Thursday,False,True,5-10%,5k-20k
+TXN-00863,2024-03-15,2024,March,Islamabad - F-7,Islamabad,Household,Laundry,Detergent Powder 3kg,1,3050,3050,0.0,0.0,3050.0,F-7,3,2024-03-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00044,2024-03-16,2024,March,Islamabad - F-7,Islamabad,Household,Home Essentials,Pillow Pair,1,3950,3950,0.068,268.6,3681.4,F-7,3,2024-03-01,Q1,Saturday,True,True,5-10%,1k-5k
+TXN-00703,2024-03-16,2024,March,Islamabad - F-7,Islamabad,Cosmetics,Makeup,BB Cream 30ml,1,2800,2800,0.0,0.0,2800.0,F-7,3,2024-03-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00383,2024-03-19,2024,March,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Masoor Dal 1kg,1,2400,2400,0.004,9.6,2390.4,Tariq Road,3,2024-03-01,Q1,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00480,2024-03-19,2024,March,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Mustard Oil 1L,3,1350,4050,0.0,0.0,4050.0,MM Alam,3,2024-03-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00981,2024-03-21,2024,March,Hyderabad - Latifabad,Hyderabad,Groceries,Cooking Oil,Olive Oil 1L,1,310,310,0.045,13.95,296.05,Latifabad,3,2024-03-01,Q1,Thursday,False,True,Up to 5%,Under 1k
+TXN-00276,2024-03-23,2024,March,Lahore - MM Alam,Lahore,Household,Home Essentials,Curtains Pair,3,3000,9000,0.061,549.0,8451.0,MM Alam,3,2024-03-01,Q1,Saturday,True,True,5-10%,5k-20k
+TXN-00527,2024-03-23,2024,March,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Phablet 128GB,1,19500,19500,0.052,1014.0,18486.0,F-7,3,2024-03-01,Q1,Saturday,True,True,5-10%,5k-20k
+TXN-00615,2024-03-23,2024,March,Karachi - Tariq Road,Karachi,Toys,Action Figures,Soldier Set,1,2400,2400,0.0,0.0,2400.0,Tariq Road,3,2024-03-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00425,2024-03-25,2024,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Whole Chicken 1.5kg,1,750,750,0.0,0.0,750.0,Latifabad,3,2024-03-01,Q1,Monday,False,False,No discount,Under 1k
+TXN-00563,2024-03-26,2024,March,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Meezan Banaspati 5L,8,380,3040,0.05,152.0,2888.0,MM Alam,3,2024-03-01,Q1,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00655,2024-03-26,2024,March,Islamabad - F-7,Islamabad,Toys,Plush Toys,Teddy Bear Medium,1,2050,2050,0.0,0.0,2050.0,F-7,3,2024-03-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00804,2024-03-26,2024,March,Islamabad - F-7,Islamabad,Electronics,Audio & Accessories,Wireless Earbuds,2,14000,28000,0.0,0.0,28000.0,F-7,3,2024-03-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00713,2024-03-27,2024,March,Islamabad - F-7,Islamabad,Cosmetics,Skincare,Night Cream 30ml,2,800,1600,0.0,0.0,1600.0,F-7,3,2024-03-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00828,2024-03-27,2024,March,Islamabad - F-7,Islamabad,Apparel,Men's Wear,T-Shirt (Pack of 2),1,5500,5500,0.136,748.0,4752.0,F-7,3,2024-03-01,Q1,Wednesday,False,True,10-20%,1k-5k
+TXN-00980,2024-03-27,2024,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Apples 1kg,2,750,1500,0.0,0.0,1500.0,Latifabad,3,2024-03-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00309,2024-03-28,2024,March,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Spinach 500g,10,1150,11500,0.036,413.99999999999994,11086.0,Tariq Road,3,2024-03-01,Q1,Thursday,False,True,Up to 5%,5k-20k
+TXN-00553,2024-03-28,2024,March,Lahore - MM Alam,Lahore,Groceries,Beverages,Mineral Water 1.5L,1,800,800,0.0,0.0,800.0,MM Alam,3,2024-03-01,Q1,Thursday,False,False,No discount,Under 1k
+TXN-00833,2024-03-28,2024,March,Lahore - MM Alam,Lahore,Toys,Educational,Stem Kit,3,2350,7050,0.146,1029.3,6020.7,MM Alam,3,2024-03-01,Q1,Thursday,False,True,10-20%,5k-20k
+TXN-00767,2024-03-29,2024,March,Islamabad - F-7,Islamabad,Apparel,Footwear,Slippers Pair,1,6500,6500,0.0,0.0,6500.0,F-7,3,2024-03-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00142,2024-03-31,2024,March,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Spinach 500g,3,100,300,0.015,4.5,295.5,MM Alam,3,2024-03-01,Q1,Sunday,True,True,Up to 5%,Under 1k
+TXN-00452,2024-03-31,2024,March,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Apples 1kg,4,360,1440,0.0,0.0,1440.0,Tariq Road,3,2024-03-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00379,2024-04-02,2024,April,Karachi - Tariq Road,Karachi,Toys,Action Figures,Robot Toy,3,2850,8550,0.0,0.0,8550.0,Tariq Road,4,2024-04-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00106,2024-04-05,2024,April,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Potatoes 1kg,6,1200,7200,0.049,352.8,6847.2,MM Alam,4,2024-04-01,Q2,Friday,False,True,Up to 5%,5k-20k
+TXN-00230,2024-04-05,2024,April,Islamabad - F-7,Islamabad,Toys,Educational,Stem Kit,1,2500,2500,0.0,0.0,2500.0,F-7,4,2024-04-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00502,2024-04-06,2024,April,Lahore - MM Alam,Lahore,Bakery,Cookies,Coconut Biscuits,8,1050,8400,0.0,0.0,8400.0,MM Alam,4,2024-04-01,Q2,Saturday,True,False,No discount,5k-20k
+TXN-00733,2024-04-06,2024,April,Karachi - Tariq Road,Karachi,Apparel,Footwear,Slippers Pair,1,3150,3150,0.0,0.0,3150.0,Tariq Road,4,2024-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00618,2024-04-09,2024,April,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,2,950,1900,0.095,180.5,1719.5,Latifabad,4,2024-04-01,Q2,Tuesday,False,True,5-10%,1k-5k
+TXN-00638,2024-04-09,2024,April,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Chana Dal 1kg,5,270,1350,0.053,71.55,1278.45,MM Alam,4,2024-04-01,Q2,Tuesday,False,True,5-10%,1k-5k
+TXN-00749,2024-04-09,2024,April,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Spinach 500g,2,150,300,0.0,0.0,300.0,F-7,4,2024-04-01,Q2,Tuesday,False,False,No discount,Under 1k
+TXN-00776,2024-04-09,2024,April,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Apples 1kg,2,900,1800,0.009,16.2,1783.8,Tariq Road,4,2024-04-01,Q2,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00165,2024-04-12,2024,April,Karachi - Tariq Road,Karachi,Household,Home Essentials,Bed Sheet Set,1,1700,1700,0.0,0.0,1700.0,Tariq Road,4,2024-04-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00577,2024-04-12,2024,April,Islamabad - F-7,Islamabad,Cosmetics,Fragrances,Attar 12ml,1,2250,2250,0.0,0.0,2250.0,F-7,4,2024-04-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00955,2024-04-13,2024,April,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Cola 2.25L,3,2300,6900,0.041,282.90000000000003,6617.1,Latifabad,4,2024-04-01,Q2,Saturday,True,True,Up to 5%,5k-20k
+TXN-00172,2024-04-16,2024,April,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Basmati Rice 5kg,10,1000,10000,0.0,0.0,10000.0,F-7,4,2024-04-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00373,2024-04-16,2024,April,Lahore - MM Alam,Lahore,Groceries,Packaged Foods,Tomato Ketchup 1L,4,1950,7800,0.0,0.0,7800.0,MM Alam,4,2024-04-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00986,2024-04-16,2024,April,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Basmati Rice 5kg,2,170,340,0.059,20.06,319.94,F-7,4,2024-04-01,Q2,Tuesday,False,True,5-10%,Under 1k
+TXN-00371,2024-04-17,2024,April,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Broken Rice 2kg,1,1700,1700,0.0,0.0,1700.0,MM Alam,4,2024-04-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00456,2024-04-17,2024,April,Lahore - MM Alam,Lahore,Toys,Action Figures,Soldier Set,3,2450,7350,0.212,1558.2,5791.8,MM Alam,4,2024-04-01,Q2,Wednesday,False,True,Over 20%,5k-20k
+TXN-00831,2024-04-19,2024,April,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Shampoo 400ml,1,1750,1750,0.0,0.0,1750.0,Latifabad,4,2024-04-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00260,2024-04-20,2024,April,Islamabad - F-7,Islamabad,Bakery,Cookies,Chocolate Chip Cookies,3,800,2400,0.0,0.0,2400.0,F-7,4,2024-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00676,2024-04-20,2024,April,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Sella Rice 10kg,4,1700,6800,0.0,0.0,6800.0,Latifabad,4,2024-04-01,Q2,Saturday,True,False,No discount,5k-20k
+TXN-00763,2024-04-20,2024,April,Hyderabad - Latifabad,Hyderabad,Household,Home Essentials,Curtains Pair,2,430,860,0.017,14.620000000000001,845.38,Latifabad,4,2024-04-01,Q2,Saturday,True,True,Up to 5%,Under 1k
+TXN-00829,2024-04-22,2024,April,Karachi - Tariq Road,Karachi,Groceries,Beverages,Mineral Water 1.5L,5,1750,8750,0.0,0.0,8750.0,Tariq Road,4,2024-04-01,Q2,Monday,False,False,No discount,5k-20k
+TXN-00188,2024-04-24,2024,April,Hyderabad - Latifabad,Hyderabad,Household,Cleaning Supplies,Floor Cleaner 1L,1,2600,2600,0.0,0.0,2600.0,Latifabad,4,2024-04-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00556,2024-04-25,2024,April,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Fabric Softener 2L,3,800,2400,0.003,7.2,2392.8,Latifabad,4,2024-04-01,Q2,Thursday,False,True,Up to 5%,1k-5k
+TXN-00590,2024-04-27,2024,April,Karachi - Tariq Road,Karachi,Electronics,Gadgets,Phone Case Set,1,67000,67000,0.103,6901.0,60099.0,Tariq Road,4,2024-04-01,Q2,Saturday,True,True,10-20%,Over 20k
+TXN-00271,2024-04-29,2024,April,Islamabad - F-7,Islamabad,Cosmetics,Skincare,Moisturizer 50ml,3,1150,3450,0.0,0.0,3450.0,F-7,4,2024-04-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00884,2024-05-01,2024,May,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Sandwich Maker,1,85000,85000,0.0,0.0,85000.0,MM Alam,5,2024-05-01,Q2,Wednesday,False,False,No discount,Over 20k
+TXN-00942,2024-05-01,2024,May,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Canned Tuna 200g,6,600,3600,0.004,14.4,3585.6,Latifabad,5,2024-05-01,Q2,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00016,2024-05-03,2024,May,Lahore - MM Alam,Lahore,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,5,370,1850,0.007,12.950000000000001,1837.05,MM Alam,5,2024-05-01,Q2,Friday,False,True,Up to 5%,1k-5k
+TXN-00756,2024-05-03,2024,May,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Mustard Oil 1L,3,450,1350,0.0,0.0,1350.0,MM Alam,5,2024-05-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00139,2024-05-04,2024,May,Islamabad - F-7,Islamabad,Apparel,Footwear,Sandal (Women),1,1650,1650,0.0,0.0,1650.0,F-7,5,2024-05-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00364,2024-05-04,2024,May,Karachi - Tariq Road,Karachi,Household,Laundry,Stain Remover 500ml,3,600,1800,0.0,0.0,1800.0,Tariq Road,5,2024-05-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00847,2024-05-04,2024,May,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Basmati Rice 5kg,1,1650,1650,0.0,0.0,1650.0,Tariq Road,5,2024-05-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00207,2024-05-06,2024,May,Islamabad - F-7,Islamabad,Toys,Board Games,Monopoly Set,1,2300,2300,0.127,292.1,2007.9,F-7,5,2024-05-01,Q2,Monday,False,True,10-20%,1k-5k
+TXN-00211,2024-05-06,2024,May,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Teddy Bear Medium,1,4350,4350,0.241,1048.35,3301.65,Latifabad,5,2024-05-01,Q2,Monday,False,True,Over 20%,1k-5k
+TXN-00764,2024-05-06,2024,May,Islamabad - F-7,Islamabad,Bakery,Cookies,Coconut Biscuits,10,1400,14000,0.0,0.0,14000.0,F-7,5,2024-05-01,Q2,Monday,False,False,No discount,5k-20k
+TXN-00978,2024-05-06,2024,May,Karachi - Tariq Road,Karachi,Toys,Board Games,Monopoly Set,3,390,1170,0.07,81.9,1088.1,Tariq Road,5,2024-05-01,Q2,Monday,False,True,5-10%,1k-5k
+TXN-00180,2024-05-07,2024,May,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Juicer Blender,1,65500,65500,0.0,0.0,65500.0,MM Alam,5,2024-05-01,Q2,Tuesday,False,False,No discount,Over 20k
+TXN-00461,2024-05-12,2024,May,Karachi - Tariq Road,Karachi,Household,Laundry,Stain Remover 500ml,3,1100,3300,0.0,0.0,3300.0,Tariq Road,5,2024-05-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00805,2024-05-12,2024,May,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Sandwich Maker,1,64500,64500,0.0,0.0,64500.0,MM Alam,5,2024-05-01,Q2,Sunday,True,False,No discount,Over 20k
+TXN-00006,2024-05-13,2024,May,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),2,600,1200,0.0,0.0,1200.0,Tariq Road,5,2024-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00109,2024-05-13,2024,May,Islamabad - F-7,Islamabad,Toys,Action Figures,Dinosaur Set,1,4300,4300,0.0,0.0,4300.0,F-7,5,2024-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00404,2024-05-13,2024,May,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Soft Toy (Big),3,4200,12600,0.0,0.0,12600.0,Tariq Road,5,2024-05-01,Q2,Monday,False,False,No discount,5k-20k
+TXN-00600,2024-05-13,2024,May,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,Sandal (Women),2,5000,10000,0.075,750.0,9250.0,Latifabad,5,2024-05-01,Q2,Monday,False,True,5-10%,5k-20k
+TXN-00787,2024-05-14,2024,May,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Cupcake Pack (6pc),1,1150,1150,0.099,113.85000000000001,1036.15,Tariq Road,5,2024-05-01,Q2,Tuesday,False,True,5-10%,1k-5k
+TXN-00937,2024-05-19,2024,May,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Carrots 500g,1,650,650,0.0,0.0,650.0,Tariq Road,5,2024-05-01,Q2,Sunday,True,False,No discount,Under 1k
+TXN-00263,2024-05-21,2024,May,Karachi - Tariq Road,Karachi,Cosmetics,Personal Care,Conditioner 200ml,1,2450,2450,0.057,139.65,2310.35,Tariq Road,5,2024-05-01,Q2,Tuesday,False,True,5-10%,1k-5k
+TXN-00925,2024-05-21,2024,May,Karachi - Tariq Road,Karachi,Cosmetics,Makeup,Foundation 30ml,1,800,800,0.0,0.0,800.0,Tariq Road,5,2024-05-01,Q2,Tuesday,False,False,No discount,Under 1k
+TXN-00708,2024-05-23,2024,May,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Vanilla Cake 500g,12,1450,17400,0.084,1461.6000000000001,15938.4,F-7,5,2024-05-01,Q2,Thursday,False,True,5-10%,5k-20k
+TXN-00405,2024-05-28,2024,May,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Grapes 500g,3,800,2400,0.021,50.400000000000006,2349.6,Tariq Road,5,2024-05-01,Q2,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00161,2024-06-01,2024,June,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Butter 200g,1,600,600,0.0,0.0,600.0,F-7,6,2024-06-01,Q2,Saturday,True,False,No discount,Under 1k
+TXN-00030,2024-06-02,2024,June,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Night Cream 30ml,1,3300,3300,0.078,257.4,3042.6,Tariq Road,6,2024-06-01,Q2,Sunday,True,True,5-10%,1k-5k
+TXN-00269,2024-06-03,2024,June,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Onions 1kg,2,900,1800,0.0,0.0,1800.0,Latifabad,6,2024-06-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00644,2024-06-04,2024,June,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Stem Kit,4,400,1600,0.069,110.4,1489.6,Latifabad,6,2024-06-01,Q2,Tuesday,False,True,5-10%,1k-5k
+TXN-00295,2024-06-06,2024,June,Karachi - Tariq Road,Karachi,Electronics,Small Appliances,Microwave Oven,2,29500,59000,0.065,3835.0,55165.0,Tariq Road,6,2024-06-01,Q2,Thursday,False,True,5-10%,Over 20k
+TXN-00909,2024-06-08,2024,June,Karachi - Tariq Road,Karachi,Apparel,Kids Wear,Kids T-Shirt,1,4500,4500,0.0,0.0,4500.0,Tariq Road,6,2024-06-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00724,2024-06-10,2024,June,Karachi - Tariq Road,Karachi,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,6,800,4800,0.032,153.6,4646.4,Tariq Road,6,2024-06-01,Q2,Monday,False,True,Up to 5%,1k-5k
+TXN-00860,2024-06-10,2024,June,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Chess Set,1,460,460,0.123,56.58,403.42,Latifabad,6,2024-06-01,Q2,Monday,False,True,10-20%,Under 1k
+TXN-00022,2024-06-11,2024,June,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Microwave Oven,2,29500,59000,0.1,5900.0,53100.0,MM Alam,6,2024-06-01,Q2,Tuesday,False,True,5-10%,Over 20k
+TXN-00167,2024-06-12,2024,June,Hyderabad - Latifabad,Hyderabad,Bakery,Breads,Brown Bread Loaf,6,350,2100,0.0,0.0,2100.0,Latifabad,6,2024-06-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00544,2024-06-13,2024,June,Lahore - MM Alam,Lahore,Apparel,Footwear,Slippers Pair,1,2000,2000,0.0,0.0,2000.0,MM Alam,6,2024-06-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00507,2024-06-14,2024,June,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Cartoon Plush Toy,1,2000,2000,0.0,0.0,2000.0,Tariq Road,6,2024-06-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00538,2024-06-14,2024,June,Karachi - Tariq Road,Karachi,Cosmetics,Fragrances,Perfume 50ml (Women),1,2450,2450,0.0,0.0,2450.0,Tariq Road,6,2024-06-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00717,2024-06-15,2024,June,Islamabad - F-7,Islamabad,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,2,600,1200,0.0,0.0,1200.0,F-7,6,2024-06-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00650,2024-06-16,2024,June,Lahore - MM Alam,Lahore,Household,Home Essentials,Curtains Pair,1,1950,1950,0.023,44.85,1905.15,MM Alam,6,2024-06-01,Q2,Sunday,True,True,Up to 5%,1k-5k
+TXN-00552,2024-06-17,2024,June,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Body Wash 500ml,1,2250,2250,0.044,99.0,2151.0,F-7,6,2024-06-01,Q2,Monday,False,True,Up to 5%,1k-5k
+TXN-00511,2024-06-18,2024,June,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Basmati Rice 5kg,10,470,4700,0.0,0.0,4700.0,Latifabad,6,2024-06-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00672,2024-06-18,2024,June,Islamabad - F-7,Islamabad,Toys,Action Figures,Dinosaur Set,2,2850,5700,0.0,0.0,5700.0,F-7,6,2024-06-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00328,2024-06-19,2024,June,Lahore - MM Alam,Lahore,Groceries,Spices,Garam Masala 100g,3,900,2700,0.0,0.0,2700.0,MM Alam,6,2024-06-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00421,2024-06-19,2024,June,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Tomatoes 1kg,2,310,620,0.0,0.0,620.0,F-7,6,2024-06-01,Q2,Wednesday,False,False,No discount,Under 1k
+TXN-00625,2024-06-20,2024,June,Islamabad - F-7,Islamabad,Groceries,Spices,Coriander Powder 200g,2,750,1500,0.0,0.0,1500.0,F-7,6,2024-06-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00694,2024-06-20,2024,June,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Cartoon Plush Toy,1,3850,3850,0.0,0.0,3850.0,Latifabad,6,2024-06-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00307,2024-06-22,2024,June,Lahore - MM Alam,Lahore,Groceries,Spices,Red Chilli Powder 200g,2,1450,2900,0.0,0.0,2900.0,MM Alam,6,2024-06-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00304,2024-06-25,2024,June,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Butter 200g,1,180,180,0.049,8.82,171.18,F-7,6,2024-06-01,Q2,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00199,2024-06-27,2024,June,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Body Wash 500ml,1,3350,3350,0.149,499.15,2850.85,F-7,6,2024-06-01,Q2,Thursday,False,True,10-20%,1k-5k
+TXN-00363,2024-06-27,2024,June,Hyderabad - Latifabad,Hyderabad,Apparel,Kids Wear,Kids T-Shirt,2,2900,5800,0.0,0.0,5800.0,Latifabad,6,2024-06-01,Q2,Thursday,False,False,No discount,5k-20k
+TXN-00483,2024-06-28,2024,June,Islamabad - F-7,Islamabad,Apparel,Footwear,Sneakers (Men),1,1400,1400,0.243,340.2,1059.8,F-7,6,2024-06-01,Q2,Friday,False,True,Over 20%,1k-5k
+TXN-00786,2024-06-28,2024,June,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Moong Dal 1kg,1,2350,2350,0.054,126.89999999999999,2223.1,MM Alam,6,2024-06-01,Q2,Friday,False,True,5-10%,1k-5k
+TXN-00330,2024-06-29,2024,June,Islamabad - F-7,Islamabad,Apparel,Footwear,Slippers Pair,4,5500,22000,0.166,3652.0,18348.0,F-7,6,2024-06-01,Q2,Saturday,True,True,10-20%,5k-20k
+TXN-00549,2024-06-29,2024,June,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Yogurt 1kg,3,850,2550,0.0,0.0,2550.0,MM Alam,6,2024-06-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00854,2024-06-29,2024,June,Lahore - MM Alam,Lahore,Household,Kitchenware,Non-stick Pan,1,1550,1550,0.0,0.0,1550.0,MM Alam,6,2024-06-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00282,2024-06-30,2024,June,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Cream Pastry,1,650,650,0.0,0.0,650.0,Tariq Road,6,2024-06-01,Q2,Sunday,True,False,No discount,Under 1k
+TXN-00820,2024-07-01,2024,July,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Potatoes 1kg,3,200,600,0.0,0.0,600.0,Tariq Road,7,2024-07-01,Q3,Monday,False,False,No discount,Under 1k
+TXN-00175,2024-07-02,2024,July,Karachi - Tariq Road,Karachi,Toys,Board Games,Ludo Family Set,1,900,900,0.0,0.0,900.0,Tariq Road,7,2024-07-01,Q3,Tuesday,False,False,No discount,Under 1k
+TXN-00573,2024-07-03,2024,July,Islamabad - F-7,Islamabad,Household,Home Essentials,Pillow Pair,2,2200,4400,0.0,0.0,4400.0,F-7,7,2024-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00752,2024-07-03,2024,July,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Yogurt 1kg,1,700,700,0.0,0.0,700.0,Tariq Road,7,2024-07-01,Q3,Wednesday,False,False,No discount,Under 1k
+TXN-00569,2024-07-06,2024,July,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Mixed Beans 500g,3,550,1650,0.048,79.2,1570.8,Tariq Road,7,2024-07-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00336,2024-07-07,2024,July,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Cotton Shalwar Kameez,1,2600,2600,0.244,634.4,1965.6,F-7,7,2024-07-01,Q3,Sunday,True,True,Over 20%,1k-5k
+TXN-00525,2024-07-11,2024,July,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),2,1550,3100,0.103,319.29999999999995,2780.7,Tariq Road,7,2024-07-01,Q3,Thursday,False,True,10-20%,1k-5k
+TXN-00187,2024-07-16,2024,July,Islamabad - F-7,Islamabad,Cosmetics,Skincare,Sunscreen SPF 50,1,3350,3350,0.139,465.65000000000003,2884.35,F-7,7,2024-07-01,Q3,Tuesday,False,True,10-20%,1k-5k
+TXN-00921,2024-07-16,2024,July,Islamabad - F-7,Islamabad,Cosmetics,Skincare,Moisturizer 50ml,5,2100,10500,0.0,0.0,10500.0,F-7,7,2024-07-01,Q3,Tuesday,False,False,No discount,5k-20k
+TXN-00011,2024-07-18,2024,July,Lahore - MM Alam,Lahore,Groceries,Packaged Foods,Tomato Ketchup 1L,3,1450,4350,0.0,0.0,4350.0,MM Alam,7,2024-07-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00797,2024-07-18,2024,July,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),1,2950,2950,0.03,88.5,2861.5,Tariq Road,7,2024-07-01,Q3,Thursday,False,True,Up to 5%,1k-5k
+TXN-00868,2024-07-19,2024,July,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Fresh Milk 1L,1,230,230,0.032,7.36,222.64,Tariq Road,7,2024-07-01,Q3,Friday,False,True,Up to 5%,Under 1k
+TXN-00329,2024-07-22,2024,July,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Bananas 1 dozen,3,350,1050,0.0,0.0,1050.0,MM Alam,7,2024-07-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00902,2024-07-22,2024,July,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids T-Shirt,1,3700,3700,0.201,743.7,2956.3,F-7,7,2024-07-01,Q3,Monday,False,True,Over 20%,1k-5k
+TXN-00882,2024-07-24,2024,July,Hyderabad - Latifabad,Hyderabad,Household,Home Essentials,Bed Sheet Set,2,2450,4900,0.0,0.0,4900.0,Latifabad,7,2024-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00151,2024-07-26,2024,July,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Dishwash Liquid 1L,1,4000,4000,0.0,0.0,4000.0,MM Alam,7,2024-07-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00555,2024-07-26,2024,July,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Noodles Family Pack,8,1800,14400,0.0,0.0,14400.0,F-7,7,2024-07-01,Q3,Friday,False,False,No discount,5k-20k
+TXN-00372,2024-07-27,2024,July,Karachi - Tariq Road,Karachi,Household,Cleaning Supplies,Floor Cleaner 1L,4,2700,10800,0.0,0.0,10800.0,Tariq Road,7,2024-07-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00463,2024-07-27,2024,July,Lahore - MM Alam,Lahore,Groceries,Packaged Foods,Tomato Ketchup 1L,4,550,2200,0.041,90.2,2109.8,MM Alam,7,2024-07-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00935,2024-07-27,2024,July,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Cartoon Plush Toy,2,4500,9000,0.0,0.0,9000.0,Tariq Road,7,2024-07-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00287,2024-07-29,2024,July,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Fabric Softener 2L,3,1050,3150,0.0,0.0,3150.0,Latifabad,7,2024-07-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00251,2024-07-31,2024,July,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Yogurt 1kg,5,900,4500,0.007,31.5,4468.5,MM Alam,7,2024-07-01,Q3,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00509,2024-07-31,2024,July,Hyderabad - Latifabad,Hyderabad,Cosmetics,Skincare,Sunscreen SPF 50,1,2450,2450,0.082,200.9,2249.1,Latifabad,7,2024-07-01,Q3,Wednesday,False,True,5-10%,1k-5k
+TXN-00814,2024-07-31,2024,July,Karachi - Tariq Road,Karachi,Household,Laundry,Detergent Powder 3kg,1,1500,1500,0.0,0.0,1500.0,Tariq Road,7,2024-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00830,2024-08-01,2024,August,Lahore - MM Alam,Lahore,Groceries,Spices,Turmeric Powder 200g,10,2100,21000,0.024,504.0,20496.0,MM Alam,8,2024-08-01,Q3,Thursday,False,True,Up to 5%,Over 20k
+TXN-00131,2024-08-04,2024,August,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Moong Dal 1kg,5,1950,9750,0.021,204.75,9545.25,Tariq Road,8,2024-08-01,Q3,Sunday,True,True,Up to 5%,5k-20k
+TXN-00155,2024-08-04,2024,August,Islamabad - F-7,Islamabad,Electronics,Audio & Accessories,Wired Headphones,2,10000,20000,0.057,1140.0,18860.0,F-7,8,2024-08-01,Q3,Sunday,True,True,5-10%,5k-20k
+TXN-00406,2024-08-06,2024,August,Islamabad - F-7,Islamabad,Groceries,Spices,Garam Masala 100g,3,2500,7500,0.039,292.5,7207.5,F-7,8,2024-08-01,Q3,Tuesday,False,True,Up to 5%,5k-20k
+TXN-00858,2024-08-06,2024,August,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Patties Pack (6pc),6,900,5400,0.0,0.0,5400.0,Latifabad,8,2024-08-01,Q3,Tuesday,False,False,No discount,5k-20k
+TXN-00334,2024-08-07,2024,August,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Wireless Earbuds,2,35500,71000,0.128,9088.0,61912.0,Tariq Road,8,2024-08-01,Q3,Wednesday,False,True,10-20%,Over 20k
+TXN-00747,2024-08-07,2024,August,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Sandwich Maker,1,60500,60500,0.073,4416.5,56083.5,MM Alam,8,2024-08-01,Q3,Wednesday,False,True,5-10%,Over 20k
+TXN-00327,2024-08-08,2024,August,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Spinach 500g,1,1050,1050,0.025,26.25,1023.75,Tariq Road,8,2024-08-01,Q3,Thursday,False,True,Up to 5%,1k-5k
+TXN-00648,2024-08-09,2024,August,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Pizza Base (2pc),4,470,1880,0.092,172.96,1707.04,Latifabad,8,2024-08-01,Q3,Friday,False,True,5-10%,1k-5k
+TXN-00201,2024-08-11,2024,August,Karachi - Tariq Road,Karachi,Cosmetics,Makeup,Foundation 30ml,1,2300,2300,0.0,0.0,2300.0,Tariq Road,8,2024-08-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00417,2024-08-13,2024,August,Karachi - Tariq Road,Karachi,Toys,Action Figures,Superhero Action Figure,3,3650,10950,0.229,2507.55,8442.45,Tariq Road,8,2024-08-01,Q3,Tuesday,False,True,Over 20%,5k-20k
+TXN-00453,2024-08-15,2024,August,Lahore - MM Alam,Lahore,Electronics,Gadgets,Phone Case Set,1,72000,72000,0.0,0.0,72000.0,MM Alam,8,2024-08-01,Q3,Thursday,False,False,No discount,Over 20k
+TXN-00551,2024-08-15,2024,August,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Lipstick,2,1450,2900,0.0,0.0,2900.0,Latifabad,8,2024-08-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00948,2024-08-15,2024,August,Hyderabad - Latifabad,Hyderabad,Groceries,Lentils & Beans,Chana Dal 1kg,1,600,600,0.059,35.4,564.6,Latifabad,8,2024-08-01,Q3,Thursday,False,True,5-10%,Under 1k
+TXN-00078,2024-08-17,2024,August,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Sound Bar,1,58000,58000,0.109,6322.0,51678.0,Tariq Road,8,2024-08-01,Q3,Saturday,True,True,10-20%,Over 20k
+TXN-00723,2024-08-17,2024,August,Lahore - MM Alam,Lahore,Electronics,Gadgets,Phone Charger,1,2500,2500,0.054,135.0,2365.0,MM Alam,8,2024-08-01,Q3,Saturday,True,True,5-10%,1k-5k
+TXN-00811,2024-08-19,2024,August,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Vanilla Cake 500g,1,450,450,0.0,0.0,450.0,F-7,8,2024-08-01,Q3,Monday,False,False,No discount,Under 1k
+TXN-00877,2024-08-19,2024,August,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Sound Bar,1,50000,50000,0.0,0.0,50000.0,Tariq Road,8,2024-08-01,Q3,Monday,False,False,No discount,Over 20k
+TXN-00178,2024-08-20,2024,August,Islamabad - F-7,Islamabad,Bakery,Cookies,Marie Biscuits Family Pack,3,900,2700,0.0,0.0,2700.0,F-7,8,2024-08-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00940,2024-08-21,2024,August,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Oranges 1kg,2,360,720,0.029,20.880000000000003,699.12,MM Alam,8,2024-08-01,Q3,Wednesday,False,True,Up to 5%,Under 1k
+TXN-00927,2024-08-22,2024,August,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Whole Chicken 1.5kg,10,500,5000,0.0,0.0,5000.0,Latifabad,8,2024-08-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00783,2024-08-24,2024,August,Islamabad - F-7,Islamabad,Groceries,Beverages,Coffee Jar 200g,3,1700,5100,0.064,326.40000000000003,4773.6,F-7,8,2024-08-01,Q3,Saturday,True,True,5-10%,1k-5k
+TXN-00839,2024-08-24,2024,August,Karachi - Tariq Road,Karachi,Electronics,Gadgets,Phone Case Set,1,27500,27500,0.114,3135.0,24365.0,Tariq Road,8,2024-08-01,Q3,Saturday,True,True,10-20%,Over 20k
+TXN-00619,2024-08-26,2024,August,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Chana Dal 1kg,3,400,1200,0.0,0.0,1200.0,Tariq Road,8,2024-08-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00515,2024-08-27,2024,August,Karachi - Tariq Road,Karachi,Electronics,Mobiles & Tablets,Smartphone 64GB,1,28500,28500,0.0,0.0,28500.0,Tariq Road,8,2024-08-01,Q3,Tuesday,False,False,No discount,Over 20k
+TXN-00466,2024-08-28,2024,August,Karachi - Tariq Road,Karachi,Bakery,Breads,Bun Pack (6pc),5,1050,5250,0.0,0.0,5250.0,Tariq Road,8,2024-08-01,Q3,Wednesday,False,False,No discount,5k-20k
+TXN-00578,2024-08-29,2024,August,Islamabad - F-7,Islamabad,Household,Home Essentials,Bath Towel,2,2400,4800,0.0,0.0,4800.0,F-7,8,2024-08-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00667,2024-08-30,2024,August,Karachi - Tariq Road,Karachi,Electronics,Small Appliances,Sandwich Maker,1,1550,1550,0.0,0.0,1550.0,Tariq Road,8,2024-08-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00138,2024-08-31,2024,August,Islamabad - F-7,Islamabad,Toys,Plush Toys,Soft Toy (Big),1,2000,2000,0.167,334.0,1666.0,F-7,8,2024-08-01,Q3,Saturday,True,True,10-20%,1k-5k
+TXN-00684,2024-09-01,2024,September,Islamabad - F-7,Islamabad,Bakery,Savoury,Pizza Base (2pc),6,1500,9000,0.064,576.0,8424.0,F-7,9,2024-09-01,Q3,Sunday,True,True,5-10%,5k-20k
+TXN-00546,2024-09-02,2024,September,Lahore - MM Alam,Lahore,Groceries,Spices,Coriander Powder 200g,4,950,3800,0.021,79.80000000000001,3720.2,MM Alam,9,2024-09-01,Q3,Monday,False,True,Up to 5%,1k-5k
+TXN-00293,2024-09-03,2024,September,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Wheat Flour 5kg,2,850,1700,0.038,64.6,1635.4,Tariq Road,9,2024-09-01,Q3,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00629,2024-09-03,2024,September,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Oranges 1kg,8,1050,8400,0.022,184.79999999999998,8215.2,F-7,9,2024-09-01,Q3,Tuesday,False,True,Up to 5%,5k-20k
+TXN-00748,2024-09-03,2024,September,Islamabad - F-7,Islamabad,Household,Laundry,Fabric Softener 2L,1,850,850,0.0,0.0,850.0,F-7,9,2024-09-01,Q3,Tuesday,False,False,No discount,Under 1k
+TXN-00325,2024-09-05,2024,September,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),2,1850,3700,0.0,0.0,3700.0,Tariq Road,9,2024-09-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00885,2024-09-05,2024,September,Islamabad - F-7,Islamabad,Apparel,Footwear,School Shoes (Kids),1,5500,5500,0.0,0.0,5500.0,F-7,9,2024-09-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00174,2024-09-06,2024,September,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Mutton 1kg,10,850,8500,0.0,0.0,8500.0,Latifabad,9,2024-09-01,Q3,Friday,False,False,No discount,5k-20k
+TXN-00951,2024-09-07,2024,September,Islamabad - F-7,Islamabad,Apparel,Women's Wear,Abaya,1,5500,5500,0.205,1127.5,4372.5,F-7,9,2024-09-01,Q3,Saturday,True,True,Over 20%,1k-5k
+TXN-00543,2024-09-08,2024,September,Hyderabad - Latifabad,Hyderabad,Apparel,Men's Wear,Cotton Shalwar Kameez,1,4550,4550,0.215,978.25,3571.75,Latifabad,9,2024-09-01,Q3,Sunday,True,True,Over 20%,1k-5k
+TXN-00046,2024-09-11,2024,September,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Masoor Dal 1kg,8,450,3600,0.016,57.6,3542.4,F-7,9,2024-09-01,Q3,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00473,2024-09-11,2024,September,Lahore - MM Alam,Lahore,Toys,Educational,Stem Kit,1,3800,3800,0.134,509.20000000000005,3290.8,MM Alam,9,2024-09-01,Q3,Wednesday,False,True,10-20%,1k-5k
+TXN-00796,2024-09-11,2024,September,Islamabad - F-7,Islamabad,Groceries,Spices,Garam Masala 100g,6,850,5100,0.06,306.0,4794.0,F-7,9,2024-09-01,Q3,Wednesday,False,True,5-10%,1k-5k
+TXN-00077,2024-09-12,2024,September,Lahore - MM Alam,Lahore,Toys,Board Games,Puzzle (100pc),1,3600,3600,0.0,0.0,3600.0,MM Alam,9,2024-09-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00280,2024-09-12,2024,September,Hyderabad - Latifabad,Hyderabad,Groceries,Spices,Coriander Powder 200g,2,1600,3200,0.065,208.0,2992.0,Latifabad,9,2024-09-01,Q3,Thursday,False,True,5-10%,1k-5k
+TXN-00033,2024-09-13,2024,September,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Sella Rice 10kg,4,210,840,0.03,25.2,814.8,F-7,9,2024-09-01,Q3,Friday,False,True,Up to 5%,Under 1k
+TXN-00912,2024-09-13,2024,September,Hyderabad - Latifabad,Hyderabad,Electronics,Mobiles & Tablets,Smartphone 64GB,1,62000,62000,0.0,0.0,62000.0,Latifabad,9,2024-09-01,Q3,Friday,False,False,No discount,Over 20k
+TXN-00400,2024-09-15,2024,September,Karachi - Tariq Road,Karachi,Groceries,Packaged Foods,Canned Tuna 200g,4,750,3000,0.01,30.0,2970.0,Tariq Road,9,2024-09-01,Q3,Sunday,True,True,Up to 5%,1k-5k
+TXN-00718,2024-09-15,2024,September,Karachi - Tariq Road,Karachi,Groceries,Spices,Red Chilli Powder 200g,2,1400,2800,0.0,0.0,2800.0,Tariq Road,9,2024-09-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00778,2024-09-18,2024,September,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,6,450,2700,0.0,0.0,2700.0,F-7,9,2024-09-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00031,2024-09-21,2024,September,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Grapes 500g,1,370,370,0.0,0.0,370.0,Latifabad,9,2024-09-01,Q3,Saturday,True,False,No discount,Under 1k
+TXN-00115,2024-09-21,2024,September,Karachi - Tariq Road,Karachi,Household,Kitchenware,Glass Set (6pc),1,420,420,0.05,21.0,399.0,Tariq Road,9,2024-09-01,Q3,Saturday,True,True,Up to 5%,Under 1k
+TXN-00668,2024-09-26,2024,September,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Yogurt 1kg,4,1100,4400,0.0,0.0,4400.0,Tariq Road,9,2024-09-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00057,2024-09-27,2024,September,Lahore - MM Alam,Lahore,Bakery,Savoury,Patties Pack (6pc),2,1750,3500,0.0,0.0,3500.0,MM Alam,9,2024-09-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00433,2024-09-28,2024,September,Islamabad - F-7,Islamabad,Bakery,Breads,Brown Bread Loaf,2,650,1300,0.008,10.4,1289.6,F-7,9,2024-09-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00982,2024-09-29,2024,September,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Stain Remover 500ml,1,4000,4000,0.073,292.0,3708.0,Latifabad,9,2024-09-01,Q3,Sunday,True,True,5-10%,1k-5k
+TXN-00816,2024-09-30,2024,September,Karachi - Tariq Road,Karachi,Toys,Educational,Geography Globe,1,1350,1350,0.195,263.25,1086.75,Tariq Road,9,2024-09-01,Q3,Monday,False,True,10-20%,1k-5k
+TXN-00092,2024-10-01,2024,October,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Sandwich Maker,2,81500,163000,0.0,0.0,163000.0,Latifabad,10,2024-10-01,Q4,Tuesday,False,False,No discount,Over 20k
+TXN-00135,2024-10-01,2024,October,Islamabad - F-7,Islamabad,Toys,Board Games,Chess Set,2,600,1200,0.29,348.0,852.0,F-7,10,2024-10-01,Q4,Tuesday,False,True,Over 20%,Under 1k
+TXN-00731,2024-10-01,2024,October,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Basmati Rice 5kg,10,1100,11000,0.0,0.0,11000.0,Latifabad,10,2024-10-01,Q4,Tuesday,False,False,No discount,5k-20k
+TXN-00076,2024-10-02,2024,October,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Mixed Beans 500g,1,2300,2300,0.0,0.0,2300.0,F-7,10,2024-10-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00121,2024-10-03,2024,October,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Wireless Earbuds,1,29000,29000,0.136,3944.0000000000005,25056.0,MM Alam,10,2024-10-01,Q4,Thursday,False,True,10-20%,Over 20k
+TXN-00032,2024-10-10,2024,October,Karachi - Tariq Road,Karachi,Toys,Action Figures,Soldier Set,1,1350,1350,0.0,0.0,1350.0,Tariq Road,10,2024-10-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00213,2024-10-12,2024,October,Karachi - Tariq Road,Karachi,Fresh Produce,Meat & Poultry,Mutton 1kg,8,650,5200,0.0,0.0,5200.0,Tariq Road,10,2024-10-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00026,2024-10-13,2024,October,Islamabad - F-7,Islamabad,Electronics,Gadgets,Phone Charger,1,24500,24500,0.114,2793.0,21707.0,F-7,10,2024-10-01,Q4,Sunday,True,True,10-20%,Over 20k
+TXN-00712,2024-10-14,2024,October,Islamabad - F-7,Islamabad,Electronics,Gadgets,USB Cable Type-C,1,20000,20000,0.08,1600.0,18400.0,F-7,10,2024-10-01,Q4,Monday,False,True,5-10%,5k-20k
+TXN-00768,2024-10-14,2024,October,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Fresh Milk 1L,1,800,800,0.0,0.0,800.0,MM Alam,10,2024-10-01,Q4,Monday,False,False,No discount,Under 1k
+TXN-00108,2024-10-16,2024,October,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,1,900,900,0.0,0.0,900.0,Latifabad,10,2024-10-01,Q4,Wednesday,False,False,No discount,Under 1k
+TXN-00415,2024-10-16,2024,October,Islamabad - F-7,Islamabad,Household,Cleaning Supplies,Toilet Cleaner 1L,1,3650,3650,0.0,0.0,3650.0,F-7,10,2024-10-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00267,2024-10-17,2024,October,Karachi - Tariq Road,Karachi,Bakery,Cookies,Marie Biscuits Family Pack,1,1250,1250,0.0,0.0,1250.0,Tariq Road,10,2024-10-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00299,2024-10-19,2024,October,Hyderabad - Latifabad,Hyderabad,Apparel,Kids Wear,Kids Frock,1,5500,5500,0.0,0.0,5500.0,Latifabad,10,2024-10-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00038,2024-10-21,2024,October,Karachi - Tariq Road,Karachi,Groceries,Spices,Coriander Powder 200g,6,800,4800,0.0,0.0,4800.0,Tariq Road,10,2024-10-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00297,2024-10-23,2024,October,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,Sandal (Women),1,2200,2200,0.0,0.0,2200.0,Latifabad,10,2024-10-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00342,2024-10-23,2024,October,Hyderabad - Latifabad,Hyderabad,Toys,Action Figures,Superhero Action Figure,2,4050,8100,0.106,858.6,7241.4,Latifabad,10,2024-10-01,Q4,Wednesday,False,True,10-20%,5k-20k
+TXN-00279,2024-10-25,2024,October,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Shampoo 400ml,3,430,1290,0.02,25.8,1264.2,F-7,10,2024-10-01,Q4,Friday,False,True,Up to 5%,1k-5k
+TXN-00477,2024-10-25,2024,October,Lahore - MM Alam,Lahore,Toys,Action Figures,Superhero Action Figure,1,2300,2300,0.0,0.0,2300.0,MM Alam,10,2024-10-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00548,2024-10-25,2024,October,Lahore - MM Alam,Lahore,Electronics,Gadgets,Phone Case Set,1,26500,26500,0.0,0.0,26500.0,MM Alam,10,2024-10-01,Q4,Friday,False,False,No discount,Over 20k
+TXN-00928,2024-10-26,2024,October,Islamabad - F-7,Islamabad,Electronics,Gadgets,Power Bank 20000mAh,1,75500,75500,0.0,0.0,75500.0,F-7,10,2024-10-01,Q4,Saturday,True,False,No discount,Over 20k
+TXN-00128,2024-10-27,2024,October,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Coconut Biscuits,8,1100,8800,0.0,0.0,8800.0,Latifabad,10,2024-10-01,Q4,Sunday,True,False,No discount,5k-20k
+TXN-00214,2024-10-27,2024,October,Lahore - MM Alam,Lahore,Toys,Action Figures,Soldier Set,3,2800,8400,0.0,0.0,8400.0,MM Alam,10,2024-10-01,Q4,Sunday,True,False,No discount,5k-20k
+TXN-00143,2024-10-28,2024,October,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Stitched Trouser,1,6000,6000,0.0,0.0,6000.0,MM Alam,10,2024-10-01,Q4,Monday,False,False,No discount,5k-20k
+TXN-00020,2024-10-29,2024,October,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Number Flash Cards,1,600,600,0.127,76.2,523.8,Latifabad,10,2024-10-01,Q4,Tuesday,False,True,10-20%,Under 1k
+TXN-00916,2024-10-29,2024,October,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Detergent Powder 3kg,1,3600,3600,0.037,133.2,3466.8,Latifabad,10,2024-10-01,Q4,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00110,2024-10-31,2024,October,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Basmati Rice 5kg,6,1050,6300,0.0,0.0,6300.0,MM Alam,10,2024-10-01,Q4,Thursday,False,False,No discount,5k-20k
+TXN-00223,2024-11-01,2024,November,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,Phone Charger,1,27500,27500,0.0,0.0,27500.0,Latifabad,11,2024-11-01,Q4,Friday,False,False,No discount,Over 20k
+TXN-00366,2024-11-01,2024,November,Hyderabad - Latifabad,Hyderabad,Apparel,Men's Wear,Cotton Shalwar Kameez,1,4350,4350,0.0,0.0,4350.0,Latifabad,11,2024-11-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00608,2024-11-03,2024,November,Hyderabad - Latifabad,Hyderabad,Cosmetics,Fragrances,Perfume 50ml (Men),1,1950,1950,0.0,0.0,1950.0,Latifabad,11,2024-11-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00701,2024-11-05,2024,November,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Bananas 1 dozen,4,430,1720,0.0,0.0,1720.0,Tariq Road,11,2024-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00382,2024-11-06,2024,November,Islamabad - F-7,Islamabad,Household,Laundry,Detergent Powder 3kg,3,1700,5100,0.012,61.2,5038.8,F-7,11,2024-11-01,Q4,Wednesday,False,True,Up to 5%,5k-20k
+TXN-00547,2024-11-06,2024,November,Hyderabad - Latifabad,Hyderabad,Apparel,Men's Wear,Casual Shirt,1,6000,6000,0.107,642.0,5358.0,Latifabad,11,2024-11-01,Q4,Wednesday,False,True,10-20%,5k-20k
+TXN-00009,2024-11-09,2024,November,Karachi - Tariq Road,Karachi,Bakery,Breads,Bread Sticks,6,1550,9300,0.0,0.0,9300.0,Tariq Road,11,2024-11-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00377,2024-11-09,2024,November,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Feature Phone,1,46500,46500,0.0,0.0,46500.0,MM Alam,11,2024-11-01,Q4,Saturday,True,False,No discount,Over 20k
+TXN-00118,2024-11-10,2024,November,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Mangoes 1kg,2,90,180,0.009,1.6199999999999999,178.38,F-7,11,2024-11-01,Q4,Sunday,True,True,Up to 5%,Under 1k
+TXN-00195,2024-11-12,2024,November,Karachi - Tariq Road,Karachi,Cosmetics,Personal Care,Conditioner 200ml,3,1250,3750,0.0,0.0,3750.0,Tariq Road,11,2024-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00125,2024-11-13,2024,November,Hyderabad - Latifabad,Hyderabad,Cosmetics,Fragrances,Body Mist 200ml,1,330,330,0.0,0.0,330.0,Latifabad,11,2024-11-01,Q4,Wednesday,False,False,No discount,Under 1k
+TXN-00380,2024-11-13,2024,November,Lahore - MM Alam,Lahore,Cosmetics,Fragrances,Body Mist 200ml,1,3600,3600,0.0,0.0,3600.0,MM Alam,11,2024-11-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00736,2024-11-13,2024,November,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Spinach 500g,1,1150,1150,0.027,31.05,1118.95,MM Alam,11,2024-11-01,Q4,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00024,2024-11-19,2024,November,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Sella Rice 10kg,5,650,3250,0.0,0.0,3250.0,Tariq Road,11,2024-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00314,2024-11-19,2024,November,Hyderabad - Latifabad,Hyderabad,Groceries,Cooking Oil,Sufola Cooking Oil 5L,2,2400,4800,0.0,0.0,4800.0,Latifabad,11,2024-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00469,2024-11-19,2024,November,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Lipstick,3,500,1500,0.0,0.0,1500.0,Latifabad,11,2024-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00116,2024-11-20,2024,November,Islamabad - F-7,Islamabad,Groceries,Cooking Oil,Mustard Oil 1L,1,1950,1950,0.0,0.0,1950.0,F-7,11,2024-11-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00790,2024-11-23,2024,November,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Conditioner 200ml,1,1750,1750,0.093,162.75,1587.25,Latifabad,11,2024-11-01,Q4,Saturday,True,True,5-10%,1k-5k
+TXN-00051,2024-11-24,2024,November,Karachi - Tariq Road,Karachi,Household,Kitchenware,Glass Set (6pc),2,2200,4400,0.0,0.0,4400.0,Tariq Road,11,2024-11-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00365,2024-11-26,2024,November,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Oranges 1kg,5,550,2750,0.02,55.0,2695.0,F-7,11,2024-11-01,Q4,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00806,2024-11-26,2024,November,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Cheese 200g,10,400,4000,0.0,0.0,4000.0,F-7,11,2024-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00362,2024-11-27,2024,November,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Sella Rice 10kg,6,2400,14400,0.0,0.0,14400.0,Latifabad,11,2024-11-01,Q4,Wednesday,False,False,No discount,5k-20k
+TXN-00233,2024-11-30,2024,November,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Cheese 200g,2,900,1800,0.0,0.0,1800.0,MM Alam,11,2024-11-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00817,2024-11-30,2024,November,Islamabad - F-7,Islamabad,Electronics,Gadgets,Phone Charger,1,45000,45000,0.0,0.0,45000.0,F-7,11,2024-11-01,Q4,Saturday,True,False,No discount,Over 20k
+TXN-00710,2024-12-02,2024,December,Lahore - MM Alam,Lahore,Apparel,Men's Wear,T-Shirt (Pack of 2),1,2900,2900,0.0,0.0,2900.0,MM Alam,12,2024-12-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00489,2024-12-04,2024,December,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Cotton Shalwar Kameez,1,2150,2150,0.119,255.85,1894.15,F-7,12,2024-12-01,Q4,Wednesday,False,True,10-20%,1k-5k
+TXN-00596,2024-12-05,2024,December,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,School Shoes (Kids),1,3650,3650,0.099,361.35,3288.65,Latifabad,12,2024-12-01,Q4,Thursday,False,True,5-10%,1k-5k
+TXN-00726,2024-12-07,2024,December,Islamabad - F-7,Islamabad,Household,Home Essentials,Bath Towel,1,1150,1150,0.0,0.0,1150.0,F-7,12,2024-12-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00883,2024-12-08,2024,December,Lahore - MM Alam,Lahore,Household,Laundry,Stain Remover 500ml,1,1750,1750,0.085,148.75,1601.25,MM Alam,12,2024-12-01,Q4,Sunday,True,True,5-10%,1k-5k
+TXN-00595,2024-12-14,2024,December,Lahore - MM Alam,Lahore,Cosmetics,Makeup,Kajal Pencil,2,470,940,0.012,11.28,928.72,MM Alam,12,2024-12-01,Q4,Saturday,True,True,Up to 5%,Under 1k
+TXN-00065,2024-12-15,2024,December,Lahore - MM Alam,Lahore,Bakery,Cookies,Coconut Biscuits,4,130,520,0.0,0.0,520.0,MM Alam,12,2024-12-01,Q4,Sunday,True,False,No discount,Under 1k
+TXN-00706,2024-12-16,2024,December,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Surface Cleaner 750ml,5,2000,10000,0.055,550.0,9450.0,MM Alam,12,2024-12-01,Q4,Monday,False,True,5-10%,5k-20k
+TXN-00784,2024-12-17,2024,December,Karachi - Tariq Road,Karachi,Bakery,Breads,Brown Bread Loaf,4,800,3200,0.0,0.0,3200.0,Tariq Road,12,2024-12-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00866,2024-12-17,2024,December,Islamabad - F-7,Islamabad,Groceries,Spices,Turmeric Powder 200g,8,1900,15200,0.051,775.1999999999999,14424.8,F-7,12,2024-12-01,Q4,Tuesday,False,True,5-10%,5k-20k
+TXN-00093,2024-12-18,2024,December,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Phablet 128GB,1,55500,55500,0.0,0.0,55500.0,MM Alam,12,2024-12-01,Q4,Wednesday,False,False,No discount,Over 20k
+TXN-00464,2024-12-18,2024,December,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Wireless Earbuds,1,77500,77500,0.0,0.0,77500.0,Latifabad,12,2024-12-01,Q4,Wednesday,False,False,No discount,Over 20k
+TXN-00807,2024-12-18,2024,December,Islamabad - F-7,Islamabad,Cosmetics,Makeup,Lipstick,4,700,2800,0.054,151.2,2648.8,F-7,12,2024-12-01,Q4,Wednesday,False,True,5-10%,1k-5k
+TXN-00919,2024-12-18,2024,December,Karachi - Tariq Road,Karachi,Fresh Produce,Vegetables,Onions 1kg,6,460,2760,0.026,71.75999999999999,2688.24,Tariq Road,12,2024-12-01,Q4,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00987,2024-12-18,2024,December,Lahore - MM Alam,Lahore,Groceries,Packaged Foods,Canned Tuna 200g,1,1250,1250,0.0,0.0,1250.0,MM Alam,12,2024-12-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00019,2024-12-23,2024,December,Karachi - Tariq Road,Karachi,Household,Home Essentials,Curtains Pair,2,3650,7300,0.0,0.0,7300.0,Tariq Road,12,2024-12-01,Q4,Monday,False,False,No discount,5k-20k
+TXN-00283,2024-12-23,2024,December,Karachi - Tariq Road,Karachi,Bakery,Cookies,Chocolate Chip Cookies,1,170,170,0.065,11.05,158.95,Tariq Road,12,2024-12-01,Q4,Monday,False,True,5-10%,Under 1k
+TXN-00840,2024-12-24,2024,December,Islamabad - F-7,Islamabad,Cosmetics,Makeup,Lipstick,1,3050,3050,0.0,0.0,3050.0,F-7,12,2024-12-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00062,2024-12-25,2024,December,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Denim Jeans,1,5000,5000,0.153,765.0,4235.0,F-7,12,2024-12-01,Q4,Wednesday,False,True,10-20%,1k-5k
+TXN-00080,2024-12-27,2024,December,Karachi - Tariq Road,Karachi,Bakery,Cookies,Digestive Biscuits,1,1500,1500,0.0,0.0,1500.0,Tariq Road,12,2024-12-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00058,2024-12-29,2024,December,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Teddy Bear Medium,2,1300,2600,0.0,0.0,2600.0,Tariq Road,12,2024-12-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00444,2024-12-30,2024,December,Islamabad - F-7,Islamabad,Cosmetics,Makeup,Kajal Pencil,3,1300,3900,0.0,0.0,3900.0,F-7,12,2024-12-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00808,2025-01-01,2025,January,Islamabad - F-7,Islamabad,Toys,Plush Toys,Stuffed Animal Set,3,1800,5400,0.118,637.1999999999999,4762.8,F-7,1,2025-01-01,Q1,Wednesday,False,True,10-20%,1k-5k
+TXN-00341,2025-01-02,2025,January,Karachi - Tariq Road,Karachi,Toys,Educational,Number Flash Cards,1,2900,2900,0.0,0.0,2900.0,Tariq Road,1,2025-01-01,Q1,Thursday,False,False,No discount,1k-5k
+TXN-00574,2025-01-03,2025,January,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Embroidered Kurti,1,1900,1900,0.0,0.0,1900.0,Latifabad,1,2025-01-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00475,2025-01-04,2025,January,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Denim Jeans,1,1050,1050,0.0,0.0,1050.0,F-7,1,2025-01-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00702,2025-01-04,2025,January,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Masoor Dal 1kg,3,1950,5850,0.066,386.1,5463.9,Tariq Road,1,2025-01-01,Q1,Saturday,True,True,5-10%,5k-20k
+TXN-00290,2025-01-06,2025,January,Lahore - MM Alam,Lahore,Electronics,Gadgets,Phone Charger,2,54500,109000,0.0,0.0,109000.0,MM Alam,1,2025-01-01,Q1,Monday,False,False,No discount,Over 20k
+TXN-00152,2025-01-07,2025,January,Karachi - Tariq Road,Karachi,Bakery,Cookies,Chocolate Chip Cookies,5,750,3750,0.0,0.0,3750.0,Tariq Road,1,2025-01-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00159,2025-01-08,2025,January,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Teddy Bear Medium,2,4450,8900,0.0,0.0,8900.0,Latifabad,1,2025-01-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00231,2025-01-10,2025,January,Islamabad - F-7,Islamabad,Cosmetics,Personal Care,Hair Oil 200ml,1,950,950,0.0,0.0,950.0,F-7,1,2025-01-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00704,2025-01-12,2025,January,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Patties Pack (6pc),1,320,320,0.0,0.0,320.0,Latifabad,1,2025-01-01,Q1,Sunday,True,False,No discount,Under 1k
+TXN-00462,2025-01-14,2025,January,Hyderabad - Latifabad,Hyderabad,Groceries,Spices,Turmeric Powder 200g,5,1000,5000,0.0,0.0,5000.0,Latifabad,1,2025-01-01,Q1,Tuesday,False,False,No discount,5k-20k
+TXN-00209,2025-01-15,2025,January,Islamabad - F-7,Islamabad,Electronics,Gadgets,USB Cable Type-C,1,4650,4650,0.077,358.05,4291.95,F-7,1,2025-01-01,Q1,Wednesday,False,True,5-10%,1k-5k
+TXN-00385,2025-01-15,2025,January,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Ludo Family Set,2,2050,4100,0.287,1176.6999999999998,2923.3,Latifabad,1,2025-01-01,Q1,Wednesday,False,True,Over 20%,1k-5k
+TXN-00429,2025-01-17,2025,January,Islamabad - F-7,Islamabad,Household,Home Essentials,Bed Sheet Set,1,3750,3750,0.0,0.0,3750.0,F-7,1,2025-01-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00760,2025-01-17,2025,January,Karachi - Tariq Road,Karachi,Cosmetics,Fragrances,Body Mist 200ml,3,1250,3750,0.013,48.75,3701.25,Tariq Road,1,2025-01-01,Q1,Friday,False,True,Up to 5%,1k-5k
+TXN-00063,2025-01-19,2025,January,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Dairy,Cheese 200g,2,220,440,0.026,11.44,428.56,Latifabad,1,2025-01-01,Q1,Sunday,True,True,Up to 5%,Under 1k
+TXN-00215,2025-01-19,2025,January,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Fabric Softener 2L,2,3650,7300,0.0,0.0,7300.0,Latifabad,1,2025-01-01,Q1,Sunday,True,False,No discount,5k-20k
+TXN-00579,2025-01-19,2025,January,Lahore - MM Alam,Lahore,Household,Cleaning Supplies,Dishwash Liquid 1L,2,1000,2000,0.107,214.0,1786.0,MM Alam,1,2025-01-01,Q1,Sunday,True,True,10-20%,1k-5k
+TXN-00862,2025-01-23,2025,January,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Mangoes 1kg,1,700,700,0.0,0.0,700.0,MM Alam,1,2025-01-01,Q1,Thursday,False,False,No discount,Under 1k
+TXN-00485,2025-01-24,2025,January,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,USB Cable Type-C,1,30500,30500,0.112,3416.0,27084.0,Latifabad,1,2025-01-01,Q1,Friday,False,True,10-20%,Over 20k
+TXN-00965,2025-01-24,2025,January,Karachi - Tariq Road,Karachi,Toys,Educational,Alphabet Block Set,1,1750,1750,0.0,0.0,1750.0,Tariq Road,1,2025-01-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00240,2025-01-27,2025,January,Hyderabad - Latifabad,Hyderabad,Apparel,Kids Wear,Kids Frock,1,2350,2350,0.0,0.0,2350.0,Latifabad,1,2025-01-01,Q1,Monday,False,False,No discount,1k-5k
+TXN-00534,2025-01-30,2025,January,Hyderabad - Latifabad,Hyderabad,Bakery,Cakes & Pastries,Chocolate Cake 500g,4,130,520,0.087,45.239999999999995,474.76,Latifabad,1,2025-01-01,Q1,Thursday,False,True,5-10%,Under 1k
+TXN-00442,2025-01-31,2025,January,Lahore - MM Alam,Lahore,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,1,750,750,0.0,0.0,750.0,MM Alam,1,2025-01-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00154,2025-02-01,2025,February,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Casual Shirt,1,6000,6000,0.074,444.0,5556.0,MM Alam,2,2025-02-01,Q1,Saturday,True,True,5-10%,5k-20k
+TXN-00610,2025-02-01,2025,February,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Wireless Earbuds,1,17000,17000,0.0,0.0,17000.0,Latifabad,2,2025-02-01,Q1,Saturday,True,False,No discount,5k-20k
+TXN-00846,2025-02-01,2025,February,Islamabad - F-7,Islamabad,Toys,Board Games,Monopoly Set,1,430,430,0.089,38.269999999999996,391.73,F-7,2,2025-02-01,Q1,Saturday,True,True,5-10%,Under 1k
+TXN-00393,2025-02-04,2025,February,Lahore - MM Alam,Lahore,Groceries,Spices,Garam Masala 100g,1,2000,2000,0.0,0.0,2000.0,MM Alam,2,2025-02-01,Q1,Tuesday,False,False,No discount,1k-5k
+TXN-00652,2025-02-04,2025,February,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Vanilla Cake 500g,8,1150,9200,0.041,377.2,8822.8,F-7,2,2025-02-01,Q1,Tuesday,False,True,Up to 5%,5k-20k
+TXN-00681,2025-02-04,2025,February,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,USB Cable Type-C,1,29500,29500,0.0,0.0,29500.0,Latifabad,2,2025-02-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00714,2025-02-04,2025,February,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Bluetooth Speaker,1,82500,82500,0.0,0.0,82500.0,Latifabad,2,2025-02-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00964,2025-02-04,2025,February,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Casual Shirt,1,5000,5000,0.0,0.0,5000.0,MM Alam,2,2025-02-01,Q1,Tuesday,False,False,No discount,5k-20k
+TXN-00791,2025-02-07,2025,February,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Air Fryer,1,8500,8500,0.0,0.0,8500.0,Latifabad,2,2025-02-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00387,2025-02-08,2025,February,Islamabad - F-7,Islamabad,Toys,Action Figures,Dinosaur Set,1,1500,1500,0.0,0.0,1500.0,F-7,2,2025-02-01,Q1,Saturday,True,False,No discount,1k-5k
+TXN-00291,2025-02-10,2025,February,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Breakfast Cereal 500g,6,1950,11700,0.0,0.0,11700.0,F-7,2,2025-02-01,Q1,Monday,False,False,No discount,5k-20k
+TXN-00369,2025-02-10,2025,February,Lahore - MM Alam,Lahore,Toys,Plush Toys,Soft Toy (Big),2,2700,5400,0.135,729.0,4671.0,MM Alam,2,2025-02-01,Q1,Monday,False,True,10-20%,1k-5k
+TXN-00864,2025-02-10,2025,February,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Bluetooth Speaker,1,42000,42000,0.0,0.0,42000.0,MM Alam,2,2025-02-01,Q1,Monday,False,False,No discount,Over 20k
+TXN-00931,2025-02-10,2025,February,Karachi - Tariq Road,Karachi,Bakery,Breads,White Bread Loaf,4,750,3000,0.001,3.0,2997.0,Tariq Road,2,2025-02-01,Q1,Monday,False,True,Up to 5%,1k-5k
+TXN-00508,2025-02-12,2025,February,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Masoor Dal 1kg,8,1400,11200,0.0,0.0,11200.0,MM Alam,2,2025-02-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00566,2025-02-12,2025,February,Hyderabad - Latifabad,Hyderabad,Household,Home Essentials,Pillow Pair,3,1350,4050,0.009,36.449999999999996,4013.55,Latifabad,2,2025-02-01,Q1,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00711,2025-02-12,2025,February,Hyderabad - Latifabad,Hyderabad,Electronics,Mobiles & Tablets,Feature Phone,1,75000,75000,0.08,6000.0,69000.0,Latifabad,2,2025-02-01,Q1,Wednesday,False,True,5-10%,Over 20k
+TXN-00735,2025-02-12,2025,February,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Marie Biscuits Family Pack,1,600,600,0.0,0.0,600.0,Latifabad,2,2025-02-01,Q1,Wednesday,False,False,No discount,Under 1k
+TXN-00985,2025-02-14,2025,February,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Cupcake Pack (6pc),6,1500,9000,0.0,0.0,9000.0,F-7,2,2025-02-01,Q1,Friday,False,False,No discount,5k-20k
+TXN-00812,2025-02-16,2025,February,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Puzzle (100pc),1,1750,1750,0.175,306.25,1443.75,Latifabad,2,2025-02-01,Q1,Sunday,True,True,10-20%,1k-5k
+TXN-00145,2025-02-19,2025,February,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Canned Tuna 200g,6,1800,10800,0.027,291.6,10508.4,F-7,2,2025-02-01,Q1,Wednesday,False,True,Up to 5%,5k-20k
+TXN-00073,2025-02-20,2025,February,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Tablet 10-inch,1,18000,18000,0.0,0.0,18000.0,MM Alam,2,2025-02-01,Q1,Thursday,False,False,No discount,5k-20k
+TXN-00513,2025-02-20,2025,February,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Grapes 500g,1,900,900,0.0,0.0,900.0,F-7,2,2025-02-01,Q1,Thursday,False,False,No discount,Under 1k
+TXN-00643,2025-02-20,2025,February,Islamabad - F-7,Islamabad,Electronics,Gadgets,Power Bank 20000mAh,2,38000,76000,0.0,0.0,76000.0,F-7,2,2025-02-01,Q1,Thursday,False,False,No discount,Over 20k
+TXN-00002,2025-02-22,2025,February,Karachi - Tariq Road,Karachi,Electronics,Mobiles & Tablets,Smartphone 64GB,1,5000,5000,0.148,740.0,4260.0,Tariq Road,2,2025-02-01,Q1,Saturday,True,True,10-20%,1k-5k
+TXN-00467,2025-02-24,2025,February,Islamabad - F-7,Islamabad,Groceries,Spices,Coriander Powder 200g,5,1650,8250,0.0,0.0,8250.0,F-7,2,2025-02-01,Q1,Monday,False,False,No discount,5k-20k
+TXN-00660,2025-02-26,2025,February,Karachi - Tariq Road,Karachi,Household,Laundry,Fabric Softener 2L,1,650,650,0.0,0.0,650.0,Tariq Road,2,2025-02-01,Q1,Wednesday,False,False,No discount,Under 1k
+TXN-00688,2025-02-26,2025,February,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Casual Shirt,1,5500,5500,0.0,0.0,5500.0,F-7,2,2025-02-01,Q1,Wednesday,False,False,No discount,5k-20k
+TXN-00321,2025-02-27,2025,February,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Coconut Biscuits,4,450,1800,0.049,88.2,1711.8,Latifabad,2,2025-02-01,Q1,Thursday,False,True,Up to 5%,1k-5k
+TXN-00217,2025-02-28,2025,February,Islamabad - F-7,Islamabad,Cosmetics,Skincare,Night Cream 30ml,2,900,1800,0.0,0.0,1800.0,F-7,2,2025-02-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00851,2025-02-28,2025,February,Islamabad - F-7,Islamabad,Toys,Plush Toys,Teddy Bear Medium,1,2350,2350,0.128,300.8,2049.2,F-7,2,2025-02-01,Q1,Friday,False,True,10-20%,1k-5k
+TXN-00451,2025-03-02,2025,March,Lahore - MM Alam,Lahore,Bakery,Cookies,Digestive Biscuits,3,1450,4350,0.025,108.75,4241.25,MM Alam,3,2025-03-01,Q1,Sunday,True,True,Up to 5%,1k-5k
+TXN-00620,2025-03-02,2025,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Spinach 500g,1,1100,1100,0.0,0.0,1100.0,Latifabad,3,2025-03-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00693,2025-03-04,2025,March,Islamabad - F-7,Islamabad,Groceries,Beverages,Coffee Jar 200g,1,140,140,0.0,0.0,140.0,F-7,3,2025-03-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00739,2025-03-07,2025,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Dairy,Butter 200g,5,210,1050,0.038,39.9,1010.1,Latifabad,3,2025-03-01,Q1,Friday,False,True,Up to 5%,1k-5k
+TXN-00880,2025-03-07,2025,March,Hyderabad - Latifabad,Hyderabad,Toys,Action Figures,Dinosaur Set,3,800,2400,0.0,0.0,2400.0,Latifabad,3,2025-03-01,Q1,Friday,False,False,No discount,1k-5k
+TXN-00530,2025-03-10,2025,March,Karachi - Tariq Road,Karachi,Toys,Educational,Number Flash Cards,1,1950,1950,0.159,310.05,1639.95,Tariq Road,3,2025-03-01,Q1,Monday,False,True,10-20%,1k-5k
+TXN-00028,2025-03-11,2025,March,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Fresh Milk 1L,2,470,940,0.0,0.0,940.0,Tariq Road,3,2025-03-01,Q1,Tuesday,False,False,No discount,Under 1k
+TXN-00781,2025-03-11,2025,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Grapes 500g,2,750,1500,0.036,53.99999999999999,1446.0,Latifabad,3,2025-03-01,Q1,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00119,2025-03-12,2025,March,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Spinach 500g,3,1000,3000,0.0,0.0,3000.0,MM Alam,3,2025-03-01,Q1,Wednesday,False,False,No discount,1k-5k
+TXN-00993,2025-03-15,2025,March,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Microwave Oven,1,2100,2100,0.083,174.3,1925.7,Latifabad,3,2025-03-01,Q1,Saturday,True,True,5-10%,1k-5k
+TXN-00184,2025-03-16,2025,March,Lahore - MM Alam,Lahore,Toys,Action Figures,Robot Toy,2,2850,5700,0.0,0.0,5700.0,MM Alam,3,2025-03-01,Q1,Sunday,True,False,No discount,5k-20k
+TXN-00482,2025-03-16,2025,March,Hyderabad - Latifabad,Hyderabad,Groceries,Beverages,Coffee Jar 200g,3,1400,4200,0.0,0.0,4200.0,Latifabad,3,2025-03-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00486,2025-03-16,2025,March,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Masoor Dal 1kg,4,420,1680,0.018,30.24,1649.76,F-7,3,2025-03-01,Q1,Sunday,True,True,Up to 5%,1k-5k
+TXN-00597,2025-03-16,2025,March,Islamabad - F-7,Islamabad,Bakery,Cookies,Marie Biscuits Family Pack,1,130,130,0.0,0.0,130.0,F-7,3,2025-03-01,Q1,Sunday,True,False,No discount,Under 1k
+TXN-00510,2025-03-17,2025,March,Islamabad - F-7,Islamabad,Electronics,Audio & Accessories,Bluetooth Speaker,1,51000,51000,0.0,0.0,51000.0,F-7,3,2025-03-01,Q1,Monday,False,False,No discount,Over 20k
+TXN-00537,2025-03-21,2025,March,Karachi - Tariq Road,Karachi,Toys,Action Figures,Dinosaur Set,1,950,950,0.0,0.0,950.0,Tariq Road,3,2025-03-01,Q1,Friday,False,False,No discount,Under 1k
+TXN-00959,2025-03-22,2025,March,Hyderabad - Latifabad,Hyderabad,Cosmetics,Skincare,Face Wash 150ml,1,600,600,0.0,0.0,600.0,Latifabad,3,2025-03-01,Q1,Saturday,True,False,No discount,Under 1k
+TXN-00666,2025-03-23,2025,March,Lahore - MM Alam,Lahore,Household,Home Essentials,Bed Sheet Set,2,2000,4000,0.087,348.0,3652.0,MM Alam,3,2025-03-01,Q1,Sunday,True,True,5-10%,1k-5k
+TXN-00972,2025-03-23,2025,March,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Bananas 1 dozen,3,230,690,0.0,0.0,690.0,Latifabad,3,2025-03-01,Q1,Sunday,True,False,No discount,Under 1k
+TXN-00395,2025-03-24,2025,March,Islamabad - F-7,Islamabad,Toys,Educational,Geography Globe,1,3200,3200,0.249,796.8,2403.2,F-7,3,2025-03-01,Q1,Monday,False,True,Over 20%,1k-5k
+TXN-00088,2025-03-25,2025,March,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Juicer Blender,2,36500,73000,0.0,0.0,73000.0,MM Alam,3,2025-03-01,Q1,Tuesday,False,False,No discount,Over 20k
+TXN-00090,2025-03-29,2025,March,Lahore - MM Alam,Lahore,Bakery,Breads,Bun Pack (6pc),1,950,950,0.0,0.0,950.0,MM Alam,3,2025-03-01,Q1,Saturday,True,False,No discount,Under 1k
+TXN-00999,2025-03-29,2025,March,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Mustard Oil 1L,1,310,310,0.0,0.0,310.0,MM Alam,3,2025-03-01,Q1,Saturday,True,False,No discount,Under 1k
+TXN-00176,2025-03-30,2025,March,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Soft Toy (Big),2,950,1900,0.0,0.0,1900.0,Tariq Road,3,2025-03-01,Q1,Sunday,True,False,No discount,1k-5k
+TXN-00869,2025-03-31,2025,March,Islamabad - F-7,Islamabad,Household,Home Essentials,Curtains Pair,1,800,800,0.095,76.0,724.0,F-7,3,2025-03-01,Q1,Monday,False,True,5-10%,Under 1k
+TXN-00459,2025-04-01,2025,April,Karachi - Tariq Road,Karachi,Groceries,Cooking Oil,Mustard Oil 1L,3,1150,3450,0.023,79.35,3370.65,Tariq Road,4,2025-04-01,Q2,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00963,2025-04-02,2025,April,Islamabad - F-7,Islamabad,Toys,Educational,Geography Globe,1,2400,2400,0.127,304.8,2095.2,F-7,4,2025-04-01,Q2,Wednesday,False,True,10-20%,1k-5k
+TXN-00205,2025-04-03,2025,April,Karachi - Tariq Road,Karachi,Toys,Board Games,Chess Set,1,4000,4000,0.285,1140.0,2860.0,Tariq Road,4,2025-04-01,Q2,Thursday,False,True,Over 20%,1k-5k
+TXN-00614,2025-04-03,2025,April,Islamabad - F-7,Islamabad,Apparel,Men's Wear,T-Shirt (Pack of 2),1,2450,2450,0.199,487.55,1962.45,F-7,4,2025-04-01,Q2,Thursday,False,True,10-20%,1k-5k
+TXN-00430,2025-04-05,2025,April,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Vegetables,Spinach 500g,6,700,4200,0.0,0.0,4200.0,Latifabad,4,2025-04-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00074,2025-04-07,2025,April,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Stuffed Animal Set,1,470,470,0.091,42.769999999999996,427.23,Tariq Road,4,2025-04-01,Q2,Monday,False,True,5-10%,Under 1k
+TXN-00441,2025-04-09,2025,April,Lahore - MM Alam,Lahore,Electronics,Small Appliances,Microwave Oven,1,22500,22500,0.0,0.0,22500.0,MM Alam,4,2025-04-01,Q2,Wednesday,False,False,No discount,Over 20k
+TXN-00780,2025-04-10,2025,April,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Dairy,Eggs (Tray of 30),1,850,850,0.0,0.0,850.0,Latifabad,4,2025-04-01,Q2,Thursday,False,False,No discount,Under 1k
+TXN-00102,2025-04-11,2025,April,Lahore - MM Alam,Lahore,Bakery,Breads,Bun Pack (6pc),4,400,1600,0.075,120.0,1480.0,MM Alam,4,2025-04-01,Q2,Friday,False,True,5-10%,1k-5k
+TXN-00627,2025-04-11,2025,April,Karachi - Tariq Road,Karachi,Bakery,Cookies,Marie Biscuits Family Pack,4,150,600,0.01,6.0,594.0,Tariq Road,4,2025-04-01,Q2,Friday,False,True,Up to 5%,Under 1k
+TXN-00160,2025-04-12,2025,April,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Stitched Trouser,1,6000,6000,0.0,0.0,6000.0,Latifabad,4,2025-04-01,Q2,Saturday,True,False,No discount,5k-20k
+TXN-00164,2025-04-12,2025,April,Hyderabad - Latifabad,Hyderabad,Cosmetics,Fragrances,Body Mist 200ml,2,2550,5100,0.106,540.6,4559.4,Latifabad,4,2025-04-01,Q2,Saturday,True,True,10-20%,1k-5k
+TXN-00133,2025-04-14,2025,April,Lahore - MM Alam,Lahore,Bakery,Cakes & Pastries,Cream Pastry,1,1700,1700,0.0,0.0,1700.0,MM Alam,4,2025-04-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00670,2025-04-15,2025,April,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Noodles Family Pack,1,1350,1350,0.0,0.0,1350.0,Latifabad,4,2025-04-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00991,2025-04-15,2025,April,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Stem Kit,1,4000,4000,0.0,0.0,4000.0,Latifabad,4,2025-04-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00419,2025-04-18,2025,April,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Kajal Pencil,1,3800,3800,0.0,0.0,3800.0,Latifabad,4,2025-04-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00898,2025-04-18,2025,April,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Apples 1kg,1,190,190,0.0,0.0,190.0,Tariq Road,4,2025-04-01,Q2,Friday,False,False,No discount,Under 1k
+TXN-00611,2025-04-20,2025,April,Hyderabad - Latifabad,Hyderabad,Toys,Action Figures,Superhero Action Figure,2,3500,7000,0.0,0.0,7000.0,Latifabad,4,2025-04-01,Q2,Sunday,True,False,No discount,5k-20k
+TXN-00064,2025-04-21,2025,April,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Bananas 1 dozen,3,480,1440,0.0,0.0,1440.0,F-7,4,2025-04-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00185,2025-04-21,2025,April,Karachi - Tariq Road,Karachi,Groceries,Packaged Foods,Tomato Ketchup 1L,2,2200,4400,0.0,0.0,4400.0,Tariq Road,4,2025-04-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00427,2025-04-21,2025,April,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Casual Shirt,1,1150,1150,0.0,0.0,1150.0,MM Alam,4,2025-04-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00333,2025-04-23,2025,April,Hyderabad - Latifabad,Hyderabad,Household,Kitchenware,Cutlery Set (12pc),1,650,650,0.0,0.0,650.0,Latifabad,4,2025-04-01,Q2,Wednesday,False,False,No discount,Under 1k
+TXN-00609,2025-04-23,2025,April,Lahore - MM Alam,Lahore,Bakery,Cakes & Pastries,Chocolate Cake 500g,10,1400,14000,0.0,0.0,14000.0,MM Alam,4,2025-04-01,Q2,Wednesday,False,False,No discount,5k-20k
+TXN-00809,2025-04-25,2025,April,Karachi - Tariq Road,Karachi,Apparel,Men's Wear,Casual Shirt,1,1250,1250,0.0,0.0,1250.0,Tariq Road,4,2025-04-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00351,2025-04-27,2025,April,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Lipstick,1,3850,3850,0.14,539.0,3311.0,Latifabad,4,2025-04-01,Q2,Sunday,True,True,10-20%,1k-5k
+TXN-00934,2025-04-28,2025,April,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Basmati Rice 5kg,1,1450,1450,0.038,55.1,1394.9,MM Alam,4,2025-04-01,Q2,Monday,False,True,Up to 5%,1k-5k
+TXN-00061,2025-04-29,2025,April,Islamabad - F-7,Islamabad,Household,Kitchenware,Glass Set (6pc),4,300,1200,0.0,0.0,1200.0,F-7,4,2025-04-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00239,2025-04-30,2025,April,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Denim Jeans,1,2450,2450,0.11,269.5,2180.5,F-7,4,2025-04-01,Q2,Wednesday,False,True,10-20%,1k-5k
+TXN-00313,2025-05-01,2025,May,Islamabad - F-7,Islamabad,Apparel,Footwear,School Shoes (Kids),1,5000,5000,0.145,725.0,4275.0,F-7,5,2025-05-01,Q2,Thursday,False,True,10-20%,1k-5k
+TXN-00428,2025-05-02,2025,May,Islamabad - F-7,Islamabad,Toys,Educational,Geography Globe,1,1300,1300,0.282,366.59999999999997,933.4000000000001,F-7,5,2025-05-01,Q2,Friday,False,True,Over 20%,Under 1k
+TXN-00634,2025-05-02,2025,May,Islamabad - F-7,Islamabad,Bakery,Cookies,Chocolate Chip Cookies,8,1250,10000,0.0,0.0,10000.0,F-7,5,2025-05-01,Q2,Friday,False,False,No discount,5k-20k
+TXN-00168,2025-05-03,2025,May,Islamabad - F-7,Islamabad,Toys,Plush Toys,Teddy Bear Medium,1,1450,1450,0.093,134.85,1315.15,F-7,5,2025-05-01,Q2,Saturday,True,True,5-10%,1k-5k
+TXN-00399,2025-05-05,2025,May,Karachi - Tariq Road,Karachi,Toys,Action Figures,Soldier Set,1,3650,3650,0.0,0.0,3650.0,Tariq Road,5,2025-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00823,2025-05-05,2025,May,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Spinach 500g,5,150,750,0.019,14.25,735.75,MM Alam,5,2025-05-01,Q2,Monday,False,True,Up to 5%,Under 1k
+TXN-00398,2025-05-07,2025,May,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Meezan Banaspati 5L,5,2400,12000,0.0,0.0,12000.0,MM Alam,5,2025-05-01,Q2,Wednesday,False,False,No discount,5k-20k
+TXN-00663,2025-05-08,2025,May,Islamabad - F-7,Islamabad,Groceries,Cooking Oil,Olive Oil 1L,1,290,290,0.059,17.11,272.89,F-7,5,2025-05-01,Q2,Thursday,False,True,5-10%,Under 1k
+TXN-00224,2025-05-11,2025,May,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Carrots 500g,3,400,1200,0.011,13.2,1186.8,F-7,5,2025-05-01,Q2,Sunday,True,True,Up to 5%,1k-5k
+TXN-00212,2025-05-12,2025,May,Karachi - Tariq Road,Karachi,Electronics,Small Appliances,Air Fryer,2,83500,167000,0.0,0.0,167000.0,Tariq Road,5,2025-05-01,Q2,Monday,False,False,No discount,Over 20k
+TXN-00777,2025-05-15,2025,May,Hyderabad - Latifabad,Hyderabad,Toys,Plush Toys,Teddy Bear Medium,1,1350,1350,0.0,0.0,1350.0,Latifabad,5,2025-05-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00835,2025-05-15,2025,May,Karachi - Tariq Road,Karachi,Toys,Educational,Stem Kit,1,1250,1250,0.0,0.0,1250.0,Tariq Road,5,2025-05-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00879,2025-05-17,2025,May,Islamabad - F-7,Islamabad,Toys,Action Figures,Dinosaur Set,1,2700,2700,0.118,318.59999999999997,2381.4,F-7,5,2025-05-01,Q2,Saturday,True,True,10-20%,1k-5k
+TXN-00998,2025-05-17,2025,May,Islamabad - F-7,Islamabad,Fresh Produce,Vegetables,Carrots 500g,1,500,500,0.016,8.0,492.0,F-7,5,2025-05-01,Q2,Saturday,True,True,Up to 5%,Under 1k
+TXN-00445,2025-05-19,2025,May,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,BB Cream 30ml,1,2400,2400,0.0,0.0,2400.0,Latifabad,5,2025-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00905,2025-05-19,2025,May,Hyderabad - Latifabad,Hyderabad,Cosmetics,Fragrances,Body Mist 200ml,1,1400,1400,0.0,0.0,1400.0,Latifabad,5,2025-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00225,2025-05-20,2025,May,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Shampoo 400ml,1,3900,3900,0.0,0.0,3900.0,Latifabad,5,2025-05-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00745,2025-05-20,2025,May,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Alphabet Block Set,1,550,550,0.133,73.15,476.85,Latifabad,5,2025-05-01,Q2,Tuesday,False,True,10-20%,Under 1k
+TXN-00305,2025-05-22,2025,May,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Marie Biscuits Family Pack,3,1500,4500,0.0,0.0,4500.0,Latifabad,5,2025-05-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00021,2025-05-24,2025,May,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Monopoly Set,1,2050,2050,0.0,0.0,2050.0,Latifabad,5,2025-05-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00470,2025-05-24,2025,May,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Teddy Bear Medium,1,4100,4100,0.275,1127.5,2972.5,Tariq Road,5,2025-05-01,Q2,Saturday,True,True,Over 20%,1k-5k
+TXN-00265,2025-05-25,2025,May,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Chana Dal 1kg,1,2150,2150,0.0,0.0,2150.0,F-7,5,2025-05-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00562,2025-05-25,2025,May,Lahore - MM Alam,Lahore,Groceries,Cooking Oil,Sufola Cooking Oil 5L,5,1600,8000,0.0,0.0,8000.0,MM Alam,5,2025-05-01,Q2,Sunday,True,False,No discount,5k-20k
+TXN-00639,2025-05-25,2025,May,Islamabad - F-7,Islamabad,Cosmetics,Makeup,BB Cream 30ml,1,3300,3300,0.021,69.30000000000001,3230.7,F-7,5,2025-05-01,Q2,Sunday,True,True,Up to 5%,1k-5k
+TXN-00326,2025-05-26,2025,May,Lahore - MM Alam,Lahore,Household,Home Essentials,Bath Towel,1,1550,1550,0.0,0.0,1550.0,MM Alam,5,2025-05-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00418,2025-05-27,2025,May,Lahore - MM Alam,Lahore,Household,Laundry,Stain Remover 500ml,5,3250,16250,0.0,0.0,16250.0,MM Alam,5,2025-05-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00192,2025-05-30,2025,May,Hyderabad - Latifabad,Hyderabad,Bakery,Breads,White Bread Loaf,1,1400,1400,0.0,0.0,1400.0,Latifabad,5,2025-05-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00242,2025-05-30,2025,May,Hyderabad - Latifabad,Hyderabad,Electronics,Gadgets,USB Cable Type-C,1,55000,55000,0.0,0.0,55000.0,Latifabad,5,2025-05-01,Q2,Friday,False,False,No discount,Over 20k
+TXN-00848,2025-05-31,2025,May,Lahore - MM Alam,Lahore,Apparel,Kids Wear,Kids T-Shirt,1,2000,2000,0.0,0.0,2000.0,MM Alam,5,2025-05-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00800,2025-06-01,2025,June,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Fruits,Bananas 1 dozen,2,800,1600,0.0,0.0,1600.0,Latifabad,6,2025-06-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00084,2025-06-02,2025,June,Lahore - MM Alam,Lahore,Bakery,Cakes & Pastries,Cupcake Pack (6pc),1,950,950,0.0,0.0,950.0,MM Alam,6,2025-06-01,Q2,Monday,False,False,No discount,Under 1k
+TXN-00248,2025-06-03,2025,June,Lahore - MM Alam,Lahore,Toys,Action Figures,Dinosaur Set,1,4450,4450,0.0,0.0,4450.0,MM Alam,6,2025-06-01,Q2,Tuesday,False,False,No discount,1k-5k
+TXN-00163,2025-06-04,2025,June,Lahore - MM Alam,Lahore,Household,Home Essentials,Pillow Pair,3,220,660,0.0,0.0,660.0,MM Alam,6,2025-06-01,Q2,Wednesday,False,False,No discount,Under 1k
+TXN-00234,2025-06-04,2025,June,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,Slippers Pair,2,3000,6000,0.0,0.0,6000.0,Latifabad,6,2025-06-01,Q2,Wednesday,False,False,No discount,5k-20k
+TXN-00891,2025-06-08,2025,June,Lahore - MM Alam,Lahore,Toys,Board Games,Chess Set,1,2800,2800,0.0,0.0,2800.0,MM Alam,6,2025-06-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00671,2025-06-09,2025,June,Karachi - Tariq Road,Karachi,Electronics,Audio & Accessories,Sound Bar,1,1850,1850,0.0,0.0,1850.0,Tariq Road,6,2025-06-01,Q2,Monday,False,False,No discount,1k-5k
+TXN-00173,2025-06-13,2025,June,Islamabad - F-7,Islamabad,Electronics,Gadgets,Phone Charger,1,52000,52000,0.1,5200.0,46800.0,F-7,6,2025-06-01,Q2,Friday,False,True,5-10%,Over 20k
+TXN-00390,2025-06-14,2025,June,Lahore - MM Alam,Lahore,Cosmetics,Skincare,Face Wash 150ml,2,2900,5800,0.0,0.0,5800.0,MM Alam,6,2025-06-01,Q2,Saturday,True,False,No discount,5k-20k
+TXN-00087,2025-06-17,2025,June,Islamabad - F-7,Islamabad,Apparel,Women's Wear,Embroidered Kurti,3,6500,19500,0.0,0.0,19500.0,F-7,6,2025-06-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00832,2025-06-17,2025,June,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Tomato Ketchup 1L,3,210,630,0.035,22.05,607.95,F-7,6,2025-06-01,Q2,Tuesday,False,True,Up to 5%,Under 1k
+TXN-00861,2025-06-17,2025,June,Hyderabad - Latifabad,Hyderabad,Household,Cleaning Supplies,Toilet Cleaner 1L,3,2500,7500,0.0,0.0,7500.0,Latifabad,6,2025-06-01,Q2,Tuesday,False,False,No discount,5k-20k
+TXN-00886,2025-06-17,2025,June,Lahore - MM Alam,Lahore,Groceries,Rice & Grains,Sella Rice 10kg,12,1750,21000,0.051,1071.0,19929.0,MM Alam,6,2025-06-01,Q2,Tuesday,False,True,5-10%,5k-20k
+TXN-00687,2025-06-18,2025,June,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Bananas 1 dozen,5,250,1250,0.0,0.0,1250.0,MM Alam,6,2025-06-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00067,2025-06-20,2025,June,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Foundation 30ml,1,2450,2450,0.082,200.9,2249.1,Latifabad,6,2025-06-01,Q2,Friday,False,True,5-10%,1k-5k
+TXN-00397,2025-06-20,2025,June,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Carrots 500g,4,700,2800,0.0,0.0,2800.0,MM Alam,6,2025-06-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00312,2025-06-21,2025,June,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Moong Dal 1kg,2,2150,4300,0.0,0.0,4300.0,MM Alam,6,2025-06-01,Q2,Saturday,True,False,No discount,1k-5k
+TXN-00720,2025-06-22,2025,June,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Stitched Trouser,1,3900,3900,0.0,0.0,3900.0,MM Alam,6,2025-06-01,Q2,Sunday,True,False,No discount,1k-5k
+TXN-00938,2025-06-22,2025,June,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Sound Bar,2,33000,66000,0.0,0.0,66000.0,MM Alam,6,2025-06-01,Q2,Sunday,True,False,No discount,Over 20k
+TXN-00381,2025-06-24,2025,June,Hyderabad - Latifabad,Hyderabad,Household,Kitchenware,Glass Set (6pc),3,1350,4050,0.078,315.9,3734.1,Latifabad,6,2025-06-01,Q2,Tuesday,False,True,5-10%,1k-5k
+TXN-00665,2025-06-25,2025,June,Lahore - MM Alam,Lahore,Toys,Plush Toys,Soft Toy (Big),1,4200,4200,0.0,0.0,4200.0,MM Alam,6,2025-06-01,Q2,Wednesday,False,False,No discount,1k-5k
+TXN-00104,2025-06-26,2025,June,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Patties Pack (6pc),2,550,1100,0.0,0.0,1100.0,Latifabad,6,2025-06-01,Q2,Thursday,False,False,No discount,1k-5k
+TXN-00876,2025-06-26,2025,June,Lahore - MM Alam,Lahore,Bakery,Savoury,Roll Paratha Pack,1,370,370,0.083,30.71,339.29,MM Alam,6,2025-06-01,Q2,Thursday,False,True,5-10%,Under 1k
+TXN-00892,2025-06-26,2025,June,Karachi - Tariq Road,Karachi,Toys,Board Games,Puzzle (100pc),1,3750,3750,0.181,678.75,3071.25,Tariq Road,6,2025-06-01,Q2,Thursday,False,True,10-20%,1k-5k
+TXN-00182,2025-06-27,2025,June,Islamabad - F-7,Islamabad,Groceries,Rice & Grains,Sella Rice 10kg,5,500,2500,0.0,0.0,2500.0,F-7,6,2025-06-01,Q2,Friday,False,False,No discount,1k-5k
+TXN-00403,2025-06-28,2025,June,Islamabad - F-7,Islamabad,Groceries,Beverages,Mineral Water 1.5L,4,1200,4800,0.052,249.6,4550.4,F-7,6,2025-06-01,Q2,Saturday,True,True,5-10%,1k-5k
+TXN-00435,2025-06-28,2025,June,Karachi - Tariq Road,Karachi,Apparel,Footwear,Slippers Pair,4,2900,11600,0.075,870.0,10730.0,Tariq Road,6,2025-06-01,Q2,Saturday,True,True,5-10%,5k-20k
+TXN-00059,2025-06-29,2025,June,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Smartphone 64GB,1,22000,22000,0.0,0.0,22000.0,MM Alam,6,2025-06-01,Q2,Sunday,True,False,No discount,Over 20k
+TXN-00089,2025-07-01,2025,July,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Onions 1kg,2,850,1700,0.0,0.0,1700.0,MM Alam,7,2025-07-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00686,2025-07-01,2025,July,Islamabad - F-7,Islamabad,Household,Home Essentials,Bath Towel,2,600,1200,0.0,0.0,1200.0,F-7,7,2025-07-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00518,2025-07-03,2025,July,Islamabad - F-7,Islamabad,Household,Kitchenware,Cutlery Set (12pc),1,1000,1000,0.098,98.0,902.0,F-7,7,2025-07-01,Q3,Thursday,False,True,5-10%,Under 1k
+TXN-00956,2025-07-04,2025,July,Lahore - MM Alam,Lahore,Toys,Action Figures,Robot Toy,2,2750,5500,0.0,0.0,5500.0,MM Alam,7,2025-07-01,Q3,Friday,False,False,No discount,5k-20k
+TXN-00976,2025-07-04,2025,July,Karachi - Tariq Road,Karachi,Groceries,Lentils & Beans,Masoor Dal 1kg,2,2000,4000,0.0,0.0,4000.0,Tariq Road,7,2025-07-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00536,2025-07-09,2025,July,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Tomato Ketchup 1L,10,360,3600,0.0,0.0,3600.0,Latifabad,7,2025-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00932,2025-07-11,2025,July,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Dairy,Fresh Milk 1L,1,1000,1000,0.003,3.0,997.0,Latifabad,7,2025-07-01,Q3,Friday,False,True,Up to 5%,Under 1k
+TXN-00680,2025-07-16,2025,July,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Butter 200g,1,500,500,0.0,0.0,500.0,Tariq Road,7,2025-07-01,Q3,Wednesday,False,False,No discount,Under 1k
+TXN-00071,2025-07-19,2025,July,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Liquid Detergent 2L,5,1700,8500,0.0,0.0,8500.0,Latifabad,7,2025-07-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00641,2025-07-19,2025,July,Lahore - MM Alam,Lahore,Bakery,Savoury,Pizza Base (2pc),5,1100,5500,0.0,0.0,5500.0,MM Alam,7,2025-07-01,Q3,Saturday,True,False,No discount,5k-20k
+TXN-00376,2025-07-21,2025,July,Islamabad - F-7,Islamabad,Toys,Action Figures,Superhero Action Figure,4,3800,15200,0.102,1550.3999999999999,13649.6,F-7,7,2025-07-01,Q3,Monday,False,True,10-20%,5k-20k
+TXN-00384,2025-07-21,2025,July,Karachi - Tariq Road,Karachi,Household,Home Essentials,Bath Towel,1,1650,1650,0.0,0.0,1650.0,Tariq Road,7,2025-07-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00414,2025-07-21,2025,July,Hyderabad - Latifabad,Hyderabad,Groceries,Cooking Oil,Mustard Oil 1L,3,2050,6150,0.0,0.0,6150.0,Latifabad,7,2025-07-01,Q3,Monday,False,False,No discount,5k-20k
+TXN-00288,2025-07-22,2025,July,Lahore - MM Alam,Lahore,Bakery,Breads,Brown Bread Loaf,2,1650,3300,0.0,0.0,3300.0,MM Alam,7,2025-07-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00503,2025-07-23,2025,July,Islamabad - F-7,Islamabad,Cosmetics,Fragrances,Attar 12ml,2,4350,8700,0.0,0.0,8700.0,F-7,7,2025-07-01,Q3,Wednesday,False,False,No discount,5k-20k
+TXN-00737,2025-07-23,2025,July,Islamabad - F-7,Islamabad,Toys,Plush Toys,Teddy Bear Medium,2,3450,6900,0.0,0.0,6900.0,F-7,7,2025-07-01,Q3,Wednesday,False,False,No discount,5k-20k
+TXN-00501,2025-07-24,2025,July,Islamabad - F-7,Islamabad,Toys,Board Games,Chess Set,2,3550,7100,0.0,0.0,7100.0,F-7,7,2025-07-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00516,2025-07-24,2025,July,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Phablet 128GB,1,79500,79500,0.0,0.0,79500.0,MM Alam,7,2025-07-01,Q3,Thursday,False,False,No discount,Over 20k
+TXN-00685,2025-07-26,2025,July,Islamabad - F-7,Islamabad,Groceries,Cooking Oil,Olive Oil 1L,6,600,3600,0.0,0.0,3600.0,F-7,7,2025-07-01,Q3,Saturday,True,False,No discount,1k-5k
+TXN-00967,2025-07-26,2025,July,Islamabad - F-7,Islamabad,Groceries,Beverages,Cola 2.25L,3,2350,7050,0.044,310.2,6739.8,F-7,7,2025-07-01,Q3,Saturday,True,True,Up to 5%,5k-20k
+TXN-00237,2025-07-28,2025,July,Hyderabad - Latifabad,Hyderabad,Groceries,Spices,Coriander Powder 200g,1,2200,2200,0.0,0.0,2200.0,Latifabad,7,2025-07-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00647,2025-07-28,2025,July,Karachi - Tariq Road,Karachi,Toys,Action Figures,Superhero Action Figure,1,900,900,0.075,67.5,832.5,Tariq Road,7,2025-07-01,Q3,Monday,False,True,5-10%,Under 1k
+TXN-00785,2025-07-28,2025,July,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Sunscreen SPF 50,1,1150,1150,0.0,0.0,1150.0,Tariq Road,7,2025-07-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00367,2025-07-29,2025,July,Karachi - Tariq Road,Karachi,Groceries,Cooking Oil,Olive Oil 1L,3,1250,3750,0.055,206.25,3543.75,Tariq Road,7,2025-07-01,Q3,Tuesday,False,True,5-10%,1k-5k
+TXN-00540,2025-07-29,2025,July,Karachi - Tariq Road,Karachi,Electronics,Mobiles & Tablets,Phablet 128GB,2,78500,157000,0.098,15386.0,141614.0,Tariq Road,7,2025-07-01,Q3,Tuesday,False,True,5-10%,Over 20k
+TXN-00229,2025-07-30,2025,July,Islamabad - F-7,Islamabad,Groceries,Spices,Red Chilli Powder 200g,4,750,3000,0.0,0.0,3000.0,F-7,7,2025-07-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00105,2025-07-31,2025,July,Islamabad - F-7,Islamabad,Toys,Action Figures,Dinosaur Set,1,1550,1550,0.0,0.0,1550.0,F-7,7,2025-07-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00622,2025-07-31,2025,July,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Grapes 500g,1,420,420,0.0,0.0,420.0,Tariq Road,7,2025-07-01,Q3,Thursday,False,False,No discount,Under 1k
+TXN-00007,2025-08-01,2025,August,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Night Cream 30ml,2,2150,4300,0.026,111.8,4188.2,Tariq Road,8,2025-08-01,Q3,Friday,False,True,Up to 5%,1k-5k
+TXN-00528,2025-08-02,2025,August,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Chana Dal 1kg,6,700,4200,0.021,88.2,4111.8,F-7,8,2025-08-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00111,2025-08-03,2025,August,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Wheat Flour 5kg,1,1650,1650,0.0,0.0,1650.0,Tariq Road,8,2025-08-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00343,2025-08-06,2025,August,Karachi - Tariq Road,Karachi,Groceries,Packaged Foods,Noodles Family Pack,8,1900,15200,0.0,0.0,15200.0,Tariq Road,8,2025-08-01,Q3,Wednesday,False,False,No discount,5k-20k
+TXN-00631,2025-08-06,2025,August,Karachi - Tariq Road,Karachi,Toys,Educational,Number Flash Cards,1,4100,4100,0.14,574.0,3526.0,Tariq Road,8,2025-08-01,Q3,Wednesday,False,True,10-20%,1k-5k
+TXN-00591,2025-08-09,2025,August,Lahore - MM Alam,Lahore,Groceries,Beverages,Mineral Water 1.5L,3,600,1800,0.042,75.60000000000001,1724.4,MM Alam,8,2025-08-01,Q3,Saturday,True,True,Up to 5%,1k-5k
+TXN-00315,2025-08-10,2025,August,Karachi - Tariq Road,Karachi,Bakery,Cakes & Pastries,Cream Pastry,3,1050,3150,0.0,0.0,3150.0,Tariq Road,8,2025-08-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00450,2025-08-10,2025,August,Hyderabad - Latifabad,Hyderabad,Apparel,Footwear,Sneakers (Men),1,3950,3950,0.0,0.0,3950.0,Latifabad,8,2025-08-01,Q3,Sunday,True,False,No discount,1k-5k
+TXN-00870,2025-08-10,2025,August,Lahore - MM Alam,Lahore,Groceries,Spices,Coriander Powder 200g,6,1600,9600,0.0,0.0,9600.0,MM Alam,8,2025-08-01,Q3,Sunday,True,False,No discount,5k-20k
+TXN-00228,2025-08-12,2025,August,Karachi - Tariq Road,Karachi,Cosmetics,Makeup,Kajal Pencil,1,3500,3500,0.0,0.0,3500.0,Tariq Road,8,2025-08-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00766,2025-08-12,2025,August,Hyderabad - Latifabad,Hyderabad,Bakery,Breads,Bread Sticks,5,1450,7250,0.099,717.75,6532.25,Latifabad,8,2025-08-01,Q3,Tuesday,False,True,5-10%,5k-20k
+TXN-00047,2025-08-13,2025,August,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Monopoly Set,3,2950,8850,0.0,0.0,8850.0,Latifabad,8,2025-08-01,Q3,Wednesday,False,False,No discount,5k-20k
+TXN-00277,2025-08-14,2025,August,Lahore - MM Alam,Lahore,Bakery,Breads,Brown Bread Loaf,2,1650,3300,0.085,280.5,3019.5,MM Alam,8,2025-08-01,Q3,Thursday,False,True,5-10%,1k-5k
+TXN-00258,2025-08-15,2025,August,Islamabad - F-7,Islamabad,Toys,Plush Toys,Cartoon Plush Toy,1,3950,3950,0.0,0.0,3950.0,F-7,8,2025-08-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00908,2025-08-15,2025,August,Islamabad - F-7,Islamabad,Groceries,Beverages,Mineral Water 1.5L,3,1700,5100,0.003,15.3,5084.7,F-7,8,2025-08-01,Q3,Friday,False,True,Up to 5%,5k-20k
+TXN-00476,2025-08-16,2025,August,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Smartphone 64GB,2,84000,168000,0.0,0.0,168000.0,F-7,8,2025-08-01,Q3,Saturday,True,False,No discount,Over 20k
+TXN-00632,2025-08-16,2025,August,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Carrots 500g,5,800,4000,0.0,0.0,4000.0,MM Alam,8,2025-08-01,Q3,Saturday,True,False,No discount,1k-5k
+TXN-00637,2025-08-16,2025,August,Lahore - MM Alam,Lahore,Fresh Produce,Meat & Poultry,Chicken Breast 1kg,2,320,640,0.0,0.0,640.0,MM Alam,8,2025-08-01,Q3,Saturday,True,False,No discount,Under 1k
+TXN-00818,2025-08-17,2025,August,Islamabad - F-7,Islamabad,Bakery,Cakes & Pastries,Cream Pastry,12,1100,13200,0.0,0.0,13200.0,F-7,8,2025-08-01,Q3,Sunday,True,False,No discount,5k-20k
+TXN-00974,2025-08-17,2025,August,Karachi - Tariq Road,Karachi,Cosmetics,Fragrances,Attar 12ml,2,1650,3300,0.124,409.2,2890.8,Tariq Road,8,2025-08-01,Q3,Sunday,True,True,10-20%,1k-5k
+TXN-00617,2025-08-18,2025,August,Karachi - Tariq Road,Karachi,Electronics,Gadgets,USB Cable Type-C,1,75500,75500,0.094,7097.0,68403.0,Tariq Road,8,2025-08-01,Q3,Monday,False,True,5-10%,Over 20k
+TXN-00646,2025-08-18,2025,August,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Samosa Pack (12pc),2,750,1500,0.019,28.5,1471.5,Latifabad,8,2025-08-01,Q3,Monday,False,True,Up to 5%,1k-5k
+TXN-00850,2025-08-18,2025,August,Islamabad - F-7,Islamabad,Electronics,Gadgets,Phone Case Set,1,80000,80000,0.143,11439.999999999998,68560.0,F-7,8,2025-08-01,Q3,Monday,False,True,10-20%,Over 20k
+TXN-00895,2025-08-18,2025,August,Hyderabad - Latifabad,Hyderabad,Groceries,Lentils & Beans,Moong Dal 1kg,6,1500,9000,0.046,414.0,8586.0,Latifabad,8,2025-08-01,Q3,Monday,False,True,Up to 5%,5k-20k
+TXN-00424,2025-08-19,2025,August,Lahore - MM Alam,Lahore,Bakery,Breads,Brown Bread Loaf,5,800,4000,0.0,0.0,4000.0,MM Alam,8,2025-08-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00896,2025-08-19,2025,August,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Body Wash 500ml,2,1000,2000,0.0,0.0,2000.0,Latifabad,8,2025-08-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00035,2025-08-20,2025,August,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Ludo Family Set,4,1150,4600,0.297,1366.2,3233.8,Latifabad,8,2025-08-01,Q3,Wednesday,False,True,Over 20%,1k-5k
+TXN-00354,2025-08-21,2025,August,Islamabad - F-7,Islamabad,Groceries,Beverages,Tea Pack 500g,4,2200,8800,0.0,0.0,8800.0,F-7,8,2025-08-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00900,2025-08-23,2025,August,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Digestive Biscuits,1,490,490,0.099,48.510000000000005,441.49,Latifabad,8,2025-08-01,Q3,Saturday,True,True,5-10%,Under 1k
+TXN-00679,2025-08-25,2025,August,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Noodles Family Pack,8,460,3680,0.0,0.0,3680.0,Latifabad,8,2025-08-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00635,2025-08-26,2025,August,Lahore - MM Alam,Lahore,Cosmetics,Fragrances,Perfume 50ml (Men),3,4200,12600,0.0,0.0,12600.0,MM Alam,8,2025-08-01,Q3,Tuesday,False,False,No discount,5k-20k
+TXN-00613,2025-09-01,2025,September,Islamabad - F-7,Islamabad,Apparel,Women's Wear,Embroidered Kurti,1,5000,5000,0.0,0.0,5000.0,F-7,9,2025-09-01,Q3,Monday,False,False,No discount,5k-20k
+TXN-00836,2025-09-01,2025,September,Lahore - MM Alam,Lahore,Fresh Produce,Dairy,Cheese 200g,1,1150,1150,0.027,31.05,1118.95,MM Alam,9,2025-09-01,Q3,Monday,False,True,Up to 5%,1k-5k
+TXN-00873,2025-09-02,2025,September,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Embroidered Kurti,1,6000,6000,0.0,0.0,6000.0,Latifabad,9,2025-09-01,Q3,Tuesday,False,False,No discount,5k-20k
+TXN-00322,2025-09-05,2025,September,Karachi - Tariq Road,Karachi,Fresh Produce,Fruits,Mangoes 1kg,3,900,2700,0.0,0.0,2700.0,Tariq Road,9,2025-09-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00247,2025-09-06,2025,September,Islamabad - F-7,Islamabad,Bakery,Cookies,Digestive Biscuits,1,260,260,0.0,0.0,260.0,F-7,9,2025-09-01,Q3,Saturday,True,False,No discount,Under 1k
+TXN-00261,2025-09-07,2025,September,Karachi - Tariq Road,Karachi,Bakery,Cookies,Marie Biscuits Family Pack,2,550,1100,0.091,100.1,999.9,Tariq Road,9,2025-09-01,Q3,Sunday,True,True,5-10%,Under 1k
+TXN-00512,2025-09-07,2025,September,Islamabad - F-7,Islamabad,Cosmetics,Makeup,BB Cream 30ml,2,3050,6100,0.0,0.0,6100.0,F-7,9,2025-09-01,Q3,Sunday,True,False,No discount,5k-20k
+TXN-00488,2025-09-11,2025,September,Islamabad - F-7,Islamabad,Apparel,Men's Wear,Casual Shirt,1,1100,1100,0.0,0.0,1100.0,F-7,9,2025-09-01,Q3,Thursday,False,False,No discount,1k-5k
+TXN-00716,2025-09-12,2025,September,Lahore - MM Alam,Lahore,Electronics,Mobiles & Tablets,Smartphone 64GB,1,8000,8000,0.0,0.0,8000.0,MM Alam,9,2025-09-01,Q3,Friday,False,False,No discount,5k-20k
+TXN-00096,2025-09-15,2025,September,Karachi - Tariq Road,Karachi,Groceries,Rice & Grains,Basmati Rice 5kg,3,1250,3750,0.0,0.0,3750.0,Tariq Road,9,2025-09-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00140,2025-09-15,2025,September,Lahore - MM Alam,Lahore,Bakery,Cookies,Chocolate Chip Cookies,2,1450,2900,0.0,0.0,2900.0,MM Alam,9,2025-09-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00929,2025-09-16,2025,September,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Night Cream 30ml,1,2150,2150,0.056,120.4,2029.6,Tariq Road,9,2025-09-01,Q3,Tuesday,False,True,5-10%,1k-5k
+TXN-00977,2025-09-18,2025,September,Islamabad - F-7,Islamabad,Toys,Educational,Geography Globe,3,1500,4500,0.18,810.0,3690.0,F-7,9,2025-09-01,Q3,Thursday,False,True,10-20%,1k-5k
+TXN-00186,2025-09-22,2025,September,Hyderabad - Latifabad,Hyderabad,Cosmetics,Makeup,Kajal Pencil,1,2450,2450,0.046,112.7,2337.3,Latifabad,9,2025-09-01,Q3,Monday,False,True,Up to 5%,1k-5k
+TXN-00443,2025-09-23,2025,September,Hyderabad - Latifabad,Hyderabad,Toys,Educational,Number Flash Cards,1,3200,3200,0.0,0.0,3200.0,Latifabad,9,2025-09-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00732,2025-09-23,2025,September,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids Jeans,1,3900,3900,0.0,0.0,3900.0,F-7,9,2025-09-01,Q3,Tuesday,False,False,No discount,1k-5k
+TXN-00446,2025-09-24,2025,September,Karachi - Tariq Road,Karachi,Household,Laundry,Fabric Softener 2L,1,3700,3700,0.0,0.0,3700.0,Tariq Road,9,2025-09-01,Q3,Wednesday,False,False,No discount,1k-5k
+TXN-00198,2025-09-25,2025,September,Lahore - MM Alam,Lahore,Household,Kitchenware,Glass Set (6pc),3,2000,6000,0.0,0.0,6000.0,MM Alam,9,2025-09-01,Q3,Thursday,False,False,No discount,5k-20k
+TXN-00320,2025-09-25,2025,September,Karachi - Tariq Road,Karachi,Household,Laundry,Detergent Powder 3kg,3,2500,7500,0.105,787.5,6712.5,Tariq Road,9,2025-09-01,Q3,Thursday,False,True,10-20%,5k-20k
+TXN-00448,2025-09-25,2025,September,Karachi - Tariq Road,Karachi,Toys,Educational,Alphabet Block Set,1,4150,4150,0.281,1166.15,2983.85,Tariq Road,9,2025-09-01,Q3,Thursday,False,True,Over 20%,1k-5k
+TXN-00386,2025-09-26,2025,September,Hyderabad - Latifabad,Hyderabad,Household,Laundry,Detergent Powder 3kg,1,3200,3200,0.0,0.0,3200.0,Latifabad,9,2025-09-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00594,2025-09-26,2025,September,Islamabad - F-7,Islamabad,Fresh Produce,Meat & Poultry,Mutton 1kg,4,470,1880,0.0,0.0,1880.0,F-7,9,2025-09-01,Q3,Friday,False,False,No discount,1k-5k
+TXN-00545,2025-09-27,2025,September,Karachi - Tariq Road,Karachi,Apparel,Men's Wear,Denim Jeans,1,4850,4850,0.218,1057.3,3792.7,Tariq Road,9,2025-09-01,Q3,Saturday,True,True,Over 20%,1k-5k
+TXN-00871,2025-09-27,2025,September,Islamabad - F-7,Islamabad,Bakery,Cookies,Marie Biscuits Family Pack,4,1750,7000,0.087,609.0,6391.0,F-7,9,2025-09-01,Q3,Saturday,True,True,5-10%,5k-20k
+TXN-00960,2025-09-27,2025,September,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Basmati Rice 5kg,12,2350,28200,0.0,0.0,28200.0,Latifabad,9,2025-09-01,Q3,Saturday,True,False,No discount,Over 20k
+TXN-00337,2025-09-29,2025,September,Islamabad - F-7,Islamabad,Groceries,Beverages,Tea Pack 500g,1,1050,1050,0.0,0.0,1050.0,F-7,9,2025-09-01,Q3,Monday,False,False,No discount,1k-5k
+TXN-00123,2025-10-02,2025,October,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Butter 200g,1,220,220,0.0,0.0,220.0,Tariq Road,10,2025-10-01,Q4,Thursday,False,False,No discount,Under 1k
+TXN-00587,2025-10-03,2025,October,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Dairy,Cheese 200g,4,750,3000,0.0,0.0,3000.0,Latifabad,10,2025-10-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00255,2025-10-04,2025,October,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Bananas 1 dozen,5,1000,5000,0.0,0.0,5000.0,MM Alam,10,2025-10-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00323,2025-10-06,2025,October,Islamabad - F-7,Islamabad,Bakery,Savoury,Pizza Base (2pc),2,1000,2000,0.075,150.0,1850.0,F-7,10,2025-10-01,Q4,Monday,False,True,5-10%,1k-5k
+TXN-00072,2025-10-07,2025,October,Islamabad - F-7,Islamabad,Household,Laundry,Liquid Detergent 2L,1,2400,2400,0.0,0.0,2400.0,F-7,10,2025-10-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00495,2025-10-07,2025,October,Lahore - MM Alam,Lahore,Toys,Educational,Stem Kit,3,3150,9450,0.232,2192.4,7257.6,MM Alam,10,2025-10-01,Q4,Tuesday,False,True,Over 20%,5k-20k
+TXN-00550,2025-10-08,2025,October,Karachi - Tariq Road,Karachi,Cosmetics,Makeup,Foundation 30ml,1,2100,2100,0.0,0.0,2100.0,Tariq Road,10,2025-10-01,Q4,Wednesday,False,False,No discount,1k-5k
+TXN-00202,2025-10-09,2025,October,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Oranges 1kg,2,100,200,0.0,0.0,200.0,F-7,10,2025-10-01,Q4,Thursday,False,False,No discount,Under 1k
+TXN-00603,2025-10-09,2025,October,Hyderabad - Latifabad,Hyderabad,Cosmetics,Fragrances,Perfume 50ml (Women),3,3900,11700,0.0,0.0,11700.0,Latifabad,10,2025-10-01,Q4,Thursday,False,False,No discount,5k-20k
+TXN-00043,2025-10-13,2025,October,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Embroidered Kurti,1,2600,2600,0.0,0.0,2600.0,Latifabad,10,2025-10-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00250,2025-10-16,2025,October,Karachi - Tariq Road,Karachi,Bakery,Cookies,Coconut Biscuits,3,800,2400,0.098,235.20000000000002,2164.8,Tariq Road,10,2025-10-01,Q4,Thursday,False,True,5-10%,1k-5k
+TXN-00232,2025-10-17,2025,October,Lahore - MM Alam,Lahore,Bakery,Savoury,Patties Pack (6pc),1,1300,1300,0.0,0.0,1300.0,MM Alam,10,2025-10-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00132,2025-10-18,2025,October,Islamabad - F-7,Islamabad,Household,Laundry,Liquid Detergent 2L,2,1250,2500,0.0,0.0,2500.0,F-7,10,2025-10-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00872,2025-10-19,2025,October,Karachi - Tariq Road,Karachi,Toys,Educational,Alphabet Block Set,1,2300,2300,0.0,0.0,2300.0,Tariq Road,10,2025-10-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00177,2025-10-20,2025,October,Lahore - MM Alam,Lahore,Apparel,Footwear,Sneakers (Men),1,6000,6000,0.0,0.0,6000.0,MM Alam,10,2025-10-01,Q4,Monday,False,False,No discount,5k-20k
+TXN-00624,2025-10-20,2025,October,Hyderabad - Latifabad,Hyderabad,Bakery,Savoury,Samosa Pack (12pc),1,1350,1350,0.0,0.0,1350.0,Latifabad,10,2025-10-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00822,2025-10-21,2025,October,Hyderabad - Latifabad,Hyderabad,Fresh Produce,Meat & Poultry,Beef Boneless 1kg,3,470,1410,0.0,0.0,1410.0,Latifabad,10,2025-10-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00910,2025-10-21,2025,October,Lahore - MM Alam,Lahore,Cosmetics,Personal Care,Body Wash 500ml,1,4100,4100,0.0,0.0,4100.0,MM Alam,10,2025-10-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00769,2025-10-23,2025,October,Lahore - MM Alam,Lahore,Groceries,Lentils & Beans,Moong Dal 1kg,1,1700,1700,0.0,0.0,1700.0,MM Alam,10,2025-10-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00729,2025-10-24,2025,October,Hyderabad - Latifabad,Hyderabad,Household,Home Essentials,Bed Sheet Set,2,1250,2500,0.0,0.0,2500.0,Latifabad,10,2025-10-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00012,2025-10-25,2025,October,Lahore - MM Alam,Lahore,Toys,Plush Toys,Soft Toy (Big),3,3750,11250,0.0,0.0,11250.0,MM Alam,10,2025-10-01,Q4,Saturday,True,False,No discount,5k-20k
+TXN-00472,2025-10-25,2025,October,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Feature Phone,1,28000,28000,0.108,3024.0,24976.0,F-7,10,2025-10-01,Q4,Saturday,True,True,10-20%,Over 20k
+TXN-00653,2025-10-27,2025,October,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Oranges 1kg,2,650,1300,0.0,0.0,1300.0,F-7,10,2025-10-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00522,2025-10-29,2025,October,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Hair Oil 200ml,4,3200,12800,0.022,281.59999999999997,12518.4,Latifabad,10,2025-10-01,Q4,Wednesday,False,True,Up to 5%,5k-20k
+TXN-00979,2025-10-30,2025,October,Islamabad - F-7,Islamabad,Fresh Produce,Fruits,Grapes 500g,3,750,2250,0.0,0.0,2250.0,F-7,10,2025-10-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00013,2025-10-31,2025,October,Karachi - Tariq Road,Karachi,Apparel,Men's Wear,T-Shirt (Pack of 2),2,3050,6100,0.0,0.0,6100.0,Tariq Road,10,2025-10-01,Q4,Friday,False,False,No discount,5k-20k
+TXN-00572,2025-11-01,2025,November,Islamabad - F-7,Islamabad,Household,Cleaning Supplies,Dishwash Liquid 1L,1,3400,3400,0.0,0.0,3400.0,F-7,11,2025-11-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00803,2025-11-01,2025,November,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Stuffed Animal Set,1,600,600,0.187,112.2,487.8,Tariq Road,11,2025-11-01,Q4,Saturday,True,True,10-20%,Under 1k
+TXN-00388,2025-11-02,2025,November,Islamabad - F-7,Islamabad,Toys,Action Figures,Superhero Action Figure,1,4050,4050,0.064,259.2,3790.8,F-7,11,2025-11-01,Q4,Sunday,True,True,5-10%,1k-5k
+TXN-00799,2025-11-04,2025,November,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Masoor Dal 1kg,6,300,1800,0.0,0.0,1800.0,F-7,11,2025-11-01,Q4,Tuesday,False,False,No discount,1k-5k
+TXN-00310,2025-11-06,2025,November,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Sandwich Maker,1,3800,3800,0.0,0.0,3800.0,Latifabad,11,2025-11-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00605,2025-11-06,2025,November,Lahore - MM Alam,Lahore,Toys,Board Games,Monopoly Set,2,1400,2800,0.068,190.4,2609.6,MM Alam,11,2025-11-01,Q4,Thursday,False,True,5-10%,1k-5k
+TXN-00630,2025-11-06,2025,November,Lahore - MM Alam,Lahore,Apparel,Women's Wear,Lawn Suit (3pc),1,4550,4550,0.087,395.84999999999997,4154.15,MM Alam,11,2025-11-01,Q4,Thursday,False,True,5-10%,1k-5k
+TXN-00754,2025-11-09,2025,November,Hyderabad - Latifabad,Hyderabad,Groceries,Rice & Grains,Sella Rice 10kg,6,1100,6600,0.05,330.0,6270.0,Latifabad,11,2025-11-01,Q4,Sunday,True,True,Up to 5%,5k-20k
+TXN-00899,2025-11-09,2025,November,Karachi - Tariq Road,Karachi,Cosmetics,Personal Care,Body Wash 500ml,1,4050,4050,0.054,218.7,3831.3,Tariq Road,11,2025-11-01,Q4,Sunday,True,True,5-10%,1k-5k
+TXN-00015,2025-11-10,2025,November,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Fresh Milk 1L,1,750,750,0.0,0.0,750.0,F-7,11,2025-11-01,Q4,Monday,False,False,No discount,Under 1k
+TXN-00018,2025-11-10,2025,November,Karachi - Tariq Road,Karachi,Household,Laundry,Detergent Powder 3kg,1,2750,2750,0.0,0.0,2750.0,Tariq Road,11,2025-11-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00278,2025-11-10,2025,November,Islamabad - F-7,Islamabad,Toys,Board Games,Puzzle (100pc),1,2550,2550,0.0,0.0,2550.0,F-7,11,2025-11-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00657,2025-11-13,2025,November,Karachi - Tariq Road,Karachi,Cosmetics,Makeup,BB Cream 30ml,1,2100,2100,0.0,0.0,2100.0,Tariq Road,11,2025-11-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00990,2025-11-13,2025,November,Karachi - Tariq Road,Karachi,Toys,Action Figures,Robot Toy,2,1000,2000,0.206,412.0,1588.0,Tariq Road,11,2025-11-01,Q4,Thursday,False,True,Over 20%,1k-5k
+TXN-00656,2025-11-14,2025,November,Karachi - Tariq Road,Karachi,Toys,Plush Toys,Cartoon Plush Toy,1,1350,1350,0.0,0.0,1350.0,Tariq Road,11,2025-11-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00575,2025-11-15,2025,November,Islamabad - F-7,Islamabad,Groceries,Packaged Foods,Tomato Ketchup 1L,1,1250,1250,0.007,8.75,1241.25,F-7,11,2025-11-01,Q4,Saturday,True,True,Up to 5%,1k-5k
+TXN-00727,2025-11-15,2025,November,Karachi - Tariq Road,Karachi,Household,Kitchenware,Cutlery Set (12pc),2,410,820,0.0,0.0,820.0,Tariq Road,11,2025-11-01,Q4,Saturday,True,False,No discount,Under 1k
+TXN-00659,2025-11-22,2025,November,Lahore - MM Alam,Lahore,Apparel,Men's Wear,Denim Jeans,1,1100,1100,0.239,262.9,837.1,MM Alam,11,2025-11-01,Q4,Saturday,True,True,Over 20%,Under 1k
+TXN-00497,2025-11-23,2025,November,Hyderabad - Latifabad,Hyderabad,Groceries,Spices,Garam Masala 100g,3,500,1500,0.0,0.0,1500.0,Latifabad,11,2025-11-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00147,2025-11-24,2025,November,Karachi - Tariq Road,Karachi,Apparel,Kids Wear,Kids Frock,1,3700,3700,0.0,0.0,3700.0,Tariq Road,11,2025-11-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00855,2025-11-26,2025,November,Lahore - MM Alam,Lahore,Cosmetics,Personal Care,Body Wash 500ml,4,1700,6800,0.0,0.0,6800.0,MM Alam,11,2025-11-01,Q4,Wednesday,False,False,No discount,5k-20k
+TXN-00241,2025-11-27,2025,November,Hyderabad - Latifabad,Hyderabad,Electronics,Small Appliances,Juicer Blender,1,34500,34500,0.0,0.0,34500.0,Latifabad,11,2025-11-01,Q4,Thursday,False,False,No discount,Over 20k
+TXN-00183,2025-11-28,2025,November,Karachi - Tariq Road,Karachi,Toys,Board Games,Ludo Family Set,1,4050,4050,0.0,0.0,4050.0,Tariq Road,11,2025-11-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00005,2025-11-30,2025,November,Islamabad - F-7,Islamabad,Bakery,Cookies,Marie Biscuits Family Pack,8,1100,8800,0.0,0.0,8800.0,F-7,11,2025-11-01,Q4,Sunday,True,False,No discount,5k-20k
+TXN-00730,2025-12-01,2025,December,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids T-Shirt,1,2500,2500,0.0,0.0,2500.0,F-7,12,2025-12-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00758,2025-12-01,2025,December,Karachi - Tariq Road,Karachi,Apparel,Women's Wear,Embroidered Kurti,2,3900,7800,0.054,421.2,7378.8,Tariq Road,12,2025-12-01,Q4,Monday,False,True,5-10%,5k-20k
+TXN-00357,2025-12-02,2025,December,Islamabad - F-7,Islamabad,Groceries,Lentils & Beans,Moong Dal 1kg,3,1250,3750,0.049,183.75,3566.25,F-7,12,2025-12-01,Q4,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00844,2025-12-02,2025,December,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Butter 200g,1,110,110,0.0,0.0,110.0,Tariq Road,12,2025-12-01,Q4,Tuesday,False,False,No discount,Under 1k
+TXN-00206,2025-12-03,2025,December,Lahore - MM Alam,Lahore,Groceries,Spices,Turmeric Powder 200g,1,1050,1050,0.015,15.75,1034.25,MM Alam,12,2025-12-01,Q4,Wednesday,False,True,Up to 5%,1k-5k
+TXN-00257,2025-12-04,2025,December,Islamabad - F-7,Islamabad,Bakery,Savoury,Samosa Pack (12pc),8,800,6400,0.0,0.0,6400.0,F-7,12,2025-12-01,Q4,Thursday,False,False,No discount,5k-20k
+TXN-00576,2025-12-04,2025,December,Hyderabad - Latifabad,Hyderabad,Apparel,Kids Wear,Kids Frock,1,4350,4350,0.0,0.0,4350.0,Latifabad,12,2025-12-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00541,2025-12-05,2025,December,Islamabad - F-7,Islamabad,Apparel,Kids Wear,Kids T-Shirt,1,4400,4400,0.0,0.0,4400.0,F-7,12,2025-12-01,Q4,Friday,False,False,No discount,1k-5k
+TXN-00130,2025-12-07,2025,December,Islamabad - F-7,Islamabad,Fresh Produce,Dairy,Eggs (Tray of 30),5,480,2400,0.003,7.2,2392.8,F-7,12,2025-12-01,Q4,Sunday,True,True,Up to 5%,1k-5k
+TXN-00479,2025-12-09,2025,December,Karachi - Tariq Road,Karachi,Groceries,Spices,Turmeric Powder 200g,2,1350,2700,0.02,54.0,2646.0,Tariq Road,12,2025-12-01,Q4,Tuesday,False,True,Up to 5%,1k-5k
+TXN-00521,2025-12-10,2025,December,Islamabad - F-7,Islamabad,Electronics,Mobiles & Tablets,Phablet 128GB,1,35500,35500,0.076,2698.0,32802.0,F-7,12,2025-12-01,Q4,Wednesday,False,True,5-10%,Over 20k
+TXN-00356,2025-12-11,2025,December,Hyderabad - Latifabad,Hyderabad,Toys,Action Figures,Robot Toy,2,3250,6500,0.265,1722.5,4777.5,Latifabad,12,2025-12-01,Q4,Thursday,False,True,Over 20%,1k-5k
+TXN-00447,2025-12-13,2025,December,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Potatoes 1kg,3,900,2700,0.02,54.0,2646.0,MM Alam,12,2025-12-01,Q4,Saturday,True,True,Up to 5%,1k-5k
+TXN-00915,2025-12-13,2025,December,Karachi - Tariq Road,Karachi,Groceries,Beverages,Tea Pack 500g,6,550,3300,0.0,0.0,3300.0,Tariq Road,12,2025-12-01,Q4,Saturday,True,False,No discount,1k-5k
+TXN-00568,2025-12-14,2025,December,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Coconut Biscuits,2,1100,2200,0.0,0.0,2200.0,Latifabad,12,2025-12-01,Q4,Sunday,True,False,No discount,1k-5k
+TXN-00570,2025-12-14,2025,December,Karachi - Tariq Road,Karachi,Fresh Produce,Dairy,Cheese 200g,2,700,1400,0.035,49.00000000000001,1351.0,Tariq Road,12,2025-12-01,Q4,Sunday,True,True,Up to 5%,1k-5k
+TXN-00997,2025-12-14,2025,December,Lahore - MM Alam,Lahore,Apparel,Footwear,Sandal (Women),1,1400,1400,0.161,225.4,1174.6,MM Alam,12,2025-12-01,Q4,Sunday,True,True,10-20%,1k-5k
+TXN-00772,2025-12-15,2025,December,Hyderabad - Latifabad,Hyderabad,Electronics,Audio & Accessories,Wireless Earbuds,1,27000,27000,0.0,0.0,27000.0,Latifabad,12,2025-12-01,Q4,Monday,False,False,No discount,Over 20k
+TXN-00252,2025-12-16,2025,December,Hyderabad - Latifabad,Hyderabad,Groceries,Packaged Foods,Tomato Ketchup 1L,3,2450,7350,0.0,0.0,7350.0,Latifabad,12,2025-12-01,Q4,Tuesday,False,False,No discount,5k-20k
+TXN-00413,2025-12-16,2025,December,Karachi - Tariq Road,Karachi,Groceries,Beverages,Coffee Jar 200g,1,650,650,0.0,0.0,650.0,Tariq Road,12,2025-12-01,Q4,Tuesday,False,False,No discount,Under 1k
+TXN-00560,2025-12-16,2025,December,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Hair Oil 200ml,3,2400,7200,0.0,0.0,7200.0,Latifabad,12,2025-12-01,Q4,Tuesday,False,False,No discount,5k-20k
+TXN-00350,2025-12-18,2025,December,Lahore - MM Alam,Lahore,Fresh Produce,Vegetables,Onions 1kg,5,750,3750,0.0,0.0,3750.0,MM Alam,12,2025-12-01,Q4,Thursday,False,False,No discount,1k-5k
+TXN-00897,2025-12-19,2025,December,Hyderabad - Latifabad,Hyderabad,Bakery,Cookies,Chocolate Chip Cookies,2,330,660,0.056,36.96,623.04,Latifabad,12,2025-12-01,Q4,Friday,False,True,5-10%,Under 1k
+TXN-00113,2025-12-20,2025,December,Lahore - MM Alam,Lahore,Fresh Produce,Fruits,Mangoes 1kg,1,550,550,0.0,0.0,550.0,MM Alam,12,2025-12-01,Q4,Saturday,True,False,No discount,Under 1k
+TXN-00037,2025-12-22,2025,December,Hyderabad - Latifabad,Hyderabad,Groceries,Lentils & Beans,Moong Dal 1kg,3,1000,3000,0.017,51.00000000000001,2949.0,Latifabad,12,2025-12-01,Q4,Monday,False,True,Up to 5%,1k-5k
+TXN-00098,2025-12-22,2025,December,Hyderabad - Latifabad,Hyderabad,Cosmetics,Personal Care,Shampoo 400ml,2,2300,4600,0.0,0.0,4600.0,Latifabad,12,2025-12-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00841,2025-12-22,2025,December,Hyderabad - Latifabad,Hyderabad,Toys,Board Games,Puzzle (100pc),1,850,850,0.0,0.0,850.0,Latifabad,12,2025-12-01,Q4,Monday,False,False,No discount,Under 1k
+TXN-00008,2025-12-24,2025,December,Hyderabad - Latifabad,Hyderabad,Apparel,Women's Wear,Stitched Trouser,2,3350,6700,0.201,1346.7,5353.3,Latifabad,12,2025-12-01,Q4,Wednesday,False,True,Over 20%,5k-20k
+TXN-00953,2025-12-27,2025,December,Karachi - Tariq Road,Karachi,Cosmetics,Skincare,Sunscreen SPF 50,2,4050,8100,0.074,599.4,7500.6,Tariq Road,12,2025-12-01,Q4,Saturday,True,True,5-10%,5k-20k
+TXN-00988,2025-12-27,2025,December,Lahore - MM Alam,Lahore,Electronics,Audio & Accessories,Wired Headphones,1,84000,84000,0.0,0.0,84000.0,MM Alam,12,2025-12-01,Q4,Saturday,True,False,No discount,Over 20k
+TXN-00827,2025-12-29,2025,December,Islamabad - F-7,Islamabad,Cosmetics,Makeup,BB Cream 30ml,1,2200,2200,0.0,0.0,2200.0,F-7,12,2025-12-01,Q4,Monday,False,False,No discount,1k-5k
+TXN-00677,2025-12-31,2025,December,Karachi - Tariq Road,Karachi,Household,Cleaning Supplies,Toilet Cleaner 1L,2,3600,7200,0.028,201.6,6998.4,Tariq Road,12,2025-12-01,Q4,Wednesday,False,True,Up to 5%,5k-20k
+TXN-00719,2025-12-31,2025,December,Karachi - Tariq Road,Karachi,Apparel,Women's Wear,Stitched Trouser,1,5500,5500,0.0,0.0,5500.0,Tariq Road,12,2025-12-01,Q4,Wednesday,False,False,No discount,5k-20k

@@ -1,0 +1,17 @@
+Step,Issue found,Action taken,Rows affected
+Schema,"Column names contain spaces/units, e.g. 'Net Sales (PKR)'","Renamed to compact names (NetSales, UnitPrice, ...); all amounts are PKR",7
+Whitespace,Leading/trailing spaces in text fields,Trimmed,0
+Data types,Dates / numeric fields parsed,Converted; unparseable values become missing,0
+Duplicates,Exact duplicate rows / repeated TransactionID,Removed (first kept),0
+Missing values,Rows missing a required field,None found,0
+Validation,Rule: GrossSales = Quantity x UnitPrice,Passed,0
+Validation,Rule: DiscountAmt = GrossSales x Discount %,Passed,0
+Validation,Rule: NetSales = GrossSales - DiscountAmt,Passed,0
+Validation,Non-positive quantity / price / net sales,Passed,0
+Validation,Discount % outside 0-100%,Passed,0
+Validation,Year / Month columns agree with Date,Passed,0
+Validation,City agrees with Branch,Passed,0
+Validation,Product > Subcategory > Category hierarchy is consistent,Passed,0
+Data quality flag,"Unit price varies more than 5x within the same product for 81 of 138 products (e.g. one 'Smartphone 64GB' sells at PKR 5,000 and PKR 84,000)",Kept as recorded; analysis focuses on revenue by category/branch/time rather than SKU price. Worth checking at the source.,81
+Outliers,Transactions above 1.5xIQR of their category's net sales,Retained (genuine large baskets),66
+Feature engineering,"Derived: YearMonth, Quarter, Weekday, IsWeekend, Discounted, DiscountBand, TicketBand, BranchShort",Added,8
